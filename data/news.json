@@ -1,24 +1,181 @@
 {
-  "updated": "2026-07-24T18:00:00Z",
-  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
-  "items": [
-    { "cat": "codeblue", "source": "CodeBlue BC", "date": "2026-07-23", "title": "Why Building More Reservoirs Won't Solve BC's Water Problem", "url": "https://www.codebluebc.ca/why-building-more-reservoirs-wont-solve-bcs-water-problem" },
-    { "cat": "coalition", "source": "BC Watershed Security Coalition", "date": "2026-07-14", "title": "Commitment to Reconciliation", "url": "https://watershedsecurity.ca/news/" },
-    { "cat": "coalition", "source": "BC Watershed Security Coalition", "date": "2026-06-17", "title": "Media Release: On World Drought Day, BC Coalition Calls for Provincial Action on Drought and Water Scarcity", "url": "https://watershedsecurity.ca/media-release-world-drought-day/" },
-    { "cat": "media", "source": "CHEK News", "date": "2026-06-12", "title": "Vancouver Island snowpack at 0% normal levels for June", "url": "https://cheknews.ca/vancouver-island-snowpack-at-0-normal-levels-for-june-1328828/" },
-    { "cat": "media", "source": "Global News", "date": "2026-06-11", "title": "Security needs to be a higher financial priority: BC Watershed Security Coalition", "url": "https://globalnews.ca/video/11892995/salmon-watchdogs-claim-dfo-is-cutting-back-on-monitoring" },
-    { "cat": "media", "source": "Vernon Morning Star", "date": "2026-06-03", "title": "No sprinkling in North Okanagan under historic water restrictions", "url": "https://vernonmorningstar.com/2026/06/03/water-restrictions-amp-up-to-historic-level-in-north-okanagan/" },
-    { "cat": "media", "source": "CHEK News", "date": "2026-06-20", "title": "Snuneymuxw First Nation saves young salmon as Nanaimo River side channels dry up", "url": "https://cheknews.ca/snuneymuxw-first-nation-saves-young-salmon-as-nanaimo-river-side-channels-dry-up-1331614/",   "hidden": false },
-    { "cat": "codeblue", "source": "CodeBlue BC", "date": "2026-04-21", "title": "Small, Warty, and Remarkable: The Western Toad — Five Facts", "url": "https://www.codebluebc.ca/western-toad" },
-    { "cat": "media", "source": "Vancouver Sun", "date": "2026-07-01", "title": "Opinion: Drought is here. Why aren't we acting like it?", "url": "https://vancouversun.com/opinion/op-ed/opinion-drought-is-here-why-arent-we-acting-like-it" },
-    { "cat": "media", "source": "The Conversation", "date": "2026-06-25", "title": "New study finds clear-cut logging can dramatically increase flood risk", "url": "https://theconversation.com/new-study-finds-clear-cut-logging-can-dramatically-increase-flood-risk-284825" },
-    { "cat": "codeblue", "source": "CodeBlue BC", "date": "2026-02-19", "title": "The Western Painted Turtle is BC's Coolest Local: Five Facts", "url": "https://www.codebluebc.ca/western-painted-turtle" },
-    { "cat": "coalition", "source": "BC Watershed Security Coalition", "date": "2026-02-17", "title": "Media Release: BC Budget Misses Opportunity to Generate New Revenue, Strengthen Watershed Security, Jobs, and Economic Resilience", "url": "https://watershedsecurity.ca/media-release-bc-budget-misses-opportunity-to-generate-new-revenue-strengthen-watershed-security-jobs-and-economic-resilience/" },
-    { "cat": "coalition", "source": "BC Watershed Security Coalition", "date": "2026-01-23", "title": "Open Letter: 46 Local Government Elected Officials Calling for Action to Strengthen Watershed Security", "url": "https://watershedsecurity.ca/open-letter-46-local-government-elected-officials-calling-for-action-to-strengthen-watershed-security/" },
-    { "cat": "media", "source": "CBC News", "date": "2026-05-30", "title": "Metro Vancouver is running out of drinking water — and the solutions are interesting", "url": "https://www.cbc.ca/news/canada/british-columbia/metro-vancouver-drinking-water-shortage-9.7183804" },
-    { "cat": "codeblue", "source": "CodeBlue BC", "date": "2025-11-10", "title": "Time to Get Serious About the Price of Water in BC", "url": "https://www.codebluebc.ca/time-to-get-serious-about-the-price-of-water-in-bc" },
-    { "cat": "coalition", "source": "BC Watershed Security Coalition", "date": "2025-10-27", "title": "B.C. Charges Canada's Lowest Industrial Water Rates, Finds Report", "url": "https://watershedsecurity.ca/b-c-charges-canadas-lowest-industrial-water-rates-finds-report/" },
-    { "cat": "media", "source": "The Narwhal", "date": "2026-03-15", "title": "Why B.C. is flooding — again", "url": "https://thenarwhal.ca/bc-atmospheric-river-flooding-risk-2026/" },
-    { "cat": "codeblue", "source": "CodeBlue BC", "date": "2025-01-31", "title": "Why Is BC Giving Away Its Fresh Water for Next to Nothing?", "url": "https://www.codebluebc.ca/why-is-bc-giving-away-its-fresh-water" }
-  ]
+ "updated": "2026-07-24T12:03:33.670Z",
+ "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
+ "items": [
+  {
+   "cat": "codeblue",
+   "source": "CodeBlue BC",
+   "date": "2026-07-23",
+   "title": "Why Building More Reservoirs Won't Solve BC's Water Problem",
+   "url": "https://www.codebluebc.ca/why-building-more-reservoirs-wont-solve-bcs-water-problem"
+  },
+  {
+   "cat": "media",
+   "source": "BC Gov News",
+   "title": "Urging people, businesses to conserve water",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hMy1YQmlnU0hFd0tFWGVBM3h1YU16d2FxUUQ0OU5NZlRVLWVwNXVDWFpOSTROd2t2eEtWZ3Zzem43cVY4czlZTFoyWHV0UGNLSTNjc0h0eGpqUnVsVDRPRA?oc=5",
+   "date": "2026-07-14"
+  },
+  {
+   "cat": "media",
+   "source": "CTV News",
+   "title": "B.C. issues water warning amid drought conditions and record-low stream flows",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHJmcEZUNjFPRnU4X2UzQ25tQnRvMk1uR3BhT2otZkVvamd5ZFdFNG8xUEM1VmF3dFBJTU1iWlpoSnJpSmdCakwyZnZuamtESnJBeDRFbGRwR01MbnUycHQwd1p1cmw1a2NyNjV6VWZlUkNiODFQWGU3d2ppNmtzWWtRd0hnRFVZVlpLSTVvRjZXbUFEM21rY3NFbUhVM1N5TUdvOEZvSmI0SEcwNldpbnMwbVplQUFY?oc=5",
+   "date": "2026-07-14"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Forecast heat, lightning and ongoing drought raise risk of 'significant wildfire event' in B.C.",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON1JNLXNQcU4yWWQtU0pfN0VBMDcwODFsckZOWk51bHlQT2dNVVhEazliS3AzRWFaY2Nhby1jbXpGTEFLSTZlRzJMUEhBcUk4Wm45Sk1UVDFTT09kdFI2VHJiRVdCazhGcE9nT3ItUnV6RnNxbVV5R3pydEdRd21QcDM0OEx0Tlh5RDNDMFlxUk9ZazV3Y1RuWW01b3hKTms?oc=5",
+   "date": "2026-07-14"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Metro Vancouver to revert to Stage 2 water restrictions with key supply pipe back in service",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOEw0emEyUk1XdXFSTllvekd5aUlVMFdjclhEYjRmZW9oV2dlclB5YzRKcG55QkpkNmMzd2FmM1lvczJQMUJEd1BmRzhreG5ldm9NT1gyTkpIZS16R0x1bmJqS2dGQ1Q0cjh5VWx1anNoLTdmS09kc2g3RmU3emNlb3djbHFudVRCRmNTS09LbVJkX3FMVnpDejBxampwSUdvbjRiVWpmekFVcWx4N3NqTA?oc=5",
+   "date": "2026-07-13"
+  },
+  {
+   "cat": "media",
+   "source": "News",
+   "title": "Current drought conditions - Agriculture and Agri-Food Canada",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2RtZHR3NEhNVFBZOXYwQ0hIV19vTTh3NDQ0YVlRem1wcDktaWx2bFAwR1FFek94Q0puSUE4UzdHVy13dmpPTjVUVC0yZEM4Zi1RZHRUSFNOTm9nN0k5enlPaUFscGt1QVpnNktGY1dOcVpvSVlFUjlaVnZJZy1UWFdfQXVTa1hIclZ2MTRRalRUdHo4a2hxdGxpRmtDLXlKa0o3UUZVeHFFOVNwV1FLUW5uS09oa0E?oc=5",
+   "date": "2026-07-09"
+  },
+  {
+   "cat": "media",
+   "source": "Canada WaterPortal",
+   "title": "By the Numbers: Building the Workforce Our Watersheds Need",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12MWFnclBWdkRNaFVYeUpabDRobFRNTkZwcGtYc1FDVjJzNERYbzBPVE9HeERaYnBvSldLNElrZFpnNEdXRGo2b1F0UDdhbzB3bTdxdkZ4QVUtRV9wcGREUWczeFlVc0ZYNXhNdDZzeTM?oc=5",
+   "date": "2026-07-02"
+  },
+  {
+   "cat": "coalition",
+   "source": "BC Watershed Security Coalition",
+   "title": "Media Release: On World Drought Day, BC Coalition Calls for Provincial Action on Drought and Water Scarcity",
+   "url": "https://watershedsecurity.ca/media-release-world-drought-day/",
+   "date": "2026-06-17"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Metro Vancouver urges residents to keep saving water as temperatures rise",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkYyMzdES1Awa3lHd1ZxMERUZEF1ci1ZV0ZXaHUxaHVEOGF6cUZtcDA3WU1TSU1qd0Z0TnhqUVQ4dkxSdFA4RmVHbkFBMlBfVFljeGVNUF9SVWtFRzR5TEFxc2xQUk1GODBSc1lqNE9CQWpXU0ROSVgzVkFmeV9URmJIRVE3NC1iR2hqQzBPME11VHhla2Nn?oc=5",
+   "date": "2026-06-13"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Metro Vancouver Regional District to implement Stage 3 water restrictions",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeG8wQ0Y1UF9mZDJtYkd6XzFQUDRqNGNDRDE4X3hPY0dGNjVwRXd5THBveGhEeVZIVXNuTTNxZ3RMNkVaT3ZyQWhOT0dmQmx2amhRdUI5OFpHRzVUWUNaVVp0M1htMVA5VnRYUTZEVHZrSTB1aEEzQnVCUlRyc095SnJhWGMzRzhmc2laNnhxVWk2TGNUdWNoZWtMRE1abnBiQnc?oc=5",
+   "date": "2026-06-01"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Dawson Creek lifts some water restrictions, but drought concerns remain",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGQ3Zk9SbC1ySTI5MHNLa2lrUXZHTkEtY1V3WU8xaDZPaEdnZHk2TktpYWh5SVBJYno1RmFtMXpZYkZfQW1vcnNhOWpFa2RYRkVVUkJMRTg1RENXU1IxNzNYWWZfdXdxOGdBRmYwdVB4NndBd0gwZXJFdVdVbHRSUHF5azJBaUZTQkUwUjFHUnFQVDdCaEVVOVNHeXdaY1R5TGQ2ZmVR?oc=5",
+   "date": "2026-05-26"
+  },
+  {
+   "cat": "media",
+   "source": "News",
+   "title": "Canadian Drought Outlook - Agriculture and Agri-Food Canada",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGx5WC03LU82eEVjRml0SHF0M1B3eVppRlh6RnNXdEEzaUxRMjNFWnpwUzhIbG1aQ2FnVlpFUXRQdFVLdXpMUGdTWW15UUQyQTN0RzRURlQwTVc2UTloQktqem12RzhlU1ZURjVtNkdBNXpaVmVBejAtYmdjNF9ldW5WcnZSUkhRNC04eHp4M05OMDg?oc=5",
+   "date": "2026-04-30"
+  },
+  {
+   "cat": "codeblue",
+   "source": "CodeBlue BC",
+   "date": "2026-04-21",
+   "title": "Small, Warty, and Remarkable: The Western Toad — Five Facts",
+   "url": "https://www.codebluebc.ca/western-toad"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Average B.C. snowpack of 92% masks 'strong regional divide,' says provincial bulletin",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWZrRWdiQ18yX3lyemo5MmFWRjhManptSmFPcWtmZzRVOHA4RjVEUm95Mk1STElzakJ2OXlZTE9VamR1amExdlR4TGtNanZWbDlTQmktcVJVdGlRM2ZnQWFnZTVsT244ZnFMMDc0cWRjaUNIeDktTmMtTmNUdjNfQU95Sm5UMmEya0VCWFBncEtsdw?oc=5",
+   "date": "2026-04-09"
+  },
+  {
+   "cat": "media",
+   "source": "The Weather Network",
+   "title": "Low snowpack in Interior B.C. sparks concerns for agriculture and wildfire risks",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbTBZOV9IUWNUUUZWYWxrbm9rRkdQOXhOdk94NEtSMTF4LTdsRjZ3blc0Nks5TmhHUUdmU0ZtbFltQXdkRkVrQmpTLVhaWmtiOFdZMXVuODNRcG5sZUxNNG1ydGptVnZyd2VMU1VYcmVzM2k5UE1qX0tEWlgtU1BwN1JsbzI2cm9VWEd0SnJvLUdHOGx0Mm1rck5uRFNIUGt2aHZhcjRlOFpDb0owd25fY1pFaGdEVE1vaHl0ZHZyWThCdlcwUE1wcjEybDNEcFlIZE9sWWE0XzBUUQ?oc=5",
+   "date": "2026-02-25"
+  },
+  {
+   "cat": "codeblue",
+   "source": "CodeBlue BC",
+   "date": "2026-02-19",
+   "title": "The Western Painted Turtle is BC's Coolest Local: Five Facts",
+   "url": "https://www.codebluebc.ca/western-painted-turtle"
+  },
+  {
+   "cat": "coalition",
+   "source": "BC Watershed Security Coalition",
+   "title": "Media Release: BC Budget Misses Opportunity to Generate New Revenue, Strengthen Watershed Security, Jobs, and Economic Resilience",
+   "url": "https://watershedsecurity.ca/media-release-bc-budget-misses-opportunity-to-generate-new-revenue-strengthen-watershed-security-jobs-and-economic-resilience/",
+   "date": "2026-02-17"
+  },
+  {
+   "cat": "coalition",
+   "source": "BC Watershed Security Coalition",
+   "title": "Open Letter: 46 local government elected officials calling for action to strengthen watershed security",
+   "url": "https://watershedsecurity.ca/open-letter-46-local-government-elected-officials-calling-for-action-to-strengthen-watershed-security/",
+   "date": "2026-01-24"
+  },
+  {
+   "cat": "codeblue",
+   "source": "CodeBlue BC",
+   "date": "2025-11-10",
+   "title": "Time to Get Serious About the Price of Water in BC",
+   "url": "https://www.codebluebc.ca/time-to-get-serious-about-the-price-of-water-in-bc"
+  },
+  {
+   "cat": "coalition",
+   "source": "BC Watershed Security Coalition",
+   "title": "Media Release: Federal Budget 2025 fails to respond to urgent threats to Canada’s watershed security",
+   "url": "https://watershedsecurity.ca/media-release-federal-budget-2025-fails-to-respond-to-urgent-threats-to-canadas-watershed-security/",
+   "date": "2025-11-05"
+  },
+  {
+   "cat": "coalition",
+   "source": "BC Watershed Security Coalition",
+   "title": "B.C. charges Canada&#8217;s lowest industrial water rates, finds report",
+   "url": "https://watershedsecurity.ca/b-c-charges-canadas-lowest-industrial-water-rates-finds-report/",
+   "date": "2025-10-27"
+  },
+  {
+   "cat": "coalition",
+   "source": "BC Watershed Security Coalition",
+   "title": "Media Release:BC’s Water Giveaway Must End, Says New Report",
+   "url": "https://watershedsecurity.ca/media-releasebcs-water-giveaway-must-end-says-new-report/",
+   "date": "2025-10-27"
+  },
+  {
+   "cat": "coalition",
+   "source": "BC Watershed Security Coalition",
+   "title": "Media Release: Failure to invest in BC’s water security poses economic risks, increased community costs, and missed job opportunities",
+   "url": "https://watershedsecurity.ca/failure-to-invest-in-bcs-water-security-poses-economic-risks-increased-community-costs-and-missed-job-opportunities/",
+   "date": "2025-03-06"
+  },
+  {
+   "cat": "codeblue",
+   "source": "CodeBlue BC",
+   "date": "2025-01-31",
+   "title": "Why Is BC Giving Away Its Fresh Water for Next to Nothing?",
+   "url": "https://www.codebluebc.ca/why-is-bc-giving-away-its-fresh-water"
+  },
+  {
+   "cat": "coalition",
+   "source": "BC Watershed Security Coalition",
+   "title": "Critical natural areas shield half of Canada&#8217;s population from flooding, study finds",
+   "url": "https://watershedsecurity.ca/critical-natural-areas-shield-half-of-canadas-population-from-flooding-study-finds/",
+   "date": "2024-11-27"
+  }
+ ]
 }
