@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Water Watch — Live B.C. Drought & River Conditions | CodeBlue BC</title>
+<meta name="description" content="The province's vital signs, live: B.C. drought levels by basin, real-time river flows, snowpack and local water scarcity assessments — updated automatically from public monitoring feeds.">
+<meta property="og:site_name" content="CodeBlue BC">
+<meta property="og:title" content="Water Watch — Live B.C. Drought & River Conditions | CodeBlue BC">
+<meta property="og:description" content="The province's vital signs, live: B.C. drought levels by basin, real-time river flows, snowpack and local water scarcity assessments — updated automatically from public monitoring feeds.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://mcallia.github.io/codebluebc/watch.html">
+<meta property="og:image" content="https://mcallia.github.io/codebluebc/assets/img/misty-river.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://mcallia.github.io/codebluebc/watch.html">
+<meta name="theme-color" content="#081058">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32.png">
+<link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+<link rel="preload" href="assets/fonts/archivo-1.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="assets/fonts/inter-1.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="css/fonts.css">
+<link rel="stylesheet" href="css/site.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+</head>
+<body class="">
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="header-bar">
+    <a class="brand" href="index.html" aria-label="CodeBlue BC home">
+      <img src="assets/img/mark.png" alt="" width="49" height="44">
+      <span class="brand-word">CODE<span class="b">BLUE</span><span class="bc">BC</span></span>
+    </a>
+    <nav class="nav-desktop" aria-label="Primary">
+      <a href="index.html">Home</a>
+      <a href="emergency.html">The Emergency</a>
+      <a href="plan.html">The Plan</a>
+      <a href="watch.html" aria-current="page">Water Watch</a>
+      <a href="news.html">News</a>
+      <a href="stories.html">Stories</a>
+      <a href="movement.html">The Movement</a>
+      <a class="nav-cta" href="action.html">Take Action</a>
+    </nav>
+    <button class="nav-toggle" aria-expanded="false" aria-label="Menu">
+      <svg class="ic-burger" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+      <svg class="ic-close" style="display:none" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round"><path d="M5 5l14 14M19 5L5 19"/></svg>
+    </button>
+  </div>
+</header>
+<nav class="nav-mobile" aria-label="Mobile">
+    <a href="index.html">Home</a>
+    <a href="emergency.html">The Emergency</a>
+    <a href="plan.html">The Plan</a>
+    <a href="watch.html" aria-current="page">Water Watch</a>
+    <a href="news.html">News</a>
+    <a href="stories.html">Stories</a>
+    <a href="movement.html">The Movement</a>
+    <a class="nav-cta" href="action.html">Take Action</a>
+</nav>
+<main id="main">
+<section class="page-hero">
+  <div class="hero-media"><img src="assets/img/misty-river.jpg" alt="" fetchpriority="high"></div>
+  <div class="hero-scrim"></div>
+  <div class="container">
+    <p class="kicker" style="color:var(--sky)"><span class="live-dot" aria-hidden="true"></span>Live monitoring</p>
+    <h1>Water Watch</h1>
+    <p class="lede">The patient&rsquo;s chart, in real time. Drought levels, river flows and snowpack for the whole province — pulled straight from public monitoring stations while you read this.</p>
+    <p class="dash-updated" id="dash-updated" style="color:#9fc0d8">Connecting to monitoring feeds&hellip;</p>
+  </div>
+</section>
+
+<!-- ===== DROUGHT MAP ===== -->
+<section class="section" id="drought">
+  <div class="container">
+    <p class="kicker">Drought levels by basin</p>
+    <div class="grid-2" style="align-items:end; margin-bottom:1.6rem">
+      <h2 style="margin:0">Where B.C. is running dry</h2>
+      <p class="lede" style="margin:0">The province rates every water basin from Level 0 (no drought) to Level 5 (exceptionally dry — adverse impacts almost certain). Click any basin.</p>
+    </div>
+    <div id="droughtmap" role="region" aria-label="Interactive map of current B.C. drought levels by basin"></div>
+    <div class="map-legend" aria-hidden="false">
+      <span class="leg"><i style="background:#4d9e63">0</i> No drought</span>
+      <span class="leg"><i style="background:#d6a63a">1</i> Dry</span>
+      <span class="leg"><i style="background:#c67f2b">2</i> Very dry</span>
+      <span class="leg"><i style="background:#b05a24">3</i> Severely dry</span>
+      <span class="leg"><i style="background:#93381f">4</i> Extremely dry</span>
+      <span class="leg"><i style="background:#641717">5</i> Exceptionally dry</span>
+      <span class="leg"><i style="background:#9fb2c4">–</i> Not rated</span>
+    </div>
+    <div class="chip-row" id="basin-chips"></div>
+    <p class="small" id="drought-stamp"></p>
+    <details class="acc mt-1">
+      <summary>What do the drought levels actually mean?</summary>
+      <div class="acc-body">
+        <p>Think of them as a triage scale for watersheds. <strong>Levels 0&ndash;1</strong>: conditions are normal to dry — voluntary conservation. <strong>Level 2&ndash;3</strong>: streams drop, fish get squeezed, and communities are asked to cut back hard. <strong>Level 4&ndash;5</strong>: impacts on people, farms and ecosystems are likely to certain — emergency measures, irrigation cut-offs, and fish rescues. The province publishes assessments through the <a href="https://droughtportal.gov.bc.ca/">B.C. Drought Information Portal</a>; this map reads the same data feed.</p>
+      </div>
+    </details>
+  </div>
+</section>
+
+<!-- ===== RIVER GAUGES ===== -->
+<section class="section band-foam topo" id="rivers">
+  <div class="container">
+    <p class="kicker">Real-time river flows</p>
+    <div class="grid-2" style="align-items:end; margin-bottom:1.8rem">
+      <h2 style="margin:0">Six rivers that tell the story</h2>
+      <p class="lede" style="margin:0">Each gauge is a stethoscope on a river&rsquo;s pulse — live from Environment and Climate Change Canada&rsquo;s hydrometric network, with the last two days of readings.</p>
+    </div>
+    <div class="gauge-grid" id="gauge-grid"></div>
+    <p class="small mt-2">Flows in cubic metres per second (m³/s). One m³ is 1,000 litres — a bathtub holds about a sixth of one. Data: <a href="https://wateroffice.ec.gc.ca/">ECCC Water Office</a>, station numbers shown on each card.</p>
+  </div>
+</section>
+
+<!-- ===== LOCAL ASSESSMENTS ===== -->
+<section class="section" id="local">
+  <div class="container" style="max-width:900px">
+    <div id="scarcity-wrap">
+      <p class="kicker">Local knowledge, live</p>
+      <h2>Water scarcity, assessed by the people who live there</h2>
+      <p class="lede">This is what the CodeBlue plan looks like when it&rsquo;s real: watershed-level assessments made <em>locally</em> — including by Indigenous-led bodies like the Nk&rsquo;eʔxép Management Committee in the Nicola Valley, which weighs streamflow and snowpack alongside Syilx law and the teachings of the Four Food Chiefs.</p>
+      <div style="overflow-x:auto">
+        <table class="data-table mt-1">
+          <thead><tr><th>Watershed</th><th>Scarcity level</th><th>Assessed by</th></tr></thead>
+          <tbody id="scarcity-rows"><tr><td colspan="3" class="small">Loading local assessments&hellip;</td></tr></tbody>
+        </table>
+      </div>
+      <p class="small mt-1">Live from the B.C. water scarcity feed. Local watershed boards would bring this kind of decision-making to every region — <a href="plan.html">that&rsquo;s the plan</a>.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ===== SNOW ===== -->
+<section class="section-tight band-foam" id="snow">
+  <div class="container" style="max-width:900px">
+    <p class="kicker">Snowpack — next year&rsquo;s water</p>
+    <h2 style="font-size:var(--fs-3)">The savings account</h2>
+    <div id="snow-note" class="lede">Checking the River Forecast Centre feed&hellip;</div>
+  </div>
+</section>
+
+<!-- ===== SOURCES + CTA ===== -->
+<section class="section">
+  <div class="container" style="max-width:900px">
+    <h2 style="font-size:var(--fs-3)">About this data</h2>
+    <p class="small">Everything on this page is drawn live from public monitoring: the <a href="https://droughtportal.gov.bc.ca/">B.C. Drought Information Portal</a> (drought levels and water scarcity assessments), the <a href="https://wateroffice.ec.gc.ca/">ECCC National Hydrometric Program</a> (river flows), and the <a href="https://www2.gov.bc.ca/gov/content/environment/air-land-water/water/drought-flooding-dikes-dams/river-forecast-centre">B.C. River Forecast Centre</a> (snow basin indices). No account, no tracking — your browser talks directly to the public feeds. If a feed is down, the panel says so rather than showing stale numbers.</p>
+    <div class="cta-band mt-3">
+      <div class="hero-media"><img src="assets/img/sockeye-stones.jpg" alt="" loading="lazy"></div>
+      <div class="cta-scrim"></div>
+      <div class="cta-inner">
+        <h2 style="font-size:var(--fs-2)">Numbers only matter if someone acts on them.</h2>
+        <p style="color:#d9ecf8">B.C. still has no permanent system for turning these warnings into action. That&rsquo;s what CodeBlue is for.</p>
+        <div class="btn-row mt-2">
+          <a class="btn btn-action" href="action.html">Take action</a>
+          <a class="btn btn-ghost" href="emergency.html">Why it&rsquo;s an emergency</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <img class="footer-logo" src="assets/img/logo-light.png" alt="CodeBlue BC — Because water is life.">
+        <p class="small" style="color:#9fc0d8">A citizens&rsquo; campaign to secure and sustain British Columbia&rsquo;s fresh water sources. Forever.</p>
+        <div class="social">
+          <a href="https://www.facebook.com/codebluebc" aria-label="CodeBlue BC on Facebook"><svg viewBox="0 0 24 24"><path d="M13.5 21v-8h2.7l.4-3.1h-3.1V7.9c0-.9.3-1.5 1.6-1.5h1.7V3.6c-.3 0-1.3-.1-2.5-.1-2.5 0-4.2 1.5-4.2 4.3v2.1H7.4V13h2.7v8h3.4z"/></svg></a>
+          <a href="https://www.instagram.com/codebluebc/" aria-label="CodeBlue BC on Instagram"><svg viewBox="0 0 24 24"><path d="M12 2.2c3.2 0 3.6 0 4.9.1 1.2.1 1.8.2 2.2.4.6.2 1 .5 1.4.9.4.4.7.8.9 1.4.2.4.4 1 .4 2.2.1 1.3.1 1.7.1 4.9s0 3.6-.1 4.9c-.1 1.2-.2 1.8-.4 2.2-.2.6-.5 1-.9 1.4-.4.4-.8.7-1.4.9-.4.2-1 .4-2.2.4-1.3.1-1.7.1-4.9.1s-3.6 0-4.9-.1c-1.2-.1-1.8-.2-2.2-.4-.6-.2-1-.5-1.4-.9-.4-.4-.7-.8-.9-1.4-.2-.4-.4-1-.4-2.2-.1-1.3-.1-1.7-.1-4.9s0-3.6.1-4.9c.1-1.2.2-1.8.4-2.2.2-.6.5-1 .9-1.4.4-.4.8-.7 1.4-.9.4-.2 1-.4 2.2-.4 1.3-.1 1.7-.1 4.9-.1zm0 1.8c-3.1 0-3.5 0-4.8.1-1.1.1-1.5.2-1.9.3-.5.2-.8.4-1.1.7-.3.3-.5.6-.7 1.1-.1.4-.3.8-.3 1.9-.1 1.2-.1 1.6-.1 4.8s0 3.5.1 4.8c.1 1.1.2 1.5.3 1.9.2.5.4.8.7 1.1.3.3.6.5 1.1.7.4.1.8.3 1.9.3 1.2.1 1.6.1 4.8.1s3.5 0 4.8-.1c1.1-.1 1.5-.2 1.9-.3.5-.2.8-.4 1.1-.7.3-.3.5-.6.7-1.1.1-.4.3-.8.3-1.9.1-1.2.1-1.6.1-4.8s0-3.5-.1-4.8c-.1-1.1-.2-1.5-.3-1.9-.2-.5-.4-.8-.7-1.1-.3-.3-.6-.5-1.1-.7-.4-.1-.8-.3-1.9-.3-1.2-.1-1.6-.1-4.8-.1zm0 3.1a5 5 0 1 1 0 10 5 5 0 0 1 0-10zm0 8.2a3.2 3.2 0 1 0 0-6.4 3.2 3.2 0 0 0 0 6.4zm6.4-8.4a1.2 1.2 0 1 1-2.4 0 1.2 1.2 0 0 1 2.4 0z"/></svg></a>
+        </div>
+      </div>
+      <div>
+        <h4>Explore</h4>
+        <a href="emergency.html">The Emergency</a><br>
+        <a href="plan.html">The CodeBlue Plan</a><br>
+        <a href="watch.html">Water Watch <span style="font-size:.7em; color:#ff5964">●</span> Live</a><br>
+        <a href="news.html">News</a><br>
+        <a href="stories.html">Stories</a><br>
+        <a href="heroes.html">Watershed Heroes</a><br>
+        <a href="podcast.html">The Freshwater Stream</a>
+      </div>
+      <div>
+        <h4>Get Involved</h4>
+        <a href="action.html">Take Action</a><br>
+        <a href="https://www.codebluebc.ca/letterwriter">Send Your Message</a><br>
+        <a href="https://www.codebluebc.ca/add-your-voice">Add Your Voice</a><br>
+        <a href="https://www.codebluebc.ca/donate">Donate</a><br>
+        <a href="movement.html">The Movement</a><br>
+        <a href="about.html">About &amp; Contact</a>
+      </div>
+      <div>
+        <h4>Powered By</h4>
+        <div class="ww-credit">
+          <img src="assets/img/ww-logo.png" alt="Watershed Watch Salmon Society">
+          <span>CodeBlue BC is supported by <a href="https://watershedwatch.ca/">Watershed Watch Salmon Society</a> and allies across British Columbia.</span>
+        </div>
+        <p class="small" style="color:#7f9ab0; margin-top:1rem">Aligned with the <a href="https://watershedsecurity.ca/">BC Watershed Security Coalition</a> — 57+ organizations representing 285,000 British Columbians.</p>
+      </div>
+    </div>
+    <div class="footer-fine">
+      <span>© <span data-year>2026</span> CodeBlue BC · Because water is life.</span>
+      <span>We acknowledge that this work takes place on the unceded territories of Indigenous nations throughout the lands and waters now called British Columbia.</span>
+      <span><a href="about.html#credits">Photo credits</a></span>
+    </div>
+  </div>
+</footer>
+<script src="js/site.js"></script>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="js/watch.js"></script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+{
+  "updated": "2026-07-24T18:00:00Z",
+  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
+  "items": [
+    { "cat": "codeblue", "source": "CodeBlue BC", "date": "2026-07-23", "title": "Why Building More Reservoirs Won't Solve BC's Water Problem", "url": "https://www.codebluebc.ca/why-building-more-reservoirs-wont-solve-bcs-water-problem" },
+    { "cat": "coalition", "source": "BC Watershed Security Coalition", "date": "2026-07-14", "title": "Commitment to Reconciliation", "url": "https://watershedsecurity.ca/news/" },
+    { "cat": "coalition", "source": "BC Watershed Security Coalition", "date": "2026-06-17", "title": "Media Release: On World Drought Day, BC Coalition Calls for Provincial Action on Drought and Water Scarcity", "url": "https://watershedsecurity.ca/media-release-world-drought-day/" },
+    { "cat": "media", "source": "CHEK News", "date": "2026-06-12", "title": "Vancouver Island snowpack at 0% normal levels for June", "url": "https://cheknews.ca/vancouver-island-snowpack-at-0-normal-levels-for-june-1328828/" },
+    { "cat": "media", "source": "Global News", "date": "2026-06-11", "title": "Security needs to be a higher financial priority: BC Watershed Security Coalition", "url": "https://globalnews.ca/video/11892995/salmon-watchdogs-claim-dfo-is-cutting-back-on-monitoring" },
+    { "cat": "media", "source": "Vernon Morning Star", "date": "2026-06-03", "title": "No sprinkling in North Okanagan under historic water restrictions", "url": "https://vernonmorningstar.com/2026/06/03/water-restrictions-amp-up-to-historic-level-in-north-okanagan/" },
+    { "cat": "media", "source": "CHEK News", "date": "2026-06-20", "title": "Snuneymuxw First Nation saves young salmon as Nanaimo River side channels dry up", "url": "https://cheknews.ca/snuneymuxw-first-nation-saves-young-salmon-as-nanaimo-river-side-channels-dry-up-1331614/",   "hidden": false },
+    { "cat": "codeblue", "source": "CodeBlue BC", "date": "2026-04-21", "title": "Small, Warty, and Remarkable: The Western Toad — Five Facts", "url": "https://www.codebluebc.ca/western-toad" },
+    { "cat": "media", "source": "Vancouver Sun", "date": "2026-07-01", "title": "Opinion: Drought is here. Why aren't we acting like it?", "url": "https://vancouversun.com/opinion/op-ed/opinion-drought-is-here-why-arent-we-acting-like-it" },
+    { "cat": "media", "source": "The Conversation", "date": "2026-06-25", "title": "New study finds clear-cut logging can dramatically increase flood risk", "url": "https://theconversation.com/new-study-finds-clear-cut-logging-can-dramatically-increase-flood-risk-284825" },
+    { "cat": "codeblue", "source": "CodeBlue BC", "date": "2026-02-19", "title": "The Western Painted Turtle is BC's Coolest Local: Five Facts", "url": "https://www.codebluebc.ca/western-painted-turtle" },
+    { "cat": "coalition", "source": "BC Watershed Security Coalition", "date": "2026-02-17", "title": "Media Release: BC Budget Misses Opportunity to Generate New Revenue, Strengthen Watershed Security, Jobs, and Economic Resilience", "url": "https://watershedsecurity.ca/media-release-bc-budget-misses-opportunity-to-generate-new-revenue-strengthen-watershed-security-jobs-and-economic-resilience/" },
+    { "cat": "coalition", "source": "BC Watershed Security Coalition", "date": "2026-01-23", "title": "Open Letter: 46 Local Government Elected Officials Calling for Action to Strengthen Watershed Security", "url": "https://watershedsecurity.ca/open-letter-46-local-government-elected-officials-calling-for-action-to-strengthen-watershed-security/" },
+    { "cat": "media", "source": "CBC News", "date": "2026-05-30", "title": "Metro Vancouver is running out of drinking water — and the solutions are interesting", "url": "https://www.cbc.ca/news/canada/british-columbia/metro-vancouver-drinking-water-shortage-9.7183804" },
+    { "cat": "codeblue", "source": "CodeBlue BC", "date": "2025-11-10", "title": "Time to Get Serious About the Price of Water in BC", "url": "https://www.codebluebc.ca/time-to-get-serious-about-the-price-of-water-in-bc" },
+    { "cat": "coalition", "source": "BC Watershed Security Coalition", "date": "2025-10-27", "title": "B.C. Charges Canada's Lowest Industrial Water Rates, Finds Report", "url": "https://watershedsecurity.ca/b-c-charges-canadas-lowest-industrial-water-rates-finds-report/" },
+    { "cat": "media", "source": "The Narwhal", "date": "2026-03-15", "title": "Why B.C. is flooding — again", "url": "https://thenarwhal.ca/bc-atmospheric-river-flooding-risk-2026/" },
+    { "cat": "codeblue", "source": "CodeBlue BC", "date": "2025-01-31", "title": "Why Is BC Giving Away Its Fresh Water for Next to Nothing?", "url": "https://www.codebluebc.ca/why-is-bc-giving-away-its-fresh-water" }
+  ]
+}

@@ -1,0 +1,101 @@
+<!--META {"title":"Water Watch — Live B.C. Drought & River Conditions | CodeBlue BC","desc":"The province's vital signs, live: B.C. drought levels by basin, real-time river flows, snowpack and local water scarcity assessments — updated automatically from public monitoring feeds.","nav":"watch","og":"misty-river.jpg","css":["https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"],"js":["https://unpkg.com/leaflet@1.9.4/dist/leaflet.js","js/watch.js"]} -->
+
+<section class="page-hero">
+  <div class="hero-media"><img src="assets/img/misty-river.jpg" alt="" fetchpriority="high"></div>
+  <div class="hero-scrim"></div>
+  <div class="container">
+    <p class="kicker" style="color:var(--sky)"><span class="live-dot" aria-hidden="true"></span>Live monitoring</p>
+    <h1>Water Watch</h1>
+    <p class="lede">The patient&rsquo;s chart, in real time. Drought levels, river flows and snowpack for the whole province — pulled straight from public monitoring stations while you read this.</p>
+    <p class="dash-updated" id="dash-updated" style="color:#9fc0d8">Connecting to monitoring feeds&hellip;</p>
+  </div>
+</section>
+
+<!-- ===== DROUGHT MAP ===== -->
+<section class="section" id="drought">
+  <div class="container">
+    <p class="kicker">Drought levels by basin</p>
+    <div class="grid-2" style="align-items:end; margin-bottom:1.6rem">
+      <h2 style="margin:0">Where B.C. is running dry</h2>
+      <p class="lede" style="margin:0">The province rates every water basin from Level 0 (no drought) to Level 5 (exceptionally dry — adverse impacts almost certain). Click any basin.</p>
+    </div>
+    <div id="droughtmap" role="region" aria-label="Interactive map of current B.C. drought levels by basin"></div>
+    <div class="map-legend" aria-hidden="false">
+      <span class="leg"><i style="background:#4d9e63">0</i> No drought</span>
+      <span class="leg"><i style="background:#d6a63a">1</i> Dry</span>
+      <span class="leg"><i style="background:#c67f2b">2</i> Very dry</span>
+      <span class="leg"><i style="background:#b05a24">3</i> Severely dry</span>
+      <span class="leg"><i style="background:#93381f">4</i> Extremely dry</span>
+      <span class="leg"><i style="background:#641717">5</i> Exceptionally dry</span>
+      <span class="leg"><i style="background:#9fb2c4">–</i> Not rated</span>
+    </div>
+    <div class="chip-row" id="basin-chips"></div>
+    <p class="small" id="drought-stamp"></p>
+    <details class="acc mt-1">
+      <summary>What do the drought levels actually mean?</summary>
+      <div class="acc-body">
+        <p>Think of them as a triage scale for watersheds. <strong>Levels 0&ndash;1</strong>: conditions are normal to dry — voluntary conservation. <strong>Level 2&ndash;3</strong>: streams drop, fish get squeezed, and communities are asked to cut back hard. <strong>Level 4&ndash;5</strong>: impacts on people, farms and ecosystems are likely to certain — emergency measures, irrigation cut-offs, and fish rescues. The province publishes assessments through the <a href="https://droughtportal.gov.bc.ca/">B.C. Drought Information Portal</a>; this map reads the same data feed.</p>
+      </div>
+    </details>
+  </div>
+</section>
+
+<!-- ===== RIVER GAUGES ===== -->
+<section class="section band-foam topo" id="rivers">
+  <div class="container">
+    <p class="kicker">Real-time river flows</p>
+    <div class="grid-2" style="align-items:end; margin-bottom:1.8rem">
+      <h2 style="margin:0">Six rivers that tell the story</h2>
+      <p class="lede" style="margin:0">Each gauge is a stethoscope on a river&rsquo;s pulse — live from Environment and Climate Change Canada&rsquo;s hydrometric network, with the last two days of readings.</p>
+    </div>
+    <div class="gauge-grid" id="gauge-grid"></div>
+    <p class="small mt-2">Flows in cubic metres per second (m³/s). One m³ is 1,000 litres — a bathtub holds about a sixth of one. Data: <a href="https://wateroffice.ec.gc.ca/">ECCC Water Office</a>, station numbers shown on each card.</p>
+  </div>
+</section>
+
+<!-- ===== LOCAL ASSESSMENTS ===== -->
+<section class="section" id="local">
+  <div class="container" style="max-width:900px">
+    <div id="scarcity-wrap">
+      <p class="kicker">Local knowledge, live</p>
+      <h2>Water scarcity, assessed by the people who live there</h2>
+      <p class="lede">This is what the CodeBlue plan looks like when it&rsquo;s real: watershed-level assessments made <em>locally</em> — including by Indigenous-led bodies like the Nk&rsquo;eʔxép Management Committee in the Nicola Valley, which weighs streamflow and snowpack alongside Syilx law and the teachings of the Four Food Chiefs.</p>
+      <div style="overflow-x:auto">
+        <table class="data-table mt-1">
+          <thead><tr><th>Watershed</th><th>Scarcity level</th><th>Assessed by</th></tr></thead>
+          <tbody id="scarcity-rows"><tr><td colspan="3" class="small">Loading local assessments&hellip;</td></tr></tbody>
+        </table>
+      </div>
+      <p class="small mt-1">Live from the B.C. water scarcity feed. Local watershed boards would bring this kind of decision-making to every region — <a href="plan.html">that&rsquo;s the plan</a>.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ===== SNOW ===== -->
+<section class="section-tight band-foam" id="snow">
+  <div class="container" style="max-width:900px">
+    <p class="kicker">Snowpack — next year&rsquo;s water</p>
+    <h2 style="font-size:var(--fs-3)">The savings account</h2>
+    <div id="snow-note" class="lede">Checking the River Forecast Centre feed&hellip;</div>
+  </div>
+</section>
+
+<!-- ===== SOURCES + CTA ===== -->
+<section class="section">
+  <div class="container" style="max-width:900px">
+    <h2 style="font-size:var(--fs-3)">About this data</h2>
+    <p class="small">Everything on this page is drawn live from public monitoring: the <a href="https://droughtportal.gov.bc.ca/">B.C. Drought Information Portal</a> (drought levels and water scarcity assessments), the <a href="https://wateroffice.ec.gc.ca/">ECCC National Hydrometric Program</a> (river flows), and the <a href="https://www2.gov.bc.ca/gov/content/environment/air-land-water/water/drought-flooding-dikes-dams/river-forecast-centre">B.C. River Forecast Centre</a> (snow basin indices). No account, no tracking — your browser talks directly to the public feeds. If a feed is down, the panel says so rather than showing stale numbers.</p>
+    <div class="cta-band mt-3">
+      <div class="hero-media"><img src="assets/img/sockeye-stones.jpg" alt="" loading="lazy"></div>
+      <div class="cta-scrim"></div>
+      <div class="cta-inner">
+        <h2 style="font-size:var(--fs-2)">Numbers only matter if someone acts on them.</h2>
+        <p style="color:#d9ecf8">B.C. still has no permanent system for turning these warnings into action. That&rsquo;s what CodeBlue is for.</p>
+        <div class="btn-row mt-2">
+          <a class="btn btn-action" href="action.html">Take action</a>
+          <a class="btn btn-ghost" href="emergency.html">Why it&rsquo;s an emergency</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

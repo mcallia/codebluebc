@@ -1,0 +1,31 @@
+name: Refresh news feed
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # every 6 hours
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Refresh data/news.json
+        run: node scripts/refresh-news.mjs
+      - name: Commit if changed
+        run: |
+          git config user.name "codeblue-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if ! git diff --quiet data/news.json; then
+            git add data/news.json
+            git commit -m "chore: refresh news feed"
+            git push
+          else
+            echo "No changes."
+          fi
