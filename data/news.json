@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-24T12:03:33.670Z",
+ "updated": "2026-07-24T19:46:15.816Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -8,6 +8,13 @@
    "date": "2026-07-23",
    "title": "Why Building More Reservoirs Won't Solve BC's Water Problem",
    "url": "https://www.codebluebc.ca/why-building-more-reservoirs-wont-solve-bcs-water-problem"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Northeastern B.C. exits historic drought, for now",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNUdIdFdGOFJiLXlkNE12SDBObkkyNllGa3VXQXRnTllKMjZjd2oxdmZ3dEJYalRZcjN5N0tjWHdqUlg0bWU5SWdiM3dLTlk2MmFxTW04bTBjd0NlVVNjUlJIQzhiSHBkZnBaa2ktTjU4T3NJOEZvVldIaFpoOXBKUmx0ckRMZGlGNU93?oc=5",
+   "date": "2026-07-19"
   },
   {
    "cat": "media",
@@ -64,13 +71,6 @@
    "title": "Metro Vancouver urges residents to keep saving water as temperatures rise",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkYyMzdES1Awa3lHd1ZxMERUZEF1ci1ZV0ZXaHUxaHVEOGF6cUZtcDA3WU1TSU1qd0Z0TnhqUVQ4dkxSdFA4RmVHbkFBMlBfVFljeGVNUF9SVWtFRzR5TEFxc2xQUk1GODBSc1lqNE9CQWpXU0ROSVgzVkFmeV9URmJIRVE3NC1iR2hqQzBPME11VHhla2Nn?oc=5",
    "date": "2026-06-13"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Metro Vancouver Regional District to implement Stage 3 water restrictions",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeG8wQ0Y1UF9mZDJtYkd6XzFQUDRqNGNDRDE4X3hPY0dGNjVwRXd5THBveGhEeVZIVXNuTTNxZ3RMNkVaT3ZyQWhOT0dmQmx2amhRdUI5OFpHRzVUWUNaVVp0M1htMVA5VnRYUTZEVHZrSTB1aEEzQnVCUlRyc095SnJhWGMzRzhmc2laNnhxVWk2TGNUdWNoZWtMRE1abnBiQnc?oc=5",
-   "date": "2026-06-01"
   },
   {
    "cat": "media",
