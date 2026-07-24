@@ -29,3 +29,5 @@ jobs:
           else
             echo "No changes."
           fi
+      - name: Mirror main to gh-pages (keeps the live site current)
+        run: git push origin HEAD:gh-pages --force
