@@ -1,27 +1,13 @@
 {
- "updated": "2026-07-27T04:01:39.614Z",
+ "updated": "2026-07-27T10:08:39.790Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Part of northeast B.C. back to 'abnormally dry,' with long drought recovery expected",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX09kY3hXOEwxdDAwMFVrd0hXc2pTdDYzclg0WnktRnlxaU1CRmdNVUMyWWlmekFVUEdQOUF1QUNaMkxTeExYZXdKYWh3eVdXWC1OZ3VDeERQTkZ6V1N4YXJNbkVzSk5Od3ZyU1JBbmQyRml4Z0JNbzJTamVRTFl0c3VydHVoSTVDZ1g5aHRrS1V2YlYzYXJ4U0pFWFNsSmxVV05IYmdGX04?oc=5",
-   "date": "2026-07-26"
-  },
   {
    "cat": "codeblue",
    "source": "CodeBlue BC",
    "date": "2026-07-23",
    "title": "Why Building More Reservoirs Won't Solve BC's Water Problem",
    "url": "https://www.codebluebc.ca/why-building-more-reservoirs-wont-solve-bcs-water-problem"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Northeastern B.C. exits historic drought, for now",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNUdIdFdGOFJiLXlkNE12SDBObkkyNllGa3VXQXRnTllKMjZjd2oxdmZ3dEJYalRZcjN5N0tjWHdqUlg0bWU5SWdiM3dLTlk2MmFxTW04bTBjd0NlVVNjUlJIQzhiSHBkZnBaa2ktTjU4T3NJOEZvVldIaFpoOXBKUmx0ckRMZGlGNU93?oc=5",
-   "date": "2026-07-19"
   },
   {
    "cat": "media",
@@ -88,6 +74,13 @@
   },
   {
    "cat": "media",
+   "source": "CBC",
+   "title": "Dawson Creek lifts some water restrictions, but drought concerns remain",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGQ3Zk9SbC1ySTI5MHNLa2lrUXZHTkEtY1V3WU8xaDZPaEdnZHk2TktpYWh5SVBJYno1RmFtMXpZYkZfQW1vcnNhOWpFa2RYRkVVUkJMRTg1RENXU1IxNzNYWWZfdXdxOGdBRmYwdVB4NndBd0gwZXJFdVdVbHRSUHF5azJBaUZTQkUwUjFHUnFQVDdCaEVVOVNHeXdaY1R5TGQ2ZmVR?oc=5",
+   "date": "2026-05-26"
+  },
+  {
+   "cat": "media",
    "source": "News",
    "title": "Canadian Drought Outlook - Agriculture and Agri-Food Canada",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGx5WC03LU82eEVjRml0SHF0M1B3eVppRlh6RnNXdEEzaUxRMjNFWnpwUzhIbG1aQ2FnVlpFUXRQdFVLdXpMUGdTWW15UUQyQTN0RzRURlQwTVc2UTloQktqem12RzhlU1ZURjVtNkdBNXpaVmVBejAtYmdjNF9ldW5WcnZSUkhRNC04eHp4M05OMDg?oc=5",
@@ -99,6 +92,13 @@
    "date": "2026-04-21",
    "title": "Small, Warty, and Remarkable: The Western Toad — Five Facts",
    "url": "https://www.codebluebc.ca/western-toad"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Average B.C. snowpack of 92% masks 'strong regional divide,' says provincial bulletin",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWZrRWdiQ18yX3lyemo5MmFWRjhManptSmFPcWtmZzRVOHA4RjVEUm95Mk1STElzakJ2OXlZTE9VamR1amExdlR4TGtNanZWbDlTQmktcVJVdGlRM2ZnQWFnZTVsT244ZnFMMDc0cWRjaUNIeDktTmMtTmNUdjNfQU95Sm5UMmEya0VCWFBncEtsdw?oc=5",
+   "date": "2026-04-09"
   },
   {
    "cat": "media",
