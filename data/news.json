@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T14:31:12.941Z",
+ "updated": "2026-07-29T19:42:22.247Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -7,6 +7,13 @@
    "source": "CBC",
    "title": "B.C. restricts water usage on Salmon River watershed amid 'severe' drought",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzZ3QUxaU0lZOVRTTmR1d2Vua1ZXdzBaNnQ4OEEzbzI2alpKdEFFNEYwVERhV3ZvSUpWaTlxZjJRWWxhYnB0aE0yN3V2ejJyODZQVGRIdHZaZ19MUmZhVEJqdk15OUtadkZ5VEVKYjFxS3BLUWhsdnd2R0paQktXSmlCRkpmRDRUOTlzQ3JWdk82WlBnSWxENDhB?oc=5",
+   "date": "2026-07-29"
+  },
+  {
+   "cat": "media",
+   "source": "Toronto Star",
+   "title": "‘Trace’ rainfall quells flames, but drought wracks B.C.‘s fire-stricken south Cariboo",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQRlZPZkg3aExaMzhKNDI5VS1rSllvcGFMOFVGV045dTRmWTZqSHl0amVxU2hkVVZXUEJyNmlWNE5iR1ZwUkJwMGp0QUNvRFNOYnJ5NDZveUJmc1g1TGpQOGlaZlhDczJpbUtDdk9JbjU2RkVlanRTOVpVM01abXFXTFdIRC1RQVpGOVB2MDJJZURGUGRpTV9RMUozc2l2MWY3T3JKeFRNTkt2bVpZZU1NQlZ5d3JZNkhXbUs0TFZjRFdSY1E2b3M0bTI0V3ZRNmRlZG5faFdJVno0RXFacnYzRUVxRVB4N3V1bXF0WVNOTzR5YlhRbUoyaXRLbHc5VFM3bV9xZDdGeW5oS1NodEpr?oc=5",
    "date": "2026-07-29"
   },
   {
@@ -46,8 +53,8 @@
   },
   {
    "cat": "media",
-   "source": "News",
-   "title": "Current drought conditions - Agriculture and Agri-Food Canada",
+   "source": "agriculture.canada.ca",
+   "title": "Current drought conditions",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2RtZHR3NEhNVFBZOXYwQ0hIV19vTTh3NDQ0YVlRem1wcDktaWx2bFAwR1FFek94Q0puSUE4UzdHVy13dmpPTjVUVC0yZEM4Zi1RZHRUSFNOTm9nN0k5enlPaUFscGt1QVpnNktGY1dOcVpvSVlFUjlaVnZJZy1UWFdfQXVTa1hIclZ2MTRRalRUdHo4a2hxdGxpRmtDLXlKa0o3UUZVeHFFOVNwV1FLUW5uS09oa0E?oc=5",
    "date": "2026-07-09"
   },
@@ -81,15 +88,8 @@
   },
   {
    "cat": "media",
-   "source": "CHEK News",
-   "title": "Low snowpack, dry conditions raise drought fears on Vancouver Island",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMkplOE43eHhmb3VhUGdGM29aSXM0WUtYS2FkZ0VsV2g1Umd6dTc4T3UyUXdFeDNhMlMwR0NpRUtnaUl1eHVnT1RZTkZTRG5nTWl1NFFIOGtGZHVKT1k2WHg3TEVlUTBLdHV6VVBnYXR0ekdjSHRIODlsQnMtV0pQbDBhcGNuVFo4SHVqeF9aUWkxX0I1NjNsU1FJNGI?oc=5",
-   "date": "2026-05-17"
-  },
-  {
-   "cat": "media",
-   "source": "News",
-   "title": "Canadian Drought Outlook - Agriculture and Agri-Food Canada",
+   "source": "agriculture.canada.ca",
+   "title": "Canadian Drought Outlook",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGx5WC03LU82eEVjRml0SHF0M1B3eVppRlh6RnNXdEEzaUxRMjNFWnpwUzhIbG1aQ2FnVlpFUXRQdFVLdXpMUGdTWW15UUQyQTN0RzRURlQwTVc2UTloQktqem12RzhlU1ZURjVtNkdBNXpaVmVBejAtYmdjNF9ldW5WcnZSUkhRNC04eHp4M05OMDg?oc=5",
    "date": "2026-04-30"
   },
