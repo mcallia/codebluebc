@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T09:08:13.906Z",
+ "updated": "2026-07-29T14:31:12.941Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -8,6 +8,13 @@
    "title": "B.C. restricts water usage on Salmon River watershed amid 'severe' drought",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzZ3QUxaU0lZOVRTTmR1d2Vua1ZXdzBaNnQ4OEEzbzI2alpKdEFFNEYwVERhV3ZvSUpWaTlxZjJRWWxhYnB0aE0yN3V2ejJyODZQVGRIdHZaZ19MUmZhVEJqdk15OUtadkZ5VEVKYjFxS3BLUWhsdnd2R0paQktXSmlCRkpmRDRUOTlzQ3JWdk82WlBnSWxENDhB?oc=5",
    "date": "2026-07-29"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Part of northeast B.C. back to 'abnormally dry,' with long drought recovery expected",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX09kY3hXOEwxdDAwMFVrd0hXc2pTdDYzclg0WnktRnlxaU1CRmdNVUMyWWlmekFVUEdQOUF1QUNaMkxTeExYZXdKYWh3eVdXWC1OZ3VDeERQTkZ6V1N4YXJNbkVzSk5Od3ZyU1JBbmQyRml4Z0JNbzJTamVRTFl0c3VydHVoSTVDZ1g5aHRrS1V2YlYzYXJ4U0pFWFNsSmxVV05IYmdGX04?oc=5",
+   "date": "2026-07-26"
   },
   {
    "cat": "codeblue",
@@ -32,23 +39,9 @@
   },
   {
    "cat": "media",
-   "source": "CBC",
-   "title": "Forecast heat, lightning and ongoing drought raise risk of 'significant wildfire event' in B.C.",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON1JNLXNQcU4yWWQtU0pfN0VBMDcwODFsckZOWk51bHlQT2dNVVhEazliS3AzRWFaY2Nhby1jbXpGTEFLSTZlRzJMUEhBcUk4Wm45Sk1UVDFTT09kdFI2VHJiRVdCazhGcE9nT3ItUnV6RnNxbVV5R3pydEdRd21QcDM0OEx0Tlh5RDNDMFlxUk9ZazV3Y1RuWW01b3hKTms?oc=5",
-   "date": "2026-07-14"
-  },
-  {
-   "cat": "media",
    "source": "The Weather Network",
    "title": "Is Canada baking? Here's what the latest drought analysis says",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdnFkSm9UQlI5dHkzRXBOM243R2JfV0tmM2xXdklBUDg2UXVBeFl6ZHNwcmlBcEhkRHFCOVpuWE0yNzhDU0E1U1dFaTdFYWlZd2dhZF9TOE56ZkxUaFdsNVlEYkNPVFVqMWpUVXRpOXFndFZTWUI3VHEzODlpX3Z6YUdFcFYtZ0I3aGFVMk1hd2lNZTNvSkZ2aG81NHY3cXRCQ2tRZno1eVB5NTZCcFdMeW9pVi1qZENuQ2FIZw?oc=5",
-   "date": "2026-07-13"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Metro Vancouver to revert to Stage 2 water restrictions with key supply pipe back in service",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOEw0emEyUk1XdXFSTllvekd5aUlVMFdjclhEYjRmZW9oV2dlclB5YzRKcG55QkpkNmMzd2FmM1lvczJQMUJEd1BmRzhreG5ldm9NT1gyTkpIZS16R0x1bmJqS2dGQ1Q0cjh5VWx1anNoLTdmS09kc2g3RmU3emNlb3djbHFudVRCRmNTS09LbVJkX3FMVnpDejBxampwSUdvbjRiVWpmekFVcWx4N3NqTA?oc=5",
    "date": "2026-07-13"
   },
   {
@@ -106,6 +99,13 @@
    "date": "2026-04-21",
    "title": "Small, Warty, and Remarkable: The Western Toad — Five Facts",
    "url": "https://www.codebluebc.ca/western-toad"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Average B.C. snowpack of 92% masks 'strong regional divide,' says provincial bulletin",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWZrRWdiQ18yX3lyemo5MmFWRjhManptSmFPcWtmZzRVOHA4RjVEUm95Mk1STElzakJ2OXlZTE9VamR1amExdlR4TGtNanZWbDlTQmktcVJVdGlRM2ZnQWFnZTVsT244ZnFMMDc0cWRjaUNIeDktTmMtTmNUdjNfQU95Sm5UMmEya0VCWFBncEtsdw?oc=5",
+   "date": "2026-04-09"
   },
   {
    "cat": "codeblue",
