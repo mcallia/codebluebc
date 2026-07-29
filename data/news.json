@@ -1,7 +1,14 @@
 {
- "updated": "2026-07-28T19:52:42.084Z",
+ "updated": "2026-07-29T03:38:05.353Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "B.C. restricts water usage on Salmon River watershed amid 'severe' drought",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzZ3QUxaU0lZOVRTTmR1d2Vua1ZXdzBaNnQ4OEEzbzI2alpKdEFFNEYwVERhV3ZvSUpWaTlxZjJRWWxhYnB0aE0yN3V2ejJyODZQVGRIdHZaZ19MUmZhVEJqdk15OUtadkZ5VEVKYjFxS3BLUWhsdnd2R0paQktXSmlCRkpmRDRUOTlzQ3JWdk82WlBnSWxENDhB?oc=5",
+   "date": "2026-07-29"
+  },
   {
    "cat": "codeblue",
    "source": "CodeBlue BC",
@@ -39,6 +46,13 @@
   },
   {
    "cat": "media",
+   "source": "CBC",
+   "title": "Metro Vancouver to revert to Stage 2 water restrictions with key supply pipe back in service",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOEw0emEyUk1XdXFSTllvekd5aUlVMFdjclhEYjRmZW9oV2dlclB5YzRKcG55QkpkNmMzd2FmM1lvczJQMUJEd1BmRzhreG5ldm9NT1gyTkpIZS16R0x1bmJqS2dGQ1Q0cjh5VWx1anNoLTdmS09kc2g3RmU3emNlb3djbHFudVRCRmNTS09LbVJkX3FMVnpDejBxampwSUdvbjRiVWpmekFVcWx4N3NqTA?oc=5",
+   "date": "2026-07-13"
+  },
+  {
+   "cat": "media",
    "source": "News",
    "title": "Current drought conditions - Agriculture and Agri-Food Canada",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2RtZHR3NEhNVFBZOXYwQ0hIV19vTTh3NDQ0YVlRem1wcDktaWx2bFAwR1FFek94Q0puSUE4UzdHVy13dmpPTjVUVC0yZEM4Zi1RZHRUSFNOTm9nN0k5enlPaUFscGt1QVpnNktGY1dOcVpvSVlFUjlaVnZJZy1UWFdfQXVTa1hIclZ2MTRRalRUdHo4a2hxdGxpRmtDLXlKa0o3UUZVeHFFOVNwV1FLUW5uS09oa0E?oc=5",
@@ -67,6 +81,13 @@
   },
   {
    "cat": "media",
+   "source": "CityNews Halifax",
+   "title": "Vast majority of British Columbians support local water restrictions, poll suggests",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdGlxZWVjUl9ORHlpbVJPTjhKbzZmcDBXdGVHcW1SWXExbGZzcWZkY01XN1l0Sms5TGNDMmstY0ZvS3ItVUkwcWxDOWJMc0YtT2pNVW9jYk1hUk1fakE1cFNQRnBYeG5IWVhBYlJwa05ZbGJNNE5HM29pTTFUWE5PWG1wSDV2S3VPYVNYTE5NTk5yNjZpSnA4VThhZl9xZUNoRC1XTWJIRjhaSU51WDhibWU0SQ?oc=5",
+   "date": "2026-06-17"
+  },
+  {
+   "cat": "media",
    "source": "CBC",
    "title": "Metro Vancouver urges residents to keep saving water as temperatures rise",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkYyMzdES1Awa3lHd1ZxMERUZEF1ci1ZV0ZXaHUxaHVEOGF6cUZtcDA3WU1TSU1qd0Z0TnhqUVQ4dkxSdFA4RmVHbkFBMlBfVFljeGVNUF9SVWtFRzR5TEFxc2xQUk1GODBSc1lqNE9CQWpXU0ROSVgzVkFmeV9URmJIRVE3NC1iR2hqQzBPME11VHhla2Nn?oc=5",
@@ -80,32 +101,11 @@
    "date": "2026-04-30"
   },
   {
-   "cat": "media",
-   "source": "The Weather Network",
-   "title": "Early-season heat event set to impact British Columbia",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeEtENGdnMFJwQUJwblNKdWZNeDMzT1dfYWZmT2N1M2VGeG5udk9aUkVIdjFoS0NHbjI0V0FuRkNNOHNrWWE2bHo5T21lRGNMQjVuZDJBVmdYOW9MYWZ2TzctQ2I2OW94R0lCLUlVSXp1QjdjV0pVMHFiYnc4OFg5WUtQRThEZzR6a1l2bl9hdF9GSktzZFFOc3NTbnViOVRoc2Q0Vks1Ym9aYUw2VzVoQXhyNmdDTG9Oak5kcy1aV1Q4Zw?oc=5",
-   "date": "2026-04-29"
-  },
-  {
    "cat": "codeblue",
    "source": "CodeBlue BC",
    "date": "2026-04-21",
    "title": "Small, Warty, and Remarkable: The Western Toad — Five Facts",
    "url": "https://www.codebluebc.ca/western-toad"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Average B.C. snowpack of 92% masks 'strong regional divide,' says provincial bulletin",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWZrRWdiQ18yX3lyemo5MmFWRjhManptSmFPcWtmZzRVOHA4RjVEUm95Mk1STElzakJ2OXlZTE9VamR1amExdlR4TGtNanZWbDlTQmktcVJVdGlRM2ZnQWFnZTVsT244ZnFMMDc0cWRjaUNIeDktTmMtTmNUdjNfQU95Sm5UMmEya0VCWFBncEtsdw?oc=5",
-   "date": "2026-04-09"
-  },
-  {
-   "cat": "media",
-   "source": "SnowBrains",
-   "title": "British Columbia Snowpack Hits 115% of Normal — and Some Stations Just Set All-Time Records",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14eVV4ZXEtcDgtcF96alBHR1FBaU52dzZTRFVoNk1RanNGZGhjeDRvdmhDUWtnMHdVWjZNZkJudkRBWUVTNE1HaEV5RTFiY3NHaklCSDdtbjRkZDlkNVBpRi15aDBmZ2RGVFNvam9OaDd5WlZDTVpuTUdNRWQ?oc=5",
-   "date": "2026-04-03"
   },
   {
    "cat": "codeblue",
