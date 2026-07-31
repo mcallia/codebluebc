@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T03:48:56.744Z",
+ "updated": "2026-07-31T06:09:07.860Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -11,7 +11,7 @@
   },
   {
    "cat": "media",
-   "source": "thestar.com",
+   "source": "Toronto Star",
    "title": "No word on return for Clinton, B.C., residents as fire burns watershed, power lines",
    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQRlZPZkg3aExaMzhKNDI5VS1rSllvcGFMOFVGV045dTRmWTZqSHl0amVxU2hkVVZXUEJyNmlWNE5iR1ZwUkJwMGp0QUNvRFNOYnJ5NDZveUJmc1g1TGpQOGlaZlhDczJpbUtDdk9JbjU2RkVlanRTOVpVM01abXFXTFdIRC1RQVpGOVB2MDJJZURGUGRpTV9RMUozc2l2MWY3T3JKeFRNTkt2bVpZZU1NQlZ5d3JZNkhXbUs0TFZjRFdSY1E2b3M0bTI0V3ZRNmRlZG5faFdJVno0RXFacnYzRUVxRVB4N3V1bXF0WVNOTzR5YlhRbUoyaXRLbHc5VFM3bV9xZDdGeW5oS1NodEpr?oc=5",
    "date": "2026-07-29"
@@ -39,6 +39,13 @@
   },
   {
    "cat": "media",
+   "source": "CTV News",
+   "title": "B.C. issues water warning amid drought conditions and record-low stream flows",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHJmcEZUNjFPRnU4X2UzQ25tQnRvMk1uR3BhT2otZkVvamd5ZFdFNG8xUEM1VmF3dFBJTU1iWlpoSnJpSmdCakwyZnZuamtESnJBeDRFbGRwR01MbnUycHQwd1p1cmw1a2NyNjV6VWZlUkNiODFQWGU3d2ppNmtzWWtRd0hnRFVZVlpLSTVvRjZXbUFEM21rY3NFbUhVM1N5TUdvOEZvSmI0SEcwNldpbnMwbVplQUFY?oc=5",
+   "date": "2026-07-14"
+  },
+  {
+   "cat": "media",
    "source": "The Weather Network",
    "title": "Is Canada baking? Here's what the latest drought analysis says",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdnFkSm9UQlI5dHkzRXBOM243R2JfV0tmM2xXdklBUDg2UXVBeFl6ZHNwcmlBcEhkRHFCOVpuWE0yNzhDU0E1U1dFaTdFYWlZd2dhZF9TOE56ZkxUaFdsNVlEYkNPVFVqMWpUVXRpOXFndFZTWUI3VHEzODlpX3Z6YUdFcFYtZ0I3aGFVMk1hd2lNZTNvSkZ2aG81NHY3cXRCQ2tRZno1eVB5NTZCcFdMeW9pVi1qZENuQ2FIZw?oc=5",
@@ -53,7 +60,7 @@
   },
   {
    "cat": "media",
-   "source": "waterportal.ca",
+   "source": "Canada WaterPortal",
    "title": "By the Numbers: Building the Workforce Our Watersheds Need",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12MWFnclBWdkRNaFVYeUpabDRobFRNTkZwcGtYc1FDVjJzNERYbzBPVE9HeERaYnBvSldLNElrZFpnNEdXRGo2b1F0UDdhbzB3bTdxdkZ4QVUtRV9wcGREUWczeFlVc0ZYNXhNdDZzeTM?oc=5",
    "date": "2026-07-02"
@@ -67,7 +74,7 @@
   },
   {
    "cat": "media",
-   "source": "thestar.com",
+   "source": "Toronto Star",
    "title": "Vast majority of British Columbians support local water restrictions, poll suggests",
    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPYkJES0trVm5ycE1KMUlNSFVEYldhc1RPVXJrVHV5bEZScXkzRUVSMlEySzdEak5tSGV3VFo4ZE4tRnJEUGJmbnNtWlgyMnFUZF83U1R2OUNRdHVHR2E2Y21JbFVGemVpRXBseGhEd2NHekt2bU5qb1RzdFJ5dHlBb0syOWxvdFJZLTR3WnFtMFp5QTFydExwcW9FNVV5czd4WUZlaEJKZ2hIemZSYTlUQVowdzAyMmdJcDBLYlB6Tnd2bzFPX296MUlwWkt5SHpsdFZ1MkQ2aUVkVXhfWkh2NFJzX21oMHJkc3lNcVpZQXNQbXZ6aUR2X3lKYXoxa0xDXzlEcm9R?oc=5",
    "date": "2026-06-17"
@@ -95,17 +102,10 @@
   },
   {
    "cat": "media",
-   "source": "CBC",
-   "title": "Average B.C. snowpack of 92% masks 'strong regional divide,' says provincial bulletin",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWZrRWdiQ18yX3lyemo5MmFWRjhManptSmFPcWtmZzRVOHA4RjVEUm95Mk1STElzakJ2OXlZTE9VamR1amExdlR4TGtNanZWbDlTQmktcVJVdGlRM2ZnQWFnZTVsT244ZnFMMDc0cWRjaUNIeDktTmMtTmNUdjNfQU95Sm5UMmEya0VCWFBncEtsdw?oc=5",
-   "date": "2026-04-09"
-  },
-  {
-   "cat": "media",
-   "source": "SnowBrains",
-   "title": "British Columbia Snowpack Hits 115% of Normal — and Some Stations Just Set All-Time Records",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14eVV4ZXEtcDgtcF96alBHR1FBaU52dzZTRFVoNk1RanNGZGhjeDRvdmhDUWtnMHdVWjZNZkJudkRBWUVTNE1HaEV5RTFiY3NHaklCSDdtbjRkZDlkNVBpRi15aDBmZ2RGVFNvam9OaDd5WlZDTVpuTUdNRWQ?oc=5",
-   "date": "2026-04-03"
+   "source": "The Weather Network",
+   "title": "B.C. snowpack reveals sharp divide ahead of the spring melt",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUkZNVXJUOC1Nb2VwQ0FoWFRSMm1wVHdYYTljMTY3MWd0ZDFGMWdTQlFRbXI0NkZNVEtGS0Z0bzI0ejRQY3BZdG1FczAtTWk1S294Sm5ScVhTa1g1NTdVQ3V4WjFwaWw4X0dyYUVwTm1zTDZLM3pEWFNQakxVZHVJaGwxUW42X29oMlB5NXFrbUZydFBDUkdmUzV3eURvU241c1VqRkF0R0NacHUtdDNsaVNBNnpBdFdRLWc?oc=5",
+   "date": "2026-04-11"
   },
   {
    "cat": "codeblue",
