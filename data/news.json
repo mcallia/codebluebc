@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T14:34:12.413Z",
+ "updated": "2026-07-31T19:52:13.194Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -102,10 +102,10 @@
   },
   {
    "cat": "media",
-   "source": "CBC",
-   "title": "Average B.C. snowpack of 92% masks 'strong regional divide,' says provincial bulletin",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWZrRWdiQ18yX3lyemo5MmFWRjhManptSmFPcWtmZzRVOHA4RjVEUm95Mk1STElzakJ2OXlZTE9VamR1amExdlR4TGtNanZWbDlTQmktcVJVdGlRM2ZnQWFnZTVsT244ZnFMMDc0cWRjaUNIeDktTmMtTmNUdjNfQU95Sm5UMmEya0VCWFBncEtsdw?oc=5",
-   "date": "2026-04-09"
+   "source": "The Weather Network",
+   "title": "Low snowpack in Interior B.C. sparks concerns for agriculture and wildfire risks",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbTBZOV9IUWNUUUZWYWxrbm9rRkdQOXhOdk94NEtSMTF4LTdsRjZ3blc0Nks5TmhHUUdmU0ZtbFltQXdkRkVrQmpTLVhaWmtiOFdZMXVuODNRcG5sZUxNNG1ydGptVnZyd2VMU1VYcmVzM2k5UE1qX0tEWlgtU1BwN1JsbzI2cm9VWEd0SnJvLUdHOGx0Mm1rck5uRFNIUGt2aHZhcjRlOFpDb0owd25fY1pFaGdEVE1vaHl0ZHZyWThCdlcwUE1wcjEybDNEcFlIZE9sWWE0XzBUUQ?oc=5",
+   "date": "2026-02-25"
   },
   {
    "cat": "codeblue",
