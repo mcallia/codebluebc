@@ -96,3 +96,24 @@ This is a **redesign prototype for partner review** — not yet the production s
 tool, signup form and donation links point to the existing NationBuilder tools, so every
 call-to-action works today. Cutover would mean pointing the codebluebc.ca domain here (or
 porting the design into NationBuilder) and wiring the forms natively.
+
+## Protected research documents
+
+Two encrypted, unlisted pages live in the repo root. They are **not** linked from the site,
+not in `sitemap.xml`, and carry `noindex` — but they *are* deliberately left crawlable so the
+`noindex` can actually be read (a `robots.txt` Disallow would hide the tag and can leave a
+bare URL indexed).
+
+| File | Document | Unlock |
+|---|---|---|
+| `2026-codeblue-16-year-insights.html` | 2026 CodeBlue 16 Year Insights (StaticCrypt) | shared password |
+| `moving-forward-on-fresh-water.html` | Moving Forward on Fresh Water — A McAllister Data Essay | shared password |
+
+Each is a single self-contained file. The document body, all charts and all photography are
+AES-256-GCM ciphertext; the key is derived in the browser with PBKDF2-SHA256 (310,000
+iterations) from the password. Nothing readable ships in the page source, so a wrong password
+returns nothing rather than hiding something. Rebuild pipeline for the data essay lives outside
+this repo (`webbuild/convert.py` + `webbuild/pack.py` in the authoring session).
+
+**These are share-with-a-link documents, not secrets.** Anyone holding the link and the
+password can read and forward the file. Rotate the password by regenerating the page.
