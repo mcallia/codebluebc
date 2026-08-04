@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03T19:57:07.743Z",
+ "updated": "2026-08-04T03:36:06.539Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -18,13 +18,6 @@
   },
   {
    "cat": "media",
-   "source": "Toronto Star",
-   "title": "No word on return for Clinton, B.C., residents as fire burns watershed, power lines",
-   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQRlZPZkg3aExaMzhKNDI5VS1rSllvcGFMOFVGV045dTRmWTZqSHl0amVxU2hkVVZXUEJyNmlWNE5iR1ZwUkJwMGp0QUNvRFNOYnJ5NDZveUJmc1g1TGpQOGlaZlhDczJpbUtDdk9JbjU2RkVlanRTOVpVM01abXFXTFdIRC1RQVpGOVB2MDJJZURGUGRpTV9RMUozc2l2MWY3T3JKeFRNTkt2bVpZZU1NQlZ5d3JZNkhXbUs0TFZjRFdSY1E2b3M0bTI0V3ZRNmRlZG5faFdJVno0RXFacnYzRUVxRVB4N3V1bXF0WVNOTzR5YlhRbUoyaXRLbHc5VFM3bV9xZDdGeW5oS1NodEpr?oc=5",
-   "date": "2026-07-29"
-  },
-  {
-   "cat": "media",
    "source": "CBC",
    "title": "Part of northeast B.C. back to 'abnormally dry,' with long drought recovery expected",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX09kY3hXOEwxdDAwMFVrd0hXc2pTdDYzclg0WnktRnlxaU1CRmdNVUMyWWlmekFVUEdQOUF1QUNaMkxTeExYZXdKYWh3eVdXWC1OZ3VDeERQTkZ6V1N4YXJNbkVzSk5Od3ZyU1JBbmQyRml4Z0JNbzJTamVRTFl0c3VydHVoSTVDZ1g5aHRrS1V2YlYzYXJ4U0pFWFNsSmxVV05IYmdGX04?oc=5",
@@ -36,6 +29,13 @@
    "date": "2026-07-23",
    "title": "Why Building More Reservoirs Won't Solve BC's Water Problem",
    "url": "https://www.codebluebc.ca/why-building-more-reservoirs-wont-solve-bcs-water-problem"
+  },
+  {
+   "cat": "media",
+   "source": "CTV News",
+   "title": "B.C. issues water warning amid drought conditions and record-low stream flows",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHJmcEZUNjFPRnU4X2UzQ25tQnRvMk1uR3BhT2otZkVvamd5ZFdFNG8xUEM1VmF3dFBJTU1iWlpoSnJpSmdCakwyZnZuamtESnJBeDRFbGRwR01MbnUycHQwd1p1cmw1a2NyNjV6VWZlUkNiODFQWGU3d2ppNmtzWWtRd0hnRFVZVlpLSTVvRjZXbUFEM21rY3NFbUhVM1N5TUdvOEZvSmI0SEcwNldpbnMwbVplQUFY?oc=5",
+   "date": "2026-07-14"
   },
   {
    "cat": "media",
