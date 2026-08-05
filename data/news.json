@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-05T09:04:39.574Z",
+ "updated": "2026-08-05T14:32:43.762Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -25,6 +25,13 @@
   },
   {
    "cat": "media",
+   "source": "Juneau Independent",
+   "title": "Canada will help pay for power line to expand mine in Stikine watershed",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT3dSUmx2UzhpOUZMeVRFZm1vUWhqeFFIMFA1MFdJcG51N0ZOTm1TMXEzQkVyaUZfYU9SSkNyVWlUUjRXRUR2X2ZhUktzZVk2MWNZbjJZZm9EeDhmM0ZTaWZmT3BxclctWTllRHY0UTQzUVEyWndIU2V3Qm1sc2hwTEZMZzhza1k3Z1BzN0s4cHFqXzBaOWxTa0c1WFByc0FHZXhIbzVEbERLWXIzMUdZ?oc=5",
+   "date": "2026-07-15"
+  },
+  {
+   "cat": "media",
    "source": "BC Gov News",
    "title": "Urging people, businesses to conserve water",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hMy1YQmlnU0hFd0tFWGVBM3h1YU16d2FxUUQ0OU5NZlRVLWVwNXVDWFpOSTROd2t2eEtWZ3Zzem43cVY4czlZTFoyWHV0UGNLSTNjc0h0eGpqUnVsVDRPRA?oc=5",
@@ -32,7 +39,7 @@
   },
   {
    "cat": "media",
-   "source": "The Weather Network",
+   "source": "theweathernetwork.com",
    "title": "Is Canada baking? Here's what the latest drought analysis says",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdnFkSm9UQlI5dHkzRXBOM243R2JfV0tmM2xXdklBUDg2UXVBeFl6ZHNwcmlBcEhkRHFCOVpuWE0yNzhDU0E1U1dFaTdFYWlZd2dhZF9TOE56ZkxUaFdsNVlEYkNPVFVqMWpUVXRpOXFndFZTWUI3VHEzODlpX3Z6YUdFcFYtZ0I3aGFVMk1hd2lNZTNvSkZ2aG81NHY3cXRCQ2tRZno1eVB5NTZCcFdMeW9pVi1qZENuQ2FIZw?oc=5",
    "date": "2026-07-13"
@@ -88,21 +95,14 @@
   },
   {
    "cat": "media",
-   "source": "The Weather Network",
+   "source": "theweathernetwork.com",
    "title": "B.C. snowpack reveals sharp divide ahead of the spring melt",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUkZNVXJUOC1Nb2VwQ0FoWFRSMm1wVHdYYTljMTY3MWd0ZDFGMWdTQlFRbXI0NkZNVEtGS0Z0bzI0ejRQY3BZdG1FczAtTWk1S294Sm5ScVhTa1g1NTdVQ3V4WjFwaWw4X0dyYUVwTm1zTDZLM3pEWFNQakxVZHVJaGwxUW42X29oMlB5NXFrbUZydFBDUkdmUzV3eURvU241c1VqRkF0R0NacHUtdDNsaVNBNnpBdFdRLWc?oc=5",
    "date": "2026-04-11"
   },
   {
    "cat": "media",
-   "source": "CBC",
-   "title": "Average B.C. snowpack of 92% masks 'strong regional divide,' says provincial bulletin",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWZrRWdiQ18yX3lyemo5MmFWRjhManptSmFPcWtmZzRVOHA4RjVEUm95Mk1STElzakJ2OXlZTE9VamR1amExdlR4TGtNanZWbDlTQmktcVJVdGlRM2ZnQWFnZTVsT244ZnFMMDc0cWRjaUNIeDktTmMtTmNUdjNfQU95Sm5UMmEya0VCWFBncEtsdw?oc=5",
-   "date": "2026-04-09"
-  },
-  {
-   "cat": "media",
-   "source": "The Weather Network",
+   "source": "theweathernetwork.com",
    "title": "Low snowpack in Interior B.C. sparks concerns for agriculture and wildfire risks",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbTBZOV9IUWNUUUZWYWxrbm9rRkdQOXhOdk94NEtSMTF4LTdsRjZ3blc0Nks5TmhHUUdmU0ZtbFltQXdkRkVrQmpTLVhaWmtiOFdZMXVuODNRcG5sZUxNNG1ydGptVnZyd2VMU1VYcmVzM2k5UE1qX0tEWlgtU1BwN1JsbzI2cm9VWEd0SnJvLUdHOGx0Mm1rck5uRFNIUGt2aHZhcjRlOFpDb0owd25fY1pFaGdEVE1vaHl0ZHZyWThCdlcwUE1wcjEybDNEcFlIZE9sWWE0XzBUUQ?oc=5",
    "date": "2026-02-25"
