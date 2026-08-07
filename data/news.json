@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06T14:34:41.996Z",
+ "updated": "2026-08-07T00:15:21.976Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -7,7 +7,7 @@
    "source": "CBC",
    "title": "B.C. restricts water usage on Salmon River watershed amid 'severe' drought",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzZ3QUxaU0lZOVRTTmR1d2Vua1ZXdzBaNnQ4OEEzbzI2alpKdEFFNEYwVERhV3ZvSUpWaTlxZjJRWWxhYnB0aE0yN3V2ejJyODZQVGRIdHZaZ19MUmZhVEJqdk15OUtadkZ5VEVKYjFxS3BLUWhsdnd2R0paQktXSmlCRkpmRDRUOTlzQ3JWdk82WlBnSWxENDhB?oc=5",
-   "date": "2026-07-29"
+   "date": "2026-07-28"
   },
   {
    "cat": "media",
@@ -25,7 +25,7 @@
   },
   {
    "cat": "media",
-   "source": "juneauindependent.com",
+   "source": "Juneau Independent",
    "title": "Canada will help pay for power line to expand mine in Stikine watershed",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT3dSUmx2UzhpOUZMeVRFZm1vUWhqeFFIMFA1MFdJcG51N0ZOTm1TMXEzQkVyaUZfYU9SSkNyVWlUUjRXRUR2X2ZhUktzZVk2MWNZbjJZZm9EeDhmM0ZTaWZmT3BxclctWTllRHY0UTQzUVEyWndIU2V3Qm1sc2hwTEZMZzhza1k3Z1BzN0s4cHFqXzBaOWxTa0c1WFByc0FHZXhIbzVEbERLWXIzMUdZ?oc=5",
    "date": "2026-07-15"
@@ -43,13 +43,6 @@
    "title": "B.C. issues water warning amid drought conditions and record-low stream flows",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHJmcEZUNjFPRnU4X2UzQ25tQnRvMk1uR3BhT2otZkVvamd5ZFdFNG8xUEM1VmF3dFBJTU1iWlpoSnJpSmdCakwyZnZuamtESnJBeDRFbGRwR01MbnUycHQwd1p1cmw1a2NyNjV6VWZlUkNiODFQWGU3d2ppNmtzWWtRd0hnRFVZVlpLSTVvRjZXbUFEM21rY3NFbUhVM1N5TUdvOEZvSmI0SEcwNldpbnMwbVplQUFY?oc=5",
    "date": "2026-07-14"
-  },
-  {
-   "cat": "media",
-   "source": "The Weather Network",
-   "title": "Is Canada baking? Here's what the latest drought analysis says",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdnFkSm9UQlI5dHkzRXBOM243R2JfV0tmM2xXdklBUDg2UXVBeFl6ZHNwcmlBcEhkRHFCOVpuWE0yNzhDU0E1U1dFaTdFYWlZd2dhZF9TOE56ZkxUaFdsNVlEYkNPVFVqMWpUVXRpOXFndFZTWUI3VHEzODlpX3Z6YUdFcFYtZ0I3aGFVMk1hd2lNZTNvSkZ2aG81NHY3cXRCQ2tRZno1eVB5NTZCcFdMeW9pVi1qZENuQ2FIZw?oc=5",
-   "date": "2026-07-13"
   },
   {
    "cat": "media",
@@ -106,6 +99,13 @@
    "title": "B.C. snowpack reveals sharp divide ahead of the spring melt",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUkZNVXJUOC1Nb2VwQ0FoWFRSMm1wVHdYYTljMTY3MWd0ZDFGMWdTQlFRbXI0NkZNVEtGS0Z0bzI0ejRQY3BZdG1FczAtTWk1S294Sm5ScVhTa1g1NTdVQ3V4WjFwaWw4X0dyYUVwTm1zTDZLM3pEWFNQakxVZHVJaGwxUW42X29oMlB5NXFrbUZydFBDUkdmUzV3eURvU241c1VqRkF0R0NacHUtdDNsaVNBNnpBdFdRLWc?oc=5",
    "date": "2026-04-11"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Average B.C. snowpack of 92% masks 'strong regional divide,' says provincial bulletin",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWZrRWdiQ18yX3lyemo5MmFWRjhManptSmFPcWtmZzRVOHA4RjVEUm95Mk1STElzakJ2OXlZTE9VamR1amExdlR4TGtNanZWbDlTQmktcVJVdGlRM2ZnQWFnZTVsT244ZnFMMDc0cWRjaUNIeDktTmMtTmNUdjNfQU95Sm5UMmEya0VCWFBncEtsdw?oc=5",
+   "date": "2026-04-09"
   },
   {
    "cat": "codeblue",
