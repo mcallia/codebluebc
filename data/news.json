@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T07:40:35.265Z",
+ "updated": "2026-08-07T13:38:10.651Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -46,20 +46,6 @@
   },
   {
    "cat": "media",
-   "source": "CBC",
-   "title": "Forecast heat, lightning and ongoing drought raise risk of 'significant wildfire event' in B.C.",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON1JNLXNQcU4yWWQtU0pfN0VBMDcwODFsckZOWk51bHlQT2dNVVhEazliS3AzRWFaY2Nhby1jbXpGTEFLSTZlRzJMUEhBcUk4Wm45Sk1UVDFTT09kdFI2VHJiRVdCazhGcE9nT3ItUnV6RnNxbVV5R3pydEdRd21QcDM0OEx0Tlh5RDNDMFlxUk9ZazV3Y1RuWW01b3hKTms?oc=5",
-   "date": "2026-07-14"
-  },
-  {
-   "cat": "media",
-   "source": "The Weather Network",
-   "title": "Is Canada baking? Here's what the latest drought analysis says",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdnFkSm9UQlI5dHkzRXBOM243R2JfV0tmM2xXdklBUDg2UXVBeFl6ZHNwcmlBcEhkRHFCOVpuWE0yNzhDU0E1U1dFaTdFYWlZd2dhZF9TOE56ZkxUaFdsNVlEYkNPVFVqMWpUVXRpOXFndFZTWUI3VHEzODlpX3Z6YUdFcFYtZ0I3aGFVMk1hd2lNZTNvSkZ2aG81NHY3cXRCQ2tRZno1eVB5NTZCcFdMeW9pVi1qZENuQ2FIZw?oc=5",
-   "date": "2026-07-13"
-  },
-  {
-   "cat": "media",
    "source": "News",
    "title": "Current drought conditions - Agriculture and Agri-food Canada",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2RtZHR3NEhNVFBZOXYwQ0hIV19vTTh3NDQ0YVlRem1wcDktaWx2bFAwR1FFek94Q0puSUE4UzdHVy13dmpPTjVUVC0yZEM4Zi1RZHRUSFNOTm9nN0k5enlPaUFscGt1QVpnNktGY1dOcVpvSVlFUjlaVnZJZy1UWFdfQXVTa1hIclZ2MTRRalRUdHo4a2hxdGxpRmtDLXlKa0o3UUZVeHFFOVNwV1FLUW5uS09oa0E?oc=5",
@@ -88,10 +74,10 @@
   },
   {
    "cat": "media",
-   "source": "CHEK News",
-   "title": "Low snowpack, dry conditions raise drought fears on Vancouver Island",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMkplOE43eHhmb3VhUGdGM29aSXM0WUtYS2FkZ0VsV2g1Umd6dTc4T3UyUXdFeDNhMlMwR0NpRUtnaUl1eHVnT1RZTkZTRG5nTWl1NFFIOGtGZHVKT1k2WHg3TEVlUTBLdHV6VVBnYXR0ekdjSHRIODlsQnMtV0pQbDBhcGNuVFo4SHVqeF9aUWkxX0I1NjNsU1FJNGI?oc=5",
-   "date": "2026-05-17"
+   "source": "CBC",
+   "title": "Metro Vancouver urges residents to keep saving water as temperatures rise",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkYyMzdES1Awa3lHd1ZxMERUZEF1ci1ZV0ZXaHUxaHVEOGF6cUZtcDA3WU1TSU1qd0Z0TnhqUVQ4dkxSdFA4RmVHbkFBMlBfVFljeGVNUF9SVWtFRzR5TEFxc2xQUk1GODBSc1lqNE9CQWpXU0ROSVgzVkFmeV9URmJIRVE3NC1iR2hqQzBPME11VHhla2Nn?oc=5",
+   "date": "2026-06-13"
   },
   {
    "cat": "media",
@@ -101,11 +87,25 @@
    "date": "2026-04-30"
   },
   {
+   "cat": "media",
+   "source": "The Weather Network",
+   "title": "Early-season heat event set to impact British Columbia",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeEtENGdnMFJwQUJwblNKdWZNeDMzT1dfYWZmT2N1M2VGeG5udk9aUkVIdjFoS0NHbjI0V0FuRkNNOHNrWWE2bHo5T21lRGNMQjVuZDJBVmdYOW9MYWZ2TzctQ2I2OW94R0lCLUlVSXp1QjdjV0pVMHFiYnc4OFg5WUtQRThEZzR6a1l2bl9hdF9GSktzZFFOc3NTbnViOVRoc2Q0Vks1Ym9aYUw2VzVoQXhyNmdDTG9Oak5kcy1aV1Q4Zw?oc=5",
+   "date": "2026-04-29"
+  },
+  {
    "cat": "codeblue",
    "source": "CodeBlue BC",
    "date": "2026-04-21",
    "title": "Small, Warty, and Remarkable: The Western Toad — Five Facts",
    "url": "https://www.codebluebc.ca/western-toad"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Average B.C. snowpack of 92% masks 'strong regional divide,' says provincial bulletin",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWZrRWdiQ18yX3lyemo5MmFWRjhManptSmFPcWtmZzRVOHA4RjVEUm95Mk1STElzakJ2OXlZTE9VamR1amExdlR4TGtNanZWbDlTQmktcVJVdGlRM2ZnQWFnZTVsT244ZnFMMDc0cWRjaUNIeDktTmMtTmNUdjNfQU95Sm5UMmEya0VCWFBncEtsdw?oc=5",
+   "date": "2026-04-09"
   },
   {
    "cat": "codeblue",
