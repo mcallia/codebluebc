@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T13:11:27.166Z",
+ "updated": "2026-08-08T18:57:48.853Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -8,6 +8,13 @@
    "title": "B.C. restricts water usage on Salmon River watershed amid 'severe' drought",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzZ3QUxaU0lZOVRTTmR1d2Vua1ZXdzBaNnQ4OEEzbzI2alpKdEFFNEYwVERhV3ZvSUpWaTlxZjJRWWxhYnB0aE0yN3V2ejJyODZQVGRIdHZaZ19MUmZhVEJqdk15OUtadkZ5VEVKYjFxS3BLUWhsdnd2R0paQktXSmlCRkpmRDRUOTlzQ3JWdk82WlBnSWxENDhB?oc=5",
    "date": "2026-07-28"
+  },
+  {
+   "cat": "media",
+   "source": "ArcGIS StoryMaps",
+   "title": "Mapping the Alberta - British Columbia Boundary",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RYUFxSlU1dkZLa0ZrUU5HZTlHT3NGT29qbkpCWWRSUHR5bUN3Z3NreUsyNS1nejlTVmFCMU1RS21JT1RqeTA1WC1fTUFWUlpQNVpJTDkwTmp0b3p3Q0k0Y0RENy0xNlFlcXhnX1NtNnNNZU1uYk45UQ?oc=5",
+   "date": "2026-07-27"
   },
   {
    "cat": "media",
@@ -25,14 +32,14 @@
   },
   {
    "cat": "media",
-   "source": "Juneau Independent",
+   "source": "juneauindependent.com",
    "title": "Canada will help pay for power line to expand mine in Stikine watershed",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT3dSUmx2UzhpOUZMeVRFZm1vUWhqeFFIMFA1MFdJcG51N0ZOTm1TMXEzQkVyaUZfYU9SSkNyVWlUUjRXRUR2X2ZhUktzZVk2MWNZbjJZZm9EeDhmM0ZTaWZmT3BxclctWTllRHY0UTQzUVEyWndIU2V3Qm1sc2hwTEZMZzhza1k3Z1BzN0s4cHFqXzBaOWxTa0c1WFByc0FHZXhIbzVEbERLWXIzMUdZ?oc=5",
    "date": "2026-07-15"
   },
   {
    "cat": "media",
-   "source": "BC Gov News",
+   "source": "news.gov.bc.ca",
    "title": "Urging people, businesses to conserve water",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hMy1YQmlnU0hFd0tFWGVBM3h1YU16d2FxUUQ0OU5NZlRVLWVwNXVDWFpOSTROd2t2eEtWZ3Zzem43cVY4czlZTFoyWHV0UGNLSTNjc0h0eGpqUnVsVDRPRA?oc=5",
    "date": "2026-07-14"
@@ -46,7 +53,7 @@
   },
   {
    "cat": "media",
-   "source": "Canada WaterPortal",
+   "source": "waterportal.ca",
    "title": "By the Numbers: Building the Workforce Our Watersheds Need",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12MWFnclBWdkRNaFVYeUpabDRobFRNTkZwcGtYc1FDVjJzNERYbzBPVE9HeERaYnBvSldLNElrZFpnNEdXRGo2b1F0UDdhbzB3bTdxdkZ4QVUtRV9wcGREUWczeFlVc0ZYNXhNdDZzeTM?oc=5",
    "date": "2026-07-02"
@@ -56,13 +63,6 @@
    "source": "BC Watershed Security Coalition",
    "title": "Media Release: On World Drought Day, BC Coalition Calls for Provincial Action on Drought and Water Scarcity",
    "url": "https://watershedsecurity.ca/media-release-world-drought-day/",
-   "date": "2026-06-17"
-  },
-  {
-   "cat": "media",
-   "source": "Toronto Star",
-   "title": "Vast majority of British Columbians support local water restrictions, poll suggests",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPYkJES0trVm5ycE1KMUlNSFVEYldhc1RPVXJrVHV5bEZScXkzRUVSMlEySzdEak5tSGV3VFo4ZE4tRnJEUGJmbnNtWlgyMnFUZF83U1R2OUNRdHVHR2E2Y21JbFVGemVpRXBseGhEd2NHekt2bU5qb1RzdFJ5dHlBb0syOWxvdFJZLTR3WnFtMFp5QTFydExwcW9FNVV5czd4WUZlaEJKZ2hIemZSYTlUQVowdzAyMmdJcDBLYlB6Tnd2bzFPX296MUlwWkt5SHpsdFZ1MkQ2aUVkVXhfWkh2NFJzX21oMHJkc3lNcVpZQXNQbXZ6aUR2X3lKYXoxa0xDXzlEcm9R?oc=5",
    "date": "2026-06-17"
   },
   {
