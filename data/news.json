@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T02:21:01.758Z",
+ "updated": "2026-08-08T07:14:13.181Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -46,13 +46,6 @@
   },
   {
    "cat": "media",
-   "source": "agriculture.canada.ca",
-   "title": "Current drought conditions",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2RtZHR3NEhNVFBZOXYwQ0hIV19vTTh3NDQ0YVlRem1wcDktaWx2bFAwR1FFek94Q0puSUE4UzdHVy13dmpPTjVUVC0yZEM4Zi1RZHRUSFNOTm9nN0k5enlPaUFscGt1QVpnNktGY1dOcVpvSVlFUjlaVnZJZy1UWFdfQXVTa1hIclZ2MTRRalRUdHo4a2hxdGxpRmtDLXlKa0o3UUZVeHFFOVNwV1FLUW5uS09oa0E?oc=5",
-   "date": "2026-07-09"
-  },
-  {
-   "cat": "media",
    "source": "Canada WaterPortal",
    "title": "By the Numbers: Building the Workforce Our Watersheds Need",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12MWFnclBWdkRNaFVYeUpabDRobFRNTkZwcGtYc1FDVjJzNERYbzBPVE9HeERaYnBvSldLNElrZFpnNEdXRGo2b1F0UDdhbzB3bTdxdkZ4QVUtRV9wcGREUWczeFlVc0ZYNXhNdDZzeTM?oc=5",
@@ -74,14 +67,21 @@
   },
   {
    "cat": "media",
-   "source": "agriculture.canada.ca",
-   "title": "Canadian Drought Outlook",
+   "source": "CHEK News",
+   "title": "Low snowpack, dry conditions raise drought fears on Vancouver Island",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMkplOE43eHhmb3VhUGdGM29aSXM0WUtYS2FkZ0VsV2g1Umd6dTc4T3UyUXdFeDNhMlMwR0NpRUtnaUl1eHVnT1RZTkZTRG5nTWl1NFFIOGtGZHVKT1k2WHg3TEVlUTBLdHV6VVBnYXR0ekdjSHRIODlsQnMtV0pQbDBhcGNuVFo4SHVqeF9aUWkxX0I1NjNsU1FJNGI?oc=5",
+   "date": "2026-05-17"
+  },
+  {
+   "cat": "media",
+   "source": "News",
+   "title": "Canadian Drought Outlook - Agriculture and Agri-food Canada",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGx5WC03LU82eEVjRml0SHF0M1B3eVppRlh6RnNXdEEzaUxRMjNFWnpwUzhIbG1aQ2FnVlpFUXRQdFVLdXpMUGdTWW15UUQyQTN0RzRURlQwTVc2UTloQktqem12RzhlU1ZURjVtNkdBNXpaVmVBejAtYmdjNF9ldW5WcnZSUkhRNC04eHp4M05OMDg?oc=5",
    "date": "2026-04-30"
   },
   {
    "cat": "media",
-   "source": "The Weather Network",
+   "source": "theweathernetwork.com",
    "title": "Early-season heat event set to impact British Columbia",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeEtENGdnMFJwQUJwblNKdWZNeDMzT1dfYWZmT2N1M2VGeG5udk9aUkVIdjFoS0NHbjI0V0FuRkNNOHNrWWE2bHo5T21lRGNMQjVuZDJBVmdYOW9MYWZ2TzctQ2I2OW94R0lCLUlVSXp1QjdjV0pVMHFiYnc4OFg5WUtQRThEZzR6a1l2bl9hdF9GSktzZFFOc3NTbnViOVRoc2Q0Vks1Ym9aYUw2VzVoQXhyNmdDTG9Oak5kcy1aV1Q4Zw?oc=5",
    "date": "2026-04-29"
@@ -95,7 +95,7 @@
   },
   {
    "cat": "media",
-   "source": "The Weather Network",
+   "source": "theweathernetwork.com",
    "title": "B.C. snowpack reveals sharp divide ahead of the spring melt",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUkZNVXJUOC1Nb2VwQ0FoWFRSMm1wVHdYYTljMTY3MWd0ZDFGMWdTQlFRbXI0NkZNVEtGS0Z0bzI0ejRQY3BZdG1FczAtTWk1S294Sm5ScVhTa1g1NTdVQ3V4WjFwaWw4X0dyYUVwTm1zTDZLM3pEWFNQakxVZHVJaGwxUW42X29oMlB5NXFrbUZydFBDUkdmUzV3eURvU241c1VqRkF0R0NacHUtdDNsaVNBNnpBdFdRLWc?oc=5",
    "date": "2026-04-11"
