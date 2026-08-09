@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T02:28:05.328Z",
+ "updated": "2026-08-09T07:15:35.990Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -15,6 +15,13 @@
    "title": "B.C. restricts water usage on Salmon River watershed amid 'severe' drought",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzZ3QUxaU0lZOVRTTmR1d2Vua1ZXdzBaNnQ4OEEzbzI2alpKdEFFNEYwVERhV3ZvSUpWaTlxZjJRWWxhYnB0aE0yN3V2ejJyODZQVGRIdHZaZ19MUmZhVEJqdk15OUtadkZ5VEVKYjFxS3BLUWhsdnd2R0paQktXSmlCRkpmRDRUOTlzQ3JWdk82WlBnSWxENDhB?oc=5",
    "date": "2026-07-28"
+  },
+  {
+   "cat": "media",
+   "source": "ArcGIS StoryMaps",
+   "title": "Mapping the Alberta - British Columbia Boundary",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RYUFxSlU1dkZLa0ZrUU5HZTlHT3NGT29qbkpCWWRSUHR5bUN3Z3NreUsyNS1nejlTVmFCMU1RS21JT1RqeTA1WC1fTUFWUlpQNVpJTDkwTmp0b3p3Q0k0Y0RENy0xNlFlcXhnX1NtNnNNZU1uYk45UQ?oc=5",
+   "date": "2026-07-27"
   },
   {
    "cat": "media",
@@ -46,7 +53,7 @@
   },
   {
    "cat": "media",
-   "source": "BC Gov News",
+   "source": "news.gov.bc.ca",
    "title": "Urging people, businesses to conserve water",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hMy1YQmlnU0hFd0tFWGVBM3h1YU16d2FxUUQ0OU5NZlRVLWVwNXVDWFpOSTROd2t2eEtWZ3Zzem43cVY4czlZTFoyWHV0UGNLSTNjc0h0eGpqUnVsVDRPRA?oc=5",
    "date": "2026-07-14"
@@ -71,13 +78,6 @@
    "title": "Metro Vancouver urges residents to keep saving water as temperatures rise",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkYyMzdES1Awa3lHd1ZxMERUZEF1ci1ZV0ZXaHUxaHVEOGF6cUZtcDA3WU1TSU1qd0Z0TnhqUVQ4dkxSdFA4RmVHbkFBMlBfVFljeGVNUF9SVWtFRzR5TEFxc2xQUk1GODBSc1lqNE9CQWpXU0ROSVgzVkFmeV9URmJIRVE3NC1iR2hqQzBPME11VHhla2Nn?oc=5",
    "date": "2026-06-13"
-  },
-  {
-   "cat": "media",
-   "source": "CHEK News",
-   "title": "Low snowpack, dry conditions raise drought fears on Vancouver Island",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMkplOE43eHhmb3VhUGdGM29aSXM0WUtYS2FkZ0VsV2g1Umd6dTc4T3UyUXdFeDNhMlMwR0NpRUtnaUl1eHVnT1RZTkZTRG5nTWl1NFFIOGtGZHVKT1k2WHg3TEVlUTBLdHV6VVBnYXR0ekdjSHRIODlsQnMtV0pQbDBhcGNuVFo4SHVqeF9aUWkxX0I1NjNsU1FJNGI?oc=5",
-   "date": "2026-05-17"
   },
   {
    "cat": "media",
