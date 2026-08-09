@@ -1,20 +1,20 @@
 {
- "updated": "2026-08-08T18:57:48.853Z",
+ "updated": "2026-08-09T02:28:05.328Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
+  {
+   "cat": "media",
+   "source": "Government of British Columbia",
+   "title": "Freshwater fishing regulations in B.C. - Province of British Columbia",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTnlORk9qZXZlMkw1amlzSVZ2enNLSkhCUGU3M081Z2dya21janhOemx5eHBTeGo4YkFXUXN0Wkh3RmZfYTNYRWY2SUtZbUQzZ0hqS2RucHNFSEMwMzA0TGdPMVZ2eU1VZ0g0UkxWOEFpaTR1OGZ4X0g4T0ZmcW5GLV9vdnhONzJDdU5CVDdybGlSUEFGRlRiWDd6MUZhbHl2eFBydlVvYw?oc=5",
+   "date": "2026-07-31"
+  },
   {
    "cat": "media",
    "source": "CBC",
    "title": "B.C. restricts water usage on Salmon River watershed amid 'severe' drought",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzZ3QUxaU0lZOVRTTmR1d2Vua1ZXdzBaNnQ4OEEzbzI2alpKdEFFNEYwVERhV3ZvSUpWaTlxZjJRWWxhYnB0aE0yN3V2ejJyODZQVGRIdHZaZ19MUmZhVEJqdk15OUtadkZ5VEVKYjFxS3BLUWhsdnd2R0paQktXSmlCRkpmRDRUOTlzQ3JWdk82WlBnSWxENDhB?oc=5",
    "date": "2026-07-28"
-  },
-  {
-   "cat": "media",
-   "source": "ArcGIS StoryMaps",
-   "title": "Mapping the Alberta - British Columbia Boundary",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RYUFxSlU1dkZLa0ZrUU5HZTlHT3NGT29qbkpCWWRSUHR5bUN3Z3NreUsyNS1nejlTVmFCMU1RS21JT1RqeTA1WC1fTUFWUlpQNVpJTDkwTmp0b3p3Q0k0Y0RENy0xNlFlcXhnX1NtNnNNZU1uYk45UQ?oc=5",
-   "date": "2026-07-27"
   },
   {
    "cat": "media",
@@ -32,17 +32,10 @@
   },
   {
    "cat": "media",
-   "source": "juneauindependent.com",
+   "source": "Juneau Independent",
    "title": "Canada will help pay for power line to expand mine in Stikine watershed",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT3dSUmx2UzhpOUZMeVRFZm1vUWhqeFFIMFA1MFdJcG51N0ZOTm1TMXEzQkVyaUZfYU9SSkNyVWlUUjRXRUR2X2ZhUktzZVk2MWNZbjJZZm9EeDhmM0ZTaWZmT3BxclctWTllRHY0UTQzUVEyWndIU2V3Qm1sc2hwTEZMZzhza1k3Z1BzN0s4cHFqXzBaOWxTa0c1WFByc0FHZXhIbzVEbERLWXIzMUdZ?oc=5",
    "date": "2026-07-15"
-  },
-  {
-   "cat": "media",
-   "source": "news.gov.bc.ca",
-   "title": "Urging people, businesses to conserve water",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hMy1YQmlnU0hFd0tFWGVBM3h1YU16d2FxUUQ0OU5NZlRVLWVwNXVDWFpOSTROd2t2eEtWZ3Zzem43cVY4czlZTFoyWHV0UGNLSTNjc0h0eGpqUnVsVDRPRA?oc=5",
-   "date": "2026-07-14"
   },
   {
    "cat": "media",
@@ -53,7 +46,14 @@
   },
   {
    "cat": "media",
-   "source": "waterportal.ca",
+   "source": "BC Gov News",
+   "title": "Urging people, businesses to conserve water",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hMy1YQmlnU0hFd0tFWGVBM3h1YU16d2FxUUQ0OU5NZlRVLWVwNXVDWFpOSTROd2t2eEtWZ3Zzem43cVY4czlZTFoyWHV0UGNLSTNjc0h0eGpqUnVsVDRPRA?oc=5",
+   "date": "2026-07-14"
+  },
+  {
+   "cat": "media",
+   "source": "Canada WaterPortal",
    "title": "By the Numbers: Building the Workforce Our Watersheds Need",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12MWFnclBWdkRNaFVYeUpabDRobFRNTkZwcGtYc1FDVjJzNERYbzBPVE9HeERaYnBvSldLNElrZFpnNEdXRGo2b1F0UDdhbzB3bTdxdkZ4QVUtRV9wcGREUWczeFlVc0ZYNXhNdDZzeTM?oc=5",
    "date": "2026-07-02"
