@@ -1,7 +1,21 @@
 {
- "updated": "2026-08-10T08:04:06.558Z",
+ "updated": "2026-08-10T13:43:08.750Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
+  {
+   "cat": "media",
+   "source": "CBS News",
+   "title": "Wildfires raging in western U.S., Canada amid severe drought force thousands to evacuate",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMFowc29lTXJxY3JNMkF1QlQyMkY1MWtwRTByejMyaEpacjZZLWVyUnIyLXRROVI3RDFPMWRhOTBCTlc1ZWJXTU5vZnp4WWtIY2trek9iN1R5cjM3NUhWekp6eTc4aHplVUxYWWptYTVPdmJSbjhXUElsWS1Ja3lXd3MtRURyd0lEejg4eg?oc=5",
+   "date": "2026-08-10"
+  },
+  {
+   "cat": "media",
+   "source": "The Weather Channel",
+   "title": "Wildfires force 20,000 to flee as British Columbia declares emergency",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMDNBVU4zakxvSGc0ZDJNMXRKb2M1aTJWVTJfdzZtRDRrcy1TeEdzWXg5Z3Q2dTBGTEFHX1lvdmpoaTRJZi13NGVOZmtzQ2c4MVNNOFVwUGdUcFdmeG1RejBnamtyazQ4dE91bHRRSkRwWVY0eUdlYTRSVEdDcmhmZG9RckNmTVd3NlpLX291YXU5bG1uUG54bG0wLTJjUjZSOENQX0Q5N3h3RThxMjB0TTdLeG5rMkU?oc=5",
+   "date": "2026-08-09"
+  },
   {
    "cat": "media",
    "source": "CBC",
@@ -11,8 +25,8 @@
   },
   {
    "cat": "media",
-   "source": "agriculture.canada.ca",
-   "title": "Current drought conditions",
+   "source": "News",
+   "title": "Current drought conditions - Agriculture and Agri-food Canada",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2RtZHR3NEhNVFBZOXYwQ0hIV19vTTh3NDQ0YVlRem1wcDktaWx2bFAwR1FFek94Q0puSUE4UzdHVy13dmpPTjVUVC0yZEM4Zi1RZHRUSFNOTm9nN0k5enlPaUFscGt1QVpnNktGY1dOcVpvSVlFUjlaVnZJZy1UWFdfQXVTa1hIclZ2MTRRalRUdHo4a2hxdGxpRmtDLXlKa0o3UUZVeHFFOVNwV1FLUW5uS09oa0E?oc=5",
    "date": "2026-08-07"
   },
@@ -38,6 +52,13 @@
    "date": "2026-07-27"
   },
   {
+   "cat": "media",
+   "source": "CTV News",
+   "title": "B.C. forecasters predict Super El Niño could bring more drought",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObXlWT1JrcnV5ZlpFcjFSZ0dJUFlZNkZhVng2c3lXb3VrMjVhWGdtbk0xNGNPbDlwdlZuUXdEcGt0cmdZeHZvRWxtT21keUN2eU90aUc1azZ2ZnV0U29RcWlWb0ZXMi1OS3U0OFgzVUt5bEd5VFJfUHZwUkFJU180WWZxdU1sSldNZWpkWFl4UXpaWC1lXzFUR2hTRVBDSi1Pa3lFVlk2eGo0RFRXb1duaw?oc=5",
+   "date": "2026-07-26"
+  },
+  {
    "cat": "codeblue",
    "source": "CodeBlue BC",
    "date": "2026-07-23",
@@ -53,13 +74,6 @@
   },
   {
    "cat": "media",
-   "source": "CTV News",
-   "title": "B.C. issues water warning amid drought conditions and record-low stream flows",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHJmcEZUNjFPRnU4X2UzQ25tQnRvMk1uR3BhT2otZkVvamd5ZFdFNG8xUEM1VmF3dFBJTU1iWlpoSnJpSmdCakwyZnZuamtESnJBeDRFbGRwR01MbnUycHQwd1p1cmw1a2NyNjV6VWZlUkNiODFQWGU3d2ppNmtzWWtRd0hnRFVZVlpLSTVvRjZXbUFEM21rY3NFbUhVM1N5TUdvOEZvSmI0SEcwNldpbnMwbVplQUFY?oc=5",
-   "date": "2026-07-14"
-  },
-  {
-   "cat": "media",
    "source": "BC Gov News",
    "title": "Urging people, businesses to conserve water",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hMy1YQmlnU0hFd0tFWGVBM3h1YU16d2FxUUQ0OU5NZlRVLWVwNXVDWFpOSTROd2t2eEtWZ3Zzem43cVY4czlZTFoyWHV0UGNLSTNjc0h0eGpqUnVsVDRPRA?oc=5",
@@ -67,7 +81,7 @@
   },
   {
    "cat": "media",
-   "source": "Canada WaterPortal",
+   "source": "waterportal.ca",
    "title": "By the Numbers: Building the Workforce Our Watersheds Need",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12MWFnclBWdkRNaFVYeUpabDRobFRNTkZwcGtYc1FDVjJzNERYbzBPVE9HeERaYnBvSldLNElrZFpnNEdXRGo2b1F0UDdhbzB3bTdxdkZ4QVUtRV9wcGREUWczeFlVc0ZYNXhNdDZzeTM?oc=5",
    "date": "2026-07-02"
@@ -81,17 +95,10 @@
   },
   {
    "cat": "media",
-   "source": "thestar.com",
+   "source": "Toronto Star",
    "title": "Vast majority of British Columbians support local water restrictions, poll suggests",
    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPYkJES0trVm5ycE1KMUlNSFVEYldhc1RPVXJrVHV5bEZScXkzRUVSMlEySzdEak5tSGV3VFo4ZE4tRnJEUGJmbnNtWlgyMnFUZF83U1R2OUNRdHVHR2E2Y21JbFVGemVpRXBseGhEd2NHekt2bU5qb1RzdFJ5dHlBb0syOWxvdFJZLTR3WnFtMFp5QTFydExwcW9FNVV5czd4WUZlaEJKZ2hIemZSYTlUQVowdzAyMmdJcDBLYlB6Tnd2bzFPX296MUlwWkt5SHpsdFZ1MkQ2aUVkVXhfWkh2NFJzX21oMHJkc3lNcVpZQXNQbXZ6aUR2X3lKYXoxa0xDXzlEcm9R?oc=5",
    "date": "2026-06-17"
-  },
-  {
-   "cat": "media",
-   "source": "CHEK News",
-   "title": "Low snowpack, dry conditions raise drought fears on Vancouver Island",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMkplOE43eHhmb3VhUGdGM29aSXM0WUtYS2FkZ0VsV2g1Umd6dTc4T3UyUXdFeDNhMlMwR0NpRUtnaUl1eHVnT1RZTkZTRG5nTWl1NFFIOGtGZHVKT1k2WHg3TEVlUTBLdHV6VVBnYXR0ekdjSHRIODlsQnMtV0pQbDBhcGNuVFo4SHVqeF9aUWkxX0I1NjNsU1FJNGI?oc=5",
-   "date": "2026-05-17"
   },
   {
    "cat": "codeblue",
@@ -99,13 +106,6 @@
    "date": "2026-04-21",
    "title": "Small, Warty, and Remarkable: The Western Toad — Five Facts",
    "url": "https://www.codebluebc.ca/western-toad"
-  },
-  {
-   "cat": "media",
-   "source": "The Weather Network",
-   "title": "B.C. snowpack reveals sharp divide ahead of the spring melt",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUkZNVXJUOC1Nb2VwQ0FoWFRSMm1wVHdYYTljMTY3MWd0ZDFGMWdTQlFRbXI0NkZNVEtGS0Z0bzI0ejRQY3BZdG1FczAtTWk1S294Sm5ScVhTa1g1NTdVQ3V4WjFwaWw4X0dyYUVwTm1zTDZLM3pEWFNQakxVZHVJaGwxUW42X29oMlB5NXFrbUZydFBDUkdmUzV3eURvU241c1VqRkF0R0NacHUtdDNsaVNBNnpBdFdRLWc?oc=5",
-   "date": "2026-04-11"
   },
   {
    "cat": "codeblue",
