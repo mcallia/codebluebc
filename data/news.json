@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T02:27:23.512Z",
+ "updated": "2026-08-11T07:36:36.375Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -39,7 +39,7 @@
   },
   {
    "cat": "media",
-   "source": "storymaps.arcgis.com",
+   "source": "ArcGIS StoryMaps",
    "title": "Mapping the Alberta - British Columbia Boundary",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RYUFxSlU1dkZLa0ZrUU5HZTlHT3NGT29qbkpCWWRSUHR5bUN3Z3NreUsyNS1nejlTVmFCMU1RS21JT1RqeTA1WC1fTUFWUlpQNVpJTDkwTmp0b3p3Q0k0Y0RENy0xNlFlcXhnX1NtNnNNZU1uYk45UQ?oc=5",
    "date": "2026-07-27"
@@ -60,16 +60,16 @@
   },
   {
    "cat": "media",
-   "source": "CTV News",
-   "title": "B.C. issues water warning amid drought conditions and record-low stream flows",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHJmcEZUNjFPRnU4X2UzQ25tQnRvMk1uR3BhT2otZkVvamd5ZFdFNG8xUEM1VmF3dFBJTU1iWlpoSnJpSmdCakwyZnZuamtESnJBeDRFbGRwR01MbnUycHQwd1p1cmw1a2NyNjV6VWZlUkNiODFQWGU3d2ppNmtzWWtRd0hnRFVZVlpLSTVvRjZXbUFEM21rY3NFbUhVM1N5TUdvOEZvSmI0SEcwNldpbnMwbVplQUFY?oc=5",
+   "source": "BC Gov News",
+   "title": "Urging people, businesses to conserve water",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hMy1YQmlnU0hFd0tFWGVBM3h1YU16d2FxUUQ0OU5NZlRVLWVwNXVDWFpOSTROd2t2eEtWZ3Zzem43cVY4czlZTFoyWHV0UGNLSTNjc0h0eGpqUnVsVDRPRA?oc=5",
    "date": "2026-07-14"
   },
   {
    "cat": "media",
-   "source": "BC Gov News",
-   "title": "Urging people, businesses to conserve water",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hMy1YQmlnU0hFd0tFWGVBM3h1YU16d2FxUUQ0OU5NZlRVLWVwNXVDWFpOSTROd2t2eEtWZ3Zzem43cVY4czlZTFoyWHV0UGNLSTNjc0h0eGpqUnVsVDRPRA?oc=5",
+   "source": "CTV News",
+   "title": "B.C. issues water warning amid drought conditions and record-low stream flows",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHJmcEZUNjFPRnU4X2UzQ25tQnRvMk1uR3BhT2otZkVvamd5ZFdFNG8xUEM1VmF3dFBJTU1iWlpoSnJpSmdCakwyZnZuamtESnJBeDRFbGRwR01MbnUycHQwd1p1cmw1a2NyNjV6VWZlUkNiODFQWGU3d2ppNmtzWWtRd0hnRFVZVlpLSTVvRjZXbUFEM21rY3NFbUhVM1N5TUdvOEZvSmI0SEcwNldpbnMwbVplQUFY?oc=5",
    "date": "2026-07-14"
   },
   {
