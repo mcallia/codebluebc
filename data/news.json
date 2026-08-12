@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T19:19:34.058Z",
+ "updated": "2026-08-12T02:43:23.923Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -60,17 +60,17 @@
   },
   {
    "cat": "media",
-   "source": "CTV News",
-   "title": "B.C. issues water warning amid drought conditions and record-low stream flows",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHJmcEZUNjFPRnU4X2UzQ25tQnRvMk1uR3BhT2otZkVvamd5ZFdFNG8xUEM1VmF3dFBJTU1iWlpoSnJpSmdCakwyZnZuamtESnJBeDRFbGRwR01MbnUycHQwd1p1cmw1a2NyNjV6VWZlUkNiODFQWGU3d2ppNmtzWWtRd0hnRFVZVlpLSTVvRjZXbUFEM21rY3NFbUhVM1N5TUdvOEZvSmI0SEcwNldpbnMwbVplQUFY?oc=5",
+   "source": "BC Gov News",
+   "title": "Urging people, businesses to conserve water",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hMy1YQmlnU0hFd0tFWGVBM3h1YU16d2FxUUQ0OU5NZlRVLWVwNXVDWFpOSTROd2t2eEtWZ3Zzem43cVY4czlZTFoyWHV0UGNLSTNjc0h0eGpqUnVsVDRPRA?oc=5",
    "date": "2026-07-14"
   },
   {
    "cat": "media",
    "source": "BC Gov News",
-   "title": "Urging people, businesses to conserve water",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hMy1YQmlnU0hFd0tFWGVBM3h1YU16d2FxUUQ0OU5NZlRVLWVwNXVDWFpOSTROd2t2eEtWZ3Zzem43cVY4czlZTFoyWHV0UGNLSTNjc0h0eGpqUnVsVDRPRA?oc=5",
-   "date": "2026-07-14"
+   "title": "Work underway on three conservation planning projects",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBON1luUVFHOG04d2tnUVBTZDZRenFkX0szRHpFbF90aWhqN2FnN2xfUXBrdlJqVmVnMHhFRHlBeTYzbTRKRV9SNFpWTU4zQWduUVRNekJVWkVTNUp3OExxOQ?oc=5",
+   "date": "2026-07-06"
   },
   {
    "cat": "media",
@@ -94,18 +94,18 @@
    "date": "2026-04-30"
   },
   {
+   "cat": "media",
+   "source": "The Weather Network",
+   "title": "Early-season heat event set to impact British Columbia",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeEtENGdnMFJwQUJwblNKdWZNeDMzT1dfYWZmT2N1M2VGeG5udk9aUkVIdjFoS0NHbjI0V0FuRkNNOHNrWWE2bHo5T21lRGNMQjVuZDJBVmdYOW9MYWZ2TzctQ2I2OW94R0lCLUlVSXp1QjdjV0pVMHFiYnc4OFg5WUtQRThEZzR6a1l2bl9hdF9GSktzZFFOc3NTbnViOVRoc2Q0Vks1Ym9aYUw2VzVoQXhyNmdDTG9Oak5kcy1aV1Q4Zw?oc=5",
+   "date": "2026-04-29"
+  },
+  {
    "cat": "codeblue",
    "source": "CodeBlue BC",
    "date": "2026-04-21",
    "title": "Small, Warty, and Remarkable: The Western Toad — Five Facts",
    "url": "https://www.codebluebc.ca/western-toad"
-  },
-  {
-   "cat": "media",
-   "source": "The Weather Network",
-   "title": "Low snowpack in Interior B.C. sparks concerns for agriculture and wildfire risks",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbTBZOV9IUWNUUUZWYWxrbm9rRkdQOXhOdk94NEtSMTF4LTdsRjZ3blc0Nks5TmhHUUdmU0ZtbFltQXdkRkVrQmpTLVhaWmtiOFdZMXVuODNRcG5sZUxNNG1ydGptVnZyd2VMU1VYcmVzM2k5UE1qX0tEWlgtU1BwN1JsbzI2cm9VWEd0SnJvLUdHOGx0Mm1rck5uRFNIUGt2aHZhcjRlOFpDb0owd25fY1pFaGdEVE1vaHl0ZHZyWThCdlcwUE1wcjEybDNEcFlIZE9sWWE0XzBUUQ?oc=5",
-   "date": "2026-02-25"
   },
   {
    "cat": "codeblue",
