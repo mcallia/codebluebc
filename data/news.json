@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T19:19:51.840Z",
+ "updated": "2026-08-13T02:46:36.120Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -11,24 +11,10 @@
   },
   {
    "cat": "media",
-   "source": "Country Guide",
-   "title": "Hot July spreads drought across the country",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmtxaTFmUGZPN0JjUTIxZ0M0TXlpdXhNTkZwQ3Q2bXpDVm1sdUY1RjlQeFA1Qk9VemxuSDlZYUhicGRzZG9LV1dCaWtMLWRqdW9UbGNDYm1CVGhQYjlFNERQSUljLUFSdXZkUlBwSEUxOExGY2JGdmhqYTlTSTdFclRjM1VKUQ?oc=5",
-   "date": "2026-08-11"
-  },
-  {
-   "cat": "media",
    "source": "CBS News",
    "title": "Wildfires raging in western U.S., Canada amid severe drought force thousands to evacuate",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMFowc29lTXJxY3JNMkF1QlQyMkY1MWtwRTByejMyaEpacjZZLWVyUnIyLXRROVI3RDFPMWRhOTBCTlc1ZWJXTU5vZnp4WWtIY2trek9iN1R5cjM3NUhWekp6eTc4aHplVUxYWWptYTVPdmJSbjhXUElsWS1Ja3lXd3MtRURyd0lEejg4eg?oc=5",
    "date": "2026-08-10"
-  },
-  {
-   "cat": "media",
-   "source": "The Weather Channel",
-   "title": "Wildfires force 20,000 to flee as British Columbia declares emergency",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMDNBVU4zakxvSGc0ZDJNMXRKb2M1aTJWVTJfdzZtRDRrcy1TeEdzWXg5Z3Q2dTBGTEFHX1lvdmpoaTRJZi13NGVOZmtzQ2c4MVNNOFVwUGdUcFdmeG1RejBnamtyazQ4dE91bHRRSkRwWVY0eUdlYTRSVEdDcmhmZG9RckNmTVd3NlpLX291YXU5bG1uUG54bG0wLTJjUjZSOENQX0Q5N3h3RThxMjB0TTdLeG5rMkU?oc=5",
-   "date": "2026-08-09"
   },
   {
    "cat": "media",
@@ -92,6 +78,20 @@
    "title": "Media Release: On World Drought Day, BC Coalition Calls for Provincial Action on Drought and Water Scarcity",
    "url": "https://watershedsecurity.ca/media-release-world-drought-day/",
    "date": "2026-06-17"
+  },
+  {
+   "cat": "media",
+   "source": "News",
+   "title": "Canadian Drought Outlook - Agriculture and Agri-food Canada",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGx5WC03LU82eEVjRml0SHF0M1B3eVppRlh6RnNXdEEzaUxRMjNFWnpwUzhIbG1aQ2FnVlpFUXRQdFVLdXpMUGdTWW15UUQyQTN0RzRURlQwTVc2UTloQktqem12RzhlU1ZURjVtNkdBNXpaVmVBejAtYmdjNF9ldW5WcnZSUkhRNC04eHp4M05OMDg?oc=5",
+   "date": "2026-04-30"
+  },
+  {
+   "cat": "media",
+   "source": "The Weather Network",
+   "title": "Early-season heat event set to impact British Columbia",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeEtENGdnMFJwQUJwblNKdWZNeDMzT1dfYWZmT2N1M2VGeG5udk9aUkVIdjFoS0NHbjI0V0FuRkNNOHNrWWE2bHo5T21lRGNMQjVuZDJBVmdYOW9MYWZ2TzctQ2I2OW94R0lCLUlVSXp1QjdjV0pVMHFiYnc4OFg5WUtQRThEZzR6a1l2bl9hdF9GSktzZFFOc3NTbnViOVRoc2Q0Vks1Ym9aYUw2VzVoQXhyNmdDTG9Oak5kcy1aV1Q4Zw?oc=5",
+   "date": "2026-04-29"
   },
   {
    "cat": "codeblue",
