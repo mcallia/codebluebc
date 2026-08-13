@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T07:52:27.346Z",
+ "updated": "2026-08-13T13:46:46.552Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -67,6 +67,13 @@
   },
   {
    "cat": "media",
+   "source": "BC Gov News",
+   "title": "Work underway on three conservation planning projects",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBON1luUVFHOG04d2tnUVBTZDZRenFkX0szRHpFbF90aWhqN2FnN2xfUXBrdlJqVmVnMHhFRHlBeTYzbTRKRV9SNFpWTU4zQWduUVRNekJVWkVTNUp3OExxOQ?oc=5",
+   "date": "2026-07-06"
+  },
+  {
+   "cat": "media",
    "source": "Canada WaterPortal",
    "title": "By the Numbers: Building the Workforce Our Watersheds Need",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12MWFnclBWdkRNaFVYeUpabDRobFRNTkZwcGtYc1FDVjJzNERYbzBPVE9HeERaYnBvSldLNElrZFpnNEdXRGo2b1F0UDdhbzB3bTdxdkZ4QVUtRV9wcGREUWczeFlVc0ZYNXhNdDZzeTM?oc=5",
@@ -99,13 +106,6 @@
    "date": "2026-04-21",
    "title": "Small, Warty, and Remarkable: The Western Toad — Five Facts",
    "url": "https://www.codebluebc.ca/western-toad"
-  },
-  {
-   "cat": "media",
-   "source": "Nelson Star",
-   "title": "B.C. snowpack near normal but some regions face drought risk",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLXpDWVdpd0E3NW52MFR3VVJFZWlMRzc3ZXpSNkhCSTJjRUxvWkpWa0pPWFlaUGpQTlNYRXd4UzRTYmh6ZzByME5VeGZtN2NmR2tjQXN6cEpQci1ZdlpkSUxqTGcwakZQeXd0eUpMTnB1UlVsVzFwc0hBSVRBNHBGYURZRFVHallMTXZ6ampzeVBCWXpVXzY5WFV3?oc=5",
-   "date": "2026-03-10"
   },
   {
    "cat": "codeblue",
