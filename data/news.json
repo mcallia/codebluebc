@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T19:19:46.923Z",
+ "updated": "2026-08-14T02:45:25.250Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -11,17 +11,10 @@
   },
   {
    "cat": "media",
-   "source": "columbiavalleypioneer.com",
+   "source": "Columbia Valley Pioneer",
    "title": "Wildfires harmful to our watersheds",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UVHZiUDAxRlFReXZNRG1aMTA3clpPSDFMNUNwdl9iUHUzaXRZbzQ1Z041TEJVZmFnRml4R2pGemJEYURyU3lpVGp6ZnVwOVhkN3ZVUFE3dlk1Q1pfZ2VqSzc4MXN2STF1NV9TSS04Q0JfcjRTYmFFOGRySi03dFU?oc=5",
    "date": "2026-08-11"
-  },
-  {
-   "cat": "media",
-   "source": "CBS News",
-   "title": "Wildfires raging in western U.S., Canada amid severe drought force thousands to evacuate",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMFowc29lTXJxY3JNMkF1QlQyMkY1MWtwRTByejMyaEpacjZZLWVyUnIyLXRROVI3RDFPMWRhOTBCTlc1ZWJXTU5vZnp4WWtIY2trek9iN1R5cjM3NUhWekp6eTc4aHplVUxYWWptYTVPdmJSbjhXUElsWS1Ja3lXd3MtRURyd0lEejg4eg?oc=5",
-   "date": "2026-08-10"
   },
   {
    "cat": "media",
@@ -46,10 +39,17 @@
   },
   {
    "cat": "media",
-   "source": "storymaps.arcgis.com",
+   "source": "ArcGIS StoryMaps",
    "title": "Mapping the Alberta - British Columbia Boundary",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RYUFxSlU1dkZLa0ZrUU5HZTlHT3NGT29qbkpCWWRSUHR5bUN3Z3NreUsyNS1nejlTVmFCMU1RS21JT1RqeTA1WC1fTUFWUlpQNVpJTDkwTmp0b3p3Q0k0Y0RENy0xNlFlcXhnX1NtNnNNZU1uYk45UQ?oc=5",
    "date": "2026-07-27"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Part of northeast B.C. back to 'abnormally dry,' with long drought recovery expected",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX09kY3hXOEwxdDAwMFVrd0hXc2pTdDYzclg0WnktRnlxaU1CRmdNVUMyWWlmekFVUEdQOUF1QUNaMkxTeExYZXdKYWh3eVdXWC1OZ3VDeERQTkZ6V1N4YXJNbkVzSk5Od3ZyU1JBbmQyRml4Z0JNbzJTamVRTFl0c3VydHVoSTVDZ1g5aHRrS1V2YlYzYXJ4U0pFWFNsSmxVV05IYmdGX04?oc=5",
+   "date": "2026-07-26"
   },
   {
    "cat": "codeblue",
@@ -60,7 +60,7 @@
   },
   {
    "cat": "media",
-   "source": "BC Gov News",
+   "source": "Government of British Columbia",
    "title": "Urging people, businesses to conserve water",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hMy1YQmlnU0hFd0tFWGVBM3h1YU16d2FxUUQ0OU5NZlRVLWVwNXVDWFpOSTROd2t2eEtWZ3Zzem43cVY4czlZTFoyWHV0UGNLSTNjc0h0eGpqUnVsVDRPRA?oc=5",
    "date": "2026-07-14"
@@ -78,6 +78,13 @@
    "title": "Media Release: On World Drought Day, BC Coalition Calls for Provincial Action on Drought and Water Scarcity",
    "url": "https://watershedsecurity.ca/media-release-world-drought-day/",
    "date": "2026-06-17"
+  },
+  {
+   "cat": "media",
+   "source": "News",
+   "title": "Canadian Drought Outlook - Agriculture and Agri-food Canada",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGx5WC03LU82eEVjRml0SHF0M1B3eVppRlh6RnNXdEEzaUxRMjNFWnpwUzhIbG1aQ2FnVlpFUXRQdFVLdXpMUGdTWW15UUQyQTN0RzRURlQwTVc2UTloQktqem12RzhlU1ZURjVtNkdBNXpaVmVBejAtYmdjNF9ldW5WcnZSUkhRNC04eHp4M05OMDg?oc=5",
+   "date": "2026-04-30"
   },
   {
    "cat": "media",
@@ -99,13 +106,6 @@
    "title": "British Columbia Snowpack Hits 115% of Normal — and Some Stations Just Set All-Time Records",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14eVV4ZXEtcDgtcF96alBHR1FBaU52dzZTRFVoNk1RanNGZGhjeDRvdmhDUWtnMHdVWjZNZkJudkRBWUVTNE1HaEV5RTFiY3NHaklCSDdtbjRkZDlkNVBpRi15aDBmZ2RGVFNvam9OaDd5WlZDTVpuTUdNRWQ?oc=5",
    "date": "2026-04-03"
-  },
-  {
-   "cat": "media",
-   "source": "Nelson Star",
-   "title": "B.C. snowpack near normal but some regions face drought risk",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLXpDWVdpd0E3NW52MFR3VVJFZWlMRzc3ZXpSNkhCSTJjRUxvWkpWa0pPWFlaUGpQTlNYRXd4UzRTYmh6ZzByME5VeGZtN2NmR2tjQXN6cEpQci1ZdlpkSUxqTGcwakZQeXd0eUpMTnB1UlVsVzFwc0hBSVRBNHBGYURZRFVHallMTXZ6ampzeVBCWXpVXzY5WFV3?oc=5",
-   "date": "2026-03-10"
   },
   {
    "cat": "codeblue",
