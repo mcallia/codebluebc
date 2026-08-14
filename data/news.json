@@ -1,7 +1,14 @@
 {
- "updated": "2026-08-14T07:49:53.617Z",
+ "updated": "2026-08-14T13:42:24.294Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
+  {
+   "cat": "media",
+   "source": "PembinaValleyOnline",
+   "title": "National Drought Footprint increases during July, with limited impact for Agriculture",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRGtfblpuVHBSYUxrTWpNNU9nVDlmU2ZfY0kzWHc0eGpGbXcxdkVOM3gwR1VzbWlyMk5qRE1IR3dhNnhFcWpUdDZaWk9Pb1h5Zm1IdEowU3VIMHhtcWFwVENRWlFkaTZ1czJuWWhmalA3T2lDclNJY3FISDlRWDY4Ym9udnZDUXc0ZVpKd3JXWXJ3RGVTVk92eFlScnQzMGg0RjhmSHdrQ25KdnFPZ21JOWZwVW15VTE4UEliN0VZNnRlR00?oc=5",
+   "date": "2026-08-14"
+  },
   {
    "cat": "media",
    "source": "CBC",
@@ -39,7 +46,7 @@
   },
   {
    "cat": "media",
-   "source": "ArcGIS StoryMaps",
+   "source": "storymaps.arcgis.com",
    "title": "Mapping the Alberta - British Columbia Boundary",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RYUFxSlU1dkZLa0ZrUU5HZTlHT3NGT29qbkpCWWRSUHR5bUN3Z3NreUsyNS1nejlTVmFCMU1RS21JT1RqeTA1WC1fTUFWUlpQNVpJTDkwTmp0b3p3Q0k0Y0RENy0xNlFlcXhnX1NtNnNNZU1uYk45UQ?oc=5",
    "date": "2026-07-27"
@@ -53,17 +60,10 @@
   },
   {
    "cat": "media",
-   "source": "Government of British Columbia",
+   "source": "BC Gov News",
    "title": "Urging people, businesses to conserve water",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hMy1YQmlnU0hFd0tFWGVBM3h1YU16d2FxUUQ0OU5NZlRVLWVwNXVDWFpOSTROd2t2eEtWZ3Zzem43cVY4czlZTFoyWHV0UGNLSTNjc0h0eGpqUnVsVDRPRA?oc=5",
    "date": "2026-07-14"
-  },
-  {
-   "cat": "media",
-   "source": "Government of British Columbia",
-   "title": "Work underway on three conservation planning projects",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBON1luUVFHOG04d2tnUVBTZDZRenFkX0szRHpFbF90aWhqN2FnN2xfUXBrdlJqVmVnMHhFRHlBeTYzbTRKRV9SNFpWTU4zQWduUVRNekJVWkVTNUp3OExxOQ?oc=5",
-   "date": "2026-07-06"
   },
   {
    "cat": "media",
@@ -81,10 +81,10 @@
   },
   {
    "cat": "media",
-   "source": "The Weather Network",
-   "title": "Early-season heat event set to impact British Columbia",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeEtENGdnMFJwQUJwblNKdWZNeDMzT1dfYWZmT2N1M2VGeG5udk9aUkVIdjFoS0NHbjI0V0FuRkNNOHNrWWE2bHo5T21lRGNMQjVuZDJBVmdYOW9MYWZ2TzctQ2I2OW94R0lCLUlVSXp1QjdjV0pVMHFiYnc4OFg5WUtQRThEZzR6a1l2bl9hdF9GSktzZFFOc3NTbnViOVRoc2Q0Vks1Ym9aYUw2VzVoQXhyNmdDTG9Oak5kcy1aV1Q4Zw?oc=5",
-   "date": "2026-04-29"
+   "source": "News",
+   "title": "Vancouver Island faces elevated drought risk as province prepares for wildfire season - Ha-Shilth-Sa Newspaper",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMmFRY25pbFFPWHg2Y3NhcFhlMHpfVS1DUzVLVmNrQ3FyWVkwem8wM0tLVmc4TENwTlhrMy1BS0xXY0FfczFyQTh0ZVc3Tnd5NVZoNEVwRHdEYjM4X1dMWHpKZmJmVXlGRnNXeFNrX0Y4ZV8xT2FkQ04xTFZ3clRYOC1pWk1NdjdLcFdLRnRyTThESklQcDIzcThTVmdSMUsxLTlfeGxrOVNkeFRfRVk4RFZvRGlWS2ZF?oc=5",
+   "date": "2026-04-22"
   },
   {
    "cat": "codeblue",
@@ -95,7 +95,7 @@
   },
   {
    "cat": "media",
-   "source": "SnowBrains",
+   "source": "snowbrains.com",
    "title": "British Columbia Snowpack Hits 115% of Normal — and Some Stations Just Set All-Time Records",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14eVV4ZXEtcDgtcF96alBHR1FBaU52dzZTRFVoNk1RanNGZGhjeDRvdmhDUWtnMHdVWjZNZkJudkRBWUVTNE1HaEV5RTFiY3NHaklCSDdtbjRkZDlkNVBpRi15aDBmZ2RGVFNvam9OaDd5WlZDTVpuTUdNRWQ?oc=5",
    "date": "2026-04-03"
