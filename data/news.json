@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T12:59:55.751Z",
+ "updated": "2026-08-16T18:46:23.378Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -25,7 +25,7 @@
   },
   {
    "cat": "media",
-   "source": "columbiavalleypioneer.com",
+   "source": "Columbia Valley Pioneer",
    "title": "Wildfires harmful to our watersheds",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UVHZiUDAxRlFReXZNRG1aMTA3clpPSDFMNUNwdl9iUHUzaXRZbzQ1Z041TEJVZmFnRml4R2pGemJEYURyU3lpVGp6ZnVwOVhkN3ZVUFE3dlk1Q1pfZ2VqSzc4MXN2STF1NV9TSS04Q0JfcjRTYmFFOGRySi03dFU?oc=5",
    "date": "2026-08-11"
@@ -36,6 +36,13 @@
    "title": "Current drought conditions - Agriculture and Agri-food Canada",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2RtZHR3NEhNVFBZOXYwQ0hIV19vTTh3NDQ0YVlRem1wcDktaWx2bFAwR1FFek94Q0puSUE4UzdHVy13dmpPTjVUVC0yZEM4Zi1RZHRUSFNOTm9nN0k5enlPaUFscGt1QVpnNktGY1dOcVpvSVlFUjlaVnZJZy1UWFdfQXVTa1hIclZ2MTRRalRUdHo4a2hxdGxpRmtDLXlKa0o3UUZVeHFFOVNwV1FLUW5uS09oa0E?oc=5",
    "date": "2026-08-07"
+  },
+  {
+   "cat": "media",
+   "source": "gov.bc.ca",
+   "title": "Freshwater fishing regulations in B.C. - Province of British Columbia",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTnlORk9qZXZlMkw1amlzSVZ2enNLSkhCUGU3M081Z2dya21janhOemx5eHBTeGo4YkFXUXN0Wkh3RmZfYTNYRWY2SUtZbUQzZ0hqS2RucHNFSEMwMzA0TGdPMVZ2eU1VZ0g0UkxWOEFpaTR1OGZ4X0g4T0ZmcW5GLV9vdnhONzJDdU5CVDdybGlSUEFGRlRiWDd6MUZhbHl2eFBydlVvYw?oc=5",
+   "date": "2026-07-31"
   },
   {
    "cat": "media",
@@ -67,10 +74,10 @@
   },
   {
    "cat": "media",
-   "source": "BC Gov News",
-   "title": "Work underway on three conservation planning projects",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBON1luUVFHOG04d2tnUVBTZDZRenFkX0szRHpFbF90aWhqN2FnN2xfUXBrdlJqVmVnMHhFRHlBeTYzbTRKRV9SNFpWTU4zQWduUVRNekJVWkVTNUp3OExxOQ?oc=5",
-   "date": "2026-07-06"
+   "source": "CTV News",
+   "title": "B.C. issues water warning amid drought conditions and record-low stream flows",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHJmcEZUNjFPRnU4X2UzQ25tQnRvMk1uR3BhT2otZkVvamd5ZFdFNG8xUEM1VmF3dFBJTU1iWlpoSnJpSmdCakwyZnZuamtESnJBeDRFbGRwR01MbnUycHQwd1p1cmw1a2NyNjV6VWZlUkNiODFQWGU3d2ppNmtzWWtRd0hnRFVZVlpLSTVvRjZXbUFEM21rY3NFbUhVM1N5TUdvOEZvSmI0SEcwNldpbnMwbVplQUFY?oc=5",
+   "date": "2026-07-14"
   },
   {
    "cat": "media",
@@ -99,13 +106,6 @@
    "date": "2026-04-21",
    "title": "Small, Warty, and Remarkable: The Western Toad — Five Facts",
    "url": "https://www.codebluebc.ca/western-toad"
-  },
-  {
-   "cat": "media",
-   "source": "nelsonstar.com",
-   "title": "B.C. snowpack near normal but some regions face drought risk",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLXpDWVdpd0E3NW52MFR3VVJFZWlMRzc3ZXpSNkhCSTJjRUxvWkpWa0pPWFlaUGpQTlNYRXd4UzRTYmh6ZzByME5VeGZtN2NmR2tjQXN6cEpQci1ZdlpkSUxqTGcwakZQeXd0eUpMTnB1UlVsVzFwc0hBSVRBNHBGYURZRFVHallMTXZ6ampzeVBCWXpVXzY5WFV3?oc=5",
-   "date": "2026-03-10"
   },
   {
    "cat": "codeblue",
