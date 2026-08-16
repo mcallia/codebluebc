@@ -1,12 +1,12 @@
 {
- "updated": "2026-08-15T18:47:27.432Z",
+ "updated": "2026-08-16T01:56:57.755Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
    "cat": "media",
    "source": "PembinaValleyOnline",
    "title": "National Drought Footprint increases during July, with limited impact for Agriculture",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRGtfblpuVHBSYUxrTWpNNU9nVDlmU2ZfY0kzWHc0eGpGbXcxdkVOM3gwR1VzbWlyMk5qRE1IR3dhNnhFcWpUdDZaWk9Pb1h5Zm1IdEowU3VIMHhtcWFwVENRWlFkaTZ1czJuWWhmalA3T2lDclNJY3FISDlRWDY4Ym9udnZDUXc0ZVpKd3JXWXJ3RGVTVk92eFlScnQzMGg0RjhmSHdrQ25KdnFPZ21JOWZwVW15VTE4UEliN0VZNnRlR00?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeFJ3a2xGdFVkWnlJWUN4blA3bGxGcDJTdnFWTkJUS0RINE5KR1JENE5oTnNDLXMyWWZ4b1pGOTQ3WUNQOTZ3SmU5akVsQnV0UDFDRkhaUnJkME02RVlLYUt3VFQxQmpJYlNBcExKOXU0LWduYVlrclNWVTJ5eHJoeXM3VFI3OW1MNm56SVh5NXhVVUlvZlRXWW9hOVVpekpPa29zTHN5VXFxcnhjekVaOVFvVkk2dHB6RlBvSUdaczNoZzN1R1hHNA?oc=5",
    "date": "2026-08-14"
   },
   {
@@ -94,18 +94,18 @@
    "date": "2026-04-30"
   },
   {
-   "cat": "media",
-   "source": "The Weather Network",
-   "title": "Early-season heat event set to impact British Columbia",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeEtENGdnMFJwQUJwblNKdWZNeDMzT1dfYWZmT2N1M2VGeG5udk9aUkVIdjFoS0NHbjI0V0FuRkNNOHNrWWE2bHo5T21lRGNMQjVuZDJBVmdYOW9MYWZ2TzctQ2I2OW94R0lCLUlVSXp1QjdjV0pVMHFiYnc4OFg5WUtQRThEZzR6a1l2bl9hdF9GSktzZFFOc3NTbnViOVRoc2Q0Vks1Ym9aYUw2VzVoQXhyNmdDTG9Oak5kcy1aV1Q4Zw?oc=5",
-   "date": "2026-04-29"
-  },
-  {
    "cat": "codeblue",
    "source": "CodeBlue BC",
    "date": "2026-04-21",
    "title": "Small, Warty, and Remarkable: The Western Toad — Five Facts",
    "url": "https://www.codebluebc.ca/western-toad"
+  },
+  {
+   "cat": "media",
+   "source": "Nelson Star",
+   "title": "B.C. snowpack near normal but some regions face drought risk",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLXpDWVdpd0E3NW52MFR3VVJFZWlMRzc3ZXpSNkhCSTJjRUxvWkpWa0pPWFlaUGpQTlNYRXd4UzRTYmh6ZzByME5VeGZtN2NmR2tjQXN6cEpQci1ZdlpkSUxqTGcwakZQeXd0eUpMTnB1UlVsVzFwc0hBSVRBNHBGYURZRFVHallMTXZ6ampzeVBCWXpVXzY5WFV3?oc=5",
+   "date": "2026-03-10"
   },
   {
    "cat": "codeblue",
