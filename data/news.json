@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T07:15:31.715Z",
+ "updated": "2026-08-17T13:05:00.426Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -18,7 +18,7 @@
   },
   {
    "cat": "media",
-   "source": "timesofindia.indiatimes.com",
+   "source": "The Times of India",
    "title": "Dry lightning, record-low lake: British Columbia drought puts region on high fire alert",
    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbkNTVXBTSVdIa1dEZDFlcUVMYlpzb3ZFYVAyN1dvSjkxRlFlVWxMVzlzRFlDRUo1NWNHTURVQ1R4YVl6Rzd0VVlyUzZXaFgwNEh5dGlxMkx3c0dvaS1pbklEWVVDWjV0QmhXZ1ZWQkdmZVpxVkZXRmpXcjJIOWxoZDhWdWV2YVB2OHVSeG4yRTdoUnpjZVRkVVJLWmtpc2xFYmdOVXk4WjhnS0hGZ0NGOHF5M19fSjZDVHg3YkU5a2J3blVOY25ZZUNLLTIxT1JnbWt2N1VBUzhVWFNzRGVMNTlvLVd4WWt2SDdZSUdlY2Y0R01SMTY5ODFjVdIBgAJBVV95cUxPWl8wY1ktUGxWVGFYcDIza0ZxVnVzQVhKdUlzd1dEUTJnOWtQa2pyNjJiVUZleTJJTzd0cThjUm1oTW9NSld3cGxlLW9MbnZJOUdhd2RzU3d2TkhRX1FFR3NCVEJpWDVfdUNHN0RGcU5ISDM5dGdZeXFUTWs2VDVvbW82eGNMMkVNQWxrd19tTzAxX3BsVGlDeTlRekVyck9fWXpNLWw5YjlDWEI5dm1BYm5CV1YwNDJMM1RwNGhBQmc2T0Q1QUd3VU5iZ2NsTW9mU0JrQVhtdXNjMXNnUzZvX1NjTUljbnhla1RuaVNrV3JPMTF6SEpaQWdxOUJ2Q0Rm?oc=5",
    "date": "2026-08-12"
@@ -50,6 +50,13 @@
    "title": "B.C. restricts water usage on Salmon River watershed amid 'severe' drought",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzZ3QUxaU0lZOVRTTmR1d2Vua1ZXdzBaNnQ4OEEzbzI2alpKdEFFNEYwVERhV3ZvSUpWaTlxZjJRWWxhYnB0aE0yN3V2ejJyODZQVGRIdHZaZ19MUmZhVEJqdk15OUtadkZ5VEVKYjFxS3BLUWhsdnd2R0paQktXSmlCRkpmRDRUOTlzQ3JWdk82WlBnSWxENDhB?oc=5",
    "date": "2026-07-28"
+  },
+  {
+   "cat": "media",
+   "source": "ArcGIS StoryMaps",
+   "title": "Mapping the Alberta - British Columbia Boundary",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RYUFxSlU1dkZLa0ZrUU5HZTlHT3NGT29qbkpCWWRSUHR5bUN3Z3NreUsyNS1nejlTVmFCMU1RS21JT1RqeTA1WC1fTUFWUlpQNVpJTDkwTmp0b3p3Q0k0Y0RENy0xNlFlcXhnX1NtNnNNZU1uYk45UQ?oc=5",
+   "date": "2026-07-27"
   },
   {
    "cat": "codeblue",
@@ -85,13 +92,6 @@
    "title": "Media Release: On World Drought Day, BC Coalition Calls for Provincial Action on Drought and Water Scarcity",
    "url": "https://watershedsecurity.ca/media-release-world-drought-day/",
    "date": "2026-06-17"
-  },
-  {
-   "cat": "media",
-   "source": "News",
-   "title": "Canadian Drought Outlook - Agriculture and Agri-food Canada",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGx5WC03LU82eEVjRml0SHF0M1B3eVppRlh6RnNXdEEzaUxRMjNFWnpwUzhIbG1aQ2FnVlpFUXRQdFVLdXpMUGdTWW15UUQyQTN0RzRURlQwTVc2UTloQktqem12RzhlU1ZURjVtNkdBNXpaVmVBejAtYmdjNF9ldW5WcnZSUkhRNC04eHp4M05OMDg?oc=5",
-   "date": "2026-04-30"
   },
   {
    "cat": "codeblue",
