@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T18:46:23.378Z",
+ "updated": "2026-08-17T01:54:27.795Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -52,13 +52,6 @@
    "date": "2026-07-28"
   },
   {
-   "cat": "media",
-   "source": "ArcGIS StoryMaps",
-   "title": "Mapping the Alberta - British Columbia Boundary",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RYUFxSlU1dkZLa0ZrUU5HZTlHT3NGT29qbkpCWWRSUHR5bUN3Z3NreUsyNS1nejlTVmFCMU1RS21JT1RqeTA1WC1fTUFWUlpQNVpJTDkwTmp0b3p3Q0k0Y0RENy0xNlFlcXhnX1NtNnNNZU1uYk45UQ?oc=5",
-   "date": "2026-07-27"
-  },
-  {
    "cat": "codeblue",
    "source": "CodeBlue BC",
    "date": "2026-07-23",
@@ -106,6 +99,13 @@
    "date": "2026-04-21",
    "title": "Small, Warty, and Remarkable: The Western Toad — Five Facts",
    "url": "https://www.codebluebc.ca/western-toad"
+  },
+  {
+   "cat": "media",
+   "source": "Nelson Star",
+   "title": "B.C. snowpack near normal but some regions face drought risk",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLXpDWVdpd0E3NW52MFR3VVJFZWlMRzc3ZXpSNkhCSTJjRUxvWkpWa0pPWFlaUGpQTlNYRXd4UzRTYmh6ZzByME5VeGZtN2NmR2tjQXN6cEpQci1ZdlpkSUxqTGcwakZQeXd0eUpMTnB1UlVsVzFwc0hBSVRBNHBGYURZRFVHallMTXZ6ampzeVBCWXpVXzY5WFV3?oc=5",
+   "date": "2026-03-10"
   },
   {
    "cat": "codeblue",
