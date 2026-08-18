@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T01:50:04.665Z",
+ "updated": "2026-08-18T07:04:07.980Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -32,7 +32,7 @@
   },
   {
    "cat": "media",
-   "source": "Columbia Valley Pioneer",
+   "source": "columbiavalleypioneer.com",
    "title": "Wildfires harmful to our watersheds",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UVHZiUDAxRlFReXZNRG1aMTA3clpPSDFMNUNwdl9iUHUzaXRZbzQ1Z041TEJVZmFnRml4R2pGemJEYURyU3lpVGp6ZnVwOVhkN3ZVUFE3dlk1Q1pfZ2VqSzc4MXN2STF1NV9TSS04Q0JfcjRTYmFFOGRySi03dFU?oc=5",
    "date": "2026-08-11"
@@ -88,13 +88,6 @@
   },
   {
    "cat": "media",
-   "source": "CBC",
-   "title": "Metro Vancouver urges residents to keep saving water as temperatures rise",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkYyMzdES1Awa3lHd1ZxMERUZEF1ci1ZV0ZXaHUxaHVEOGF6cUZtcDA3WU1TSU1qd0Z0TnhqUVQ4dkxSdFA4RmVHbkFBMlBfVFljeGVNUF9SVWtFRzR5TEFxc2xQUk1GODBSc1lqNE9CQWpXU0ROSVgzVkFmeV9URmJIRVE3NC1iR2hqQzBPME11VHhla2Nn?oc=5",
-   "date": "2026-06-13"
-  },
-  {
-   "cat": "media",
    "source": "News",
    "title": "Canadian Drought Outlook - Agriculture and Agri-food Canada",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGx5WC03LU82eEVjRml0SHF0M1B3eVppRlh6RnNXdEEzaUxRMjNFWnpwUzhIbG1aQ2FnVlpFUXRQdFVLdXpMUGdTWW15UUQyQTN0RzRURlQwTVc2UTloQktqem12RzhlU1ZURjVtNkdBNXpaVmVBejAtYmdjNF9ldW5WcnZSUkhRNC04eHp4M05OMDg?oc=5",
@@ -106,6 +99,13 @@
    "date": "2026-04-21",
    "title": "Small, Warty, and Remarkable: The Western Toad — Five Facts",
    "url": "https://www.codebluebc.ca/western-toad"
+  },
+  {
+   "cat": "media",
+   "source": "SnowBrains",
+   "title": "British Columbia Snowpack Hits 115% of Normal — and Some Stations Just Set All-Time Records",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14eVV4ZXEtcDgtcF96alBHR1FBaU52dzZTRFVoNk1RanNGZGhjeDRvdmhDUWtnMHdVWjZNZkJudkRBWUVTNE1HaEV5RTFiY3NHaklCSDdtbjRkZDlkNVBpRi15aDBmZ2RGVFNvam9OaDd5WlZDTVpuTUdNRWQ?oc=5",
+   "date": "2026-04-03"
   },
   {
    "cat": "codeblue",
