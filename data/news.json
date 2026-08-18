@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T13:07:21.793Z",
+ "updated": "2026-08-18T18:55:56.258Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -39,17 +39,17 @@
   },
   {
    "cat": "media",
-   "source": "agriculture.canada.ca",
-   "title": "Current drought conditions",
+   "source": "News",
+   "title": "Current drought conditions - Agriculture and Agri-food Canada",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2RtZHR3NEhNVFBZOXYwQ0hIV19vTTh3NDQ0YVlRem1wcDktaWx2bFAwR1FFek94Q0puSUE4UzdHVy13dmpPTjVUVC0yZEM4Zi1RZHRUSFNOTm9nN0k5enlPaUFscGt1QVpnNktGY1dOcVpvSVlFUjlaVnZJZy1UWFdfQXVTa1hIclZ2MTRRalRUdHo4a2hxdGxpRmtDLXlKa0o3UUZVeHFFOVNwV1FLUW5uS09oa0E?oc=5",
    "date": "2026-08-07"
   },
   {
    "cat": "media",
-   "source": "CBC",
-   "title": "B.C. restricts water usage on Salmon River watershed amid 'severe' drought",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzZ3QUxaU0lZOVRTTmR1d2Vua1ZXdzBaNnQ4OEEzbzI2alpKdEFFNEYwVERhV3ZvSUpWaTlxZjJRWWxhYnB0aE0yN3V2ejJyODZQVGRIdHZaZ19MUmZhVEJqdk15OUtadkZ5VEVKYjFxS3BLUWhsdnd2R0paQktXSmlCRkpmRDRUOTlzQ3JWdk82WlBnSWxENDhB?oc=5",
-   "date": "2026-07-28"
+   "source": "gov.bc.ca",
+   "title": "Freshwater fishing regulations in B.C. - Province of British Columbia",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTnlORk9qZXZlMkw1amlzSVZ2enNLSkhCUGU3M081Z2dya21janhOemx5eHBTeGo4YkFXUXN0Wkh3RmZfYTNYRWY2SUtZbUQzZ0hqS2RucHNFSEMwMzA0TGdPMVZ2eU1VZ0g0UkxWOEFpaTR1OGZ4X0g4T0ZmcW5GLV9vdnhONzJDdU5CVDdybGlSUEFGRlRiWDd6MUZhbHl2eFBydlVvYw?oc=5",
+   "date": "2026-07-31"
   },
   {
    "cat": "media",
@@ -64,6 +64,13 @@
    "date": "2026-07-23",
    "title": "Why Building More Reservoirs Won't Solve BC's Water Problem",
    "url": "https://www.codebluebc.ca/why-building-more-reservoirs-wont-solve-bcs-water-problem"
+  },
+  {
+   "cat": "media",
+   "source": "CTV News",
+   "title": "B.C. issues water warning amid drought conditions and record-low stream flows",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHJmcEZUNjFPRnU4X2UzQ25tQnRvMk1uR3BhT2otZkVvamd5ZFdFNG8xUEM1VmF3dFBJTU1iWlpoSnJpSmdCakwyZnZuamtESnJBeDRFbGRwR01MbnUycHQwd1p1cmw1a2NyNjV6VWZlUkNiODFQWGU3d2ppNmtzWWtRd0hnRFVZVlpLSTVvRjZXbUFEM21rY3NFbUhVM1N5TUdvOEZvSmI0SEcwNldpbnMwbVplQUFY?oc=5",
+   "date": "2026-07-14"
   },
   {
    "cat": "media",
@@ -87,13 +94,6 @@
    "date": "2026-06-17"
   },
   {
-   "cat": "media",
-   "source": "agriculture.canada.ca",
-   "title": "Canadian Drought Outlook",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGx5WC03LU82eEVjRml0SHF0M1B3eVppRlh6RnNXdEEzaUxRMjNFWnpwUzhIbG1aQ2FnVlpFUXRQdFVLdXpMUGdTWW15UUQyQTN0RzRURlQwTVc2UTloQktqem12RzhlU1ZURjVtNkdBNXpaVmVBejAtYmdjNF9ldW5WcnZSUkhRNC04eHp4M05OMDg?oc=5",
-   "date": "2026-04-30"
-  },
-  {
    "cat": "codeblue",
    "source": "CodeBlue BC",
    "date": "2026-04-21",
@@ -102,7 +102,7 @@
   },
   {
    "cat": "media",
-   "source": "SnowBrains",
+   "source": "snowbrains.com",
    "title": "British Columbia Snowpack Hits 115% of Normal — and Some Stations Just Set All-Time Records",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14eVV4ZXEtcDgtcF96alBHR1FBaU52dzZTRFVoNk1RanNGZGhjeDRvdmhDUWtnMHdVWjZNZkJudkRBWUVTNE1HaEV5RTFiY3NHaklCSDdtbjRkZDlkNVBpRi15aDBmZ2RGVFNvam9OaDd5WlZDTVpuTUdNRWQ?oc=5",
    "date": "2026-04-03"
