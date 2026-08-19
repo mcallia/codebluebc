@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T01:52:38.863Z",
+ "updated": "2026-08-19T07:04:34.783Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -32,13 +32,6 @@
   },
   {
    "cat": "media",
-   "source": "Columbia Valley Pioneer",
-   "title": "Wildfires harmful to our watersheds",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UVHZiUDAxRlFReXZNRG1aMTA3clpPSDFMNUNwdl9iUHUzaXRZbzQ1Z041TEJVZmFnRml4R2pGemJEYURyU3lpVGp6ZnVwOVhkN3ZVUFE3dlk1Q1pfZ2VqSzc4MXN2STF1NV9TSS04Q0JfcjRTYmFFOGRySi03dFU?oc=5",
-   "date": "2026-08-11"
-  },
-  {
-   "cat": "media",
    "source": "News",
    "title": "Current drought conditions - Agriculture and Agri-food Canada",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2RtZHR3NEhNVFBZOXYwQ0hIV19vTTh3NDQ0YVlRem1wcDktaWx2bFAwR1FFek94Q0puSUE4UzdHVy13dmpPTjVUVC0yZEM4Zi1RZHRUSFNOTm9nN0k5enlPaUFscGt1QVpnNktGY1dOcVpvSVlFUjlaVnZJZy1UWFdfQXVTa1hIclZ2MTRRalRUdHo4a2hxdGxpRmtDLXlKa0o3UUZVeHFFOVNwV1FLUW5uS09oa0E?oc=5",
@@ -48,7 +41,7 @@
    "cat": "media",
    "source": "gov.bc.ca",
    "title": "Freshwater fishing regulations in B.C. - Province of British Columbia",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTnlORk9qZXZlMkw1amlzSVZ2enNLSkhCUGU3M081Z2dya21janhOemx5eHBTeGo4YkFXUXN0Wkh3RmZfYTNYRWY2SUtZbUQzZ0hqS2RucHNFSEMwMzA0TGdPMVZ2eU1VZ0g0UkxWOEFpaTR1OGZ4X0g4T0ZmcW5GLV9vdnhONzJDdU5CVDdybGlSUEFGRlRiWDd6MUZhbHl2eFBydlVvYw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DbDh0U3NqUkpfaGZmb2tmd0ltS3hCU1ZxZVZEME5JRlZNMW54NXBNMnZxb2ZSTWdzeUluWWFRVzhGVUJYRlU3QXA1YW1CNGNWRXc?oc=5",
    "date": "2026-07-31"
   },
   {
@@ -94,6 +87,13 @@
    "date": "2026-06-17"
   },
   {
+   "cat": "media",
+   "source": "News",
+   "title": "Canadian Drought Outlook - Agriculture and Agri-food Canada",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGx5WC03LU82eEVjRml0SHF0M1B3eVppRlh6RnNXdEEzaUxRMjNFWnpwUzhIbG1aQ2FnVlpFUXRQdFVLdXpMUGdTWW15UUQyQTN0RzRURlQwTVc2UTloQktqem12RzhlU1ZURjVtNkdBNXpaVmVBejAtYmdjNF9ldW5WcnZSUkhRNC04eHp4M05OMDg?oc=5",
+   "date": "2026-04-30"
+  },
+  {
    "cat": "codeblue",
    "source": "CodeBlue BC",
    "date": "2026-04-21",
@@ -102,7 +102,7 @@
   },
   {
    "cat": "media",
-   "source": "SnowBrains",
+   "source": "snowbrains.com",
    "title": "British Columbia Snowpack Hits 115% of Normal — and Some Stations Just Set All-Time Records",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14eVV4ZXEtcDgtcF96alBHR1FBaU52dzZTRFVoNk1RanNGZGhjeDRvdmhDUWtnMHdVWjZNZkJudkRBWUVTNE1HaEV5RTFiY3NHaklCSDdtbjRkZDlkNVBpRi15aDBmZ2RGVFNvam9OaDd5WlZDTVpuTUdNRWQ?oc=5",
    "date": "2026-04-03"
