@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T07:04:34.783Z",
+ "updated": "2026-08-19T13:08:17.677Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -18,17 +18,17 @@
   },
   {
    "cat": "media",
-   "source": "CBC",
-   "title": "B.C. temporarily rescinds protection order for the Salmon River watershed",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMXFkdnVDSkljOWJ0VW84M2o1cEY5dTVDRV9faktQNzhhSldqUXVuY3U5MXl2OGRSaFhaQzlFbXFyNkZJX1czMmpzQkkwR3c3Q2Iwcl9xc3lBZFR3ZkViUTFsemZISU5PcDVDRzB1SXRxVEdmOGIzdXduZzVORU1PQVlsb0otSTdzajVhbDlMTkdFWVlpWUFzNEZXeV9yYWE2N2ZaZXFXdzNDeEk?oc=5",
-   "date": "2026-08-12"
-  },
-  {
-   "cat": "media",
    "source": "The Times of India",
    "title": "Dry lightning, record-low lake: British Columbia drought puts region on high fire alert",
    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbkNTVXBTSVdIa1dEZDFlcUVMYlpzb3ZFYVAyN1dvSjkxRlFlVWxMVzlzRFlDRUo1NWNHTURVQ1R4YVl6Rzd0VVlyUzZXaFgwNEh5dGlxMkx3c0dvaS1pbklEWVVDWjV0QmhXZ1ZWQkdmZVpxVkZXRmpXcjJIOWxoZDhWdWV2YVB2OHVSeG4yRTdoUnpjZVRkVVJLWmtpc2xFYmdOVXk4WjhnS0hGZ0NGOHF5M19fSjZDVHg3YkU5a2J3blVOY25ZZUNLLTIxT1JnbWt2N1VBUzhVWFNzRGVMNTlvLVd4WWt2SDdZSUdlY2Y0R01SMTY5ODFjVdIBgAJBVV95cUxPWl8wY1ktUGxWVGFYcDIza0ZxVnVzQVhKdUlzd1dEUTJnOWtQa2pyNjJiVUZleTJJTzd0cThjUm1oTW9NSld3cGxlLW9MbnZJOUdhd2RzU3d2TkhRX1FFR3NCVEJpWDVfdUNHN0RGcU5ISDM5dGdZeXFUTWs2VDVvbW82eGNMMkVNQWxrd19tTzAxX3BsVGlDeTlRekVyck9fWXpNLWw5YjlDWEI5dm1BYm5CV1YwNDJMM1RwNGhBQmc2T0Q1QUd3VU5iZ2NsTW9mU0JrQVhtdXNjMXNnUzZvX1NjTUljbnhla1RuaVNrV3JPMTF6SEpaQWdxOUJ2Q0Rm?oc=5",
    "date": "2026-08-12"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "B.C. temporarily rescinds protection order for the Salmon River watershed",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMXFkdnVDSkljOWJ0VW84M2o1cEY5dTVDRV9faktQNzhhSldqUXVuY3U5MXl2OGRSaFhaQzlFbXFyNkZJX1czMmpzQkkwR3c3Q2Iwcl9xc3lBZFR3ZkViUTFsemZISU5PcDVDRzB1SXRxVEdmOGIzdXduZzVORU1PQVlsb0otSTdzajVhbDlMTkdFWVlpWUFzNEZXeV9yYWE2N2ZaZXFXdzNDeEk?oc=5",
+   "date": "2026-08-11"
   },
   {
    "cat": "media",
@@ -47,9 +47,9 @@
   {
    "cat": "media",
    "source": "CBC",
-   "title": "Part of northeast B.C. back to 'abnormally dry,' with long drought recovery expected",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX09kY3hXOEwxdDAwMFVrd0hXc2pTdDYzclg0WnktRnlxaU1CRmdNVUMyWWlmekFVUEdQOUF1QUNaMkxTeExYZXdKYWh3eVdXWC1OZ3VDeERQTkZ6V1N4YXJNbkVzSk5Od3ZyU1JBbmQyRml4Z0JNbzJTamVRTFl0c3VydHVoSTVDZ1g5aHRrS1V2YlYzYXJ4U0pFWFNsSmxVV05IYmdGX04?oc=5",
-   "date": "2026-07-26"
+   "title": "B.C. restricts water usage on Salmon River watershed amid 'severe' drought",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzZ3QUxaU0lZOVRTTmR1d2Vua1ZXdzBaNnQ4OEEzbzI2alpKdEFFNEYwVERhV3ZvSUpWaTlxZjJRWWxhYnB0aE0yN3V2ejJyODZQVGRIdHZaZ19MUmZhVEJqdk15OUtadkZ5VEVKYjFxS3BLUWhsdnd2R0paQktXSmlCRkpmRDRUOTlzQ3JWdk82WlBnSWxENDhB?oc=5",
+   "date": "2026-07-28"
   },
   {
    "cat": "codeblue",
@@ -57,6 +57,13 @@
    "date": "2026-07-23",
    "title": "Why Building More Reservoirs Won't Solve BC's Water Problem",
    "url": "https://www.codebluebc.ca/why-building-more-reservoirs-wont-solve-bcs-water-problem"
+  },
+  {
+   "cat": "media",
+   "source": "UVic News",
+   "title": "Experts on drought in BC",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04QWhMSG55d2t3WkppWE11djIwcjRoc2U3c2o0dTR5dm5nX3F1MUFZYXplYVNiZDhiOTdraEJZN19lMFFDR1lIMmR4WDJEMVZDbUNNS3otRXFTVXh1ZmJNNXQ1Qjk1c0U1ZkU2dE1zYw?oc=5",
+   "date": "2026-07-15"
   },
   {
    "cat": "media",
@@ -85,13 +92,6 @@
    "title": "Media Release: On World Drought Day, BC Coalition Calls for Provincial Action on Drought and Water Scarcity",
    "url": "https://watershedsecurity.ca/media-release-world-drought-day/",
    "date": "2026-06-17"
-  },
-  {
-   "cat": "media",
-   "source": "News",
-   "title": "Canadian Drought Outlook - Agriculture and Agri-food Canada",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGx5WC03LU82eEVjRml0SHF0M1B3eVppRlh6RnNXdEEzaUxRMjNFWnpwUzhIbG1aQ2FnVlpFUXRQdFVLdXpMUGdTWW15UUQyQTN0RzRURlQwTVc2UTloQktqem12RzhlU1ZURjVtNkdBNXpaVmVBejAtYmdjNF9ldW5WcnZSUkhRNC04eHp4M05OMDg?oc=5",
-   "date": "2026-04-30"
   },
   {
    "cat": "codeblue",
