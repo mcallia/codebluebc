@@ -1,7 +1,21 @@
 {
- "updated": "2026-08-19T18:52:58.063Z",
+ "updated": "2026-08-20T01:51:19.528Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
+  {
+   "cat": "media",
+   "source": "Toronto Star",
+   "title": "B.C. issues protection order for Salmon River watershed as fish spawn",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPU2RmY001RHozckc1M3N2M3BLOFBiWGpPT1R5Ti1YdnphM3pialVOMHNSMUxUM1U3OTljREdtQTZkVHBkdmV3bFcxT3ltb1F3bzBULUI2Y0tEVkRYdjNQUldMNFRfV3ExclVqMWhrZl9oeUxOd3N5Yzh6WkcyTFhrNDdkalp0WE01UGpfNEQtNEIzYnU5bUg1LVBocERIX1I1OXpYNXZxdHpfMmtJNUg2STJjb1RiUVppT2NSMjc3U1FGdEtsYlRmQnI3OWcxcVl3NHFBUE81cWN1WFBvZmwwVXEtajlvZE1aNktIWU5lLVA4OXYyUVZRaVEwbW1MaEk?oc=5",
+   "date": "2026-08-19"
+  },
+  {
+   "cat": "media",
+   "source": "News",
+   "title": "Canadian Drought Outlook - Agriculture and Agri-food Canada",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGx5WC03LU82eEVjRml0SHF0M1B3eVppRlh6RnNXdEEzaUxRMjNFWnpwUzhIbG1aQ2FnVlpFUXRQdFVLdXpMUGdTWW15UUQyQTN0RzRURlQwTVc2UTloQktqem12RzhlU1ZURjVtNkdBNXpaVmVBejAtYmdjNF9ldW5WcnZSUkhRNC04eHp4M05OMDg?oc=5",
+   "date": "2026-08-17"
+  },
   {
    "cat": "media",
    "source": "East Kootenay News Online Weekly",
@@ -22,6 +36,13 @@
    "title": "Dry lightning, record-low lake: British Columbia drought puts region on high fire alert",
    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbkNTVXBTSVdIa1dEZDFlcUVMYlpzb3ZFYVAyN1dvSjkxRlFlVWxMVzlzRFlDRUo1NWNHTURVQ1R4YVl6Rzd0VVlyUzZXaFgwNEh5dGlxMkx3c0dvaS1pbklEWVVDWjV0QmhXZ1ZWQkdmZVpxVkZXRmpXcjJIOWxoZDhWdWV2YVB2OHVSeG4yRTdoUnpjZVRkVVJLWmtpc2xFYmdOVXk4WjhnS0hGZ0NGOHF5M19fSjZDVHg3YkU5a2J3blVOY25ZZUNLLTIxT1JnbWt2N1VBUzhVWFNzRGVMNTlvLVd4WWt2SDdZSUdlY2Y0R01SMTY5ODFjVdIBgAJBVV95cUxPWl8wY1ktUGxWVGFYcDIza0ZxVnVzQVhKdUlzd1dEUTJnOWtQa2pyNjJiVUZleTJJTzd0cThjUm1oTW9NSld3cGxlLW9MbnZJOUdhd2RzU3d2TkhRX1FFR3NCVEJpWDVfdUNHN0RGcU5ISDM5dGdZeXFUTWs2VDVvbW82eGNMMkVNQWxrd19tTzAxX3BsVGlDeTlRekVyck9fWXpNLWw5YjlDWEI5dm1BYm5CV1YwNDJMM1RwNGhBQmc2T0Q1QUd3VU5iZ2NsTW9mU0JrQVhtdXNjMXNnUzZvX1NjTUljbnhla1RuaVNrV3JPMTF6SEpaQWdxOUJ2Q0Rm?oc=5",
    "date": "2026-08-12"
+  },
+  {
+   "cat": "media",
+   "source": "Columbia Valley Pioneer",
+   "title": "Wildfires harmful to our watersheds",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UVHZiUDAxRlFReXZNRG1aMTA3clpPSDFMNUNwdl9iUHUzaXRZbzQ1Z041TEJVZmFnRml4R2pGemJEYURyU3lpVGp6ZnVwOVhkN3ZVUFE3dlk1Q1pfZ2VqSzc4MXN2STF1NV9TSS04Q0JfcjRTYmFFOGRySi03dFU?oc=5",
+   "date": "2026-08-11"
   },
   {
    "cat": "media",
@@ -67,14 +88,7 @@
   },
   {
    "cat": "media",
-   "source": "CTV News",
-   "title": "B.C. issues water warning amid drought conditions and record-low stream flows",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHJmcEZUNjFPRnU4X2UzQ25tQnRvMk1uR3BhT2otZkVvamd5ZFdFNG8xUEM1VmF3dFBJTU1iWlpoSnJpSmdCakwyZnZuamtESnJBeDRFbGRwR01MbnUycHQwd1p1cmw1a2NyNjV6VWZlUkNiODFQWGU3d2ppNmtzWWtRd0hnRFVZVlpLSTVvRjZXbUFEM21rY3NFbUhVM1N5TUdvOEZvSmI0SEcwNldpbnMwbVplQUFY?oc=5",
-   "date": "2026-07-14"
-  },
-  {
-   "cat": "media",
-   "source": "Canada WaterPortal",
+   "source": "waterportal.ca",
    "title": "By the Numbers: Building the Workforce Our Watersheds Need",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12MWFnclBWdkRNaFVYeUpabDRobFRNTkZwcGtYc1FDVjJzNERYbzBPVE9HeERaYnBvSldLNElrZFpnNEdXRGo2b1F0UDdhbzB3bTdxdkZ4QVUtRV9wcGREUWczeFlVc0ZYNXhNdDZzeTM?oc=5",
    "date": "2026-07-02"
@@ -92,20 +106,6 @@
    "date": "2026-04-21",
    "title": "Small, Warty, and Remarkable: The Western Toad — Five Facts",
    "url": "https://www.codebluebc.ca/western-toad"
-  },
-  {
-   "cat": "media",
-   "source": "SnowBrains",
-   "title": "British Columbia Snowpack Hits 115% of Normal — and Some Stations Just Set All-Time Records",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14eVV4ZXEtcDgtcF96alBHR1FBaU52dzZTRFVoNk1RanNGZGhjeDRvdmhDUWtnMHdVWjZNZkJudkRBWUVTNE1HaEV5RTFiY3NHaklCSDdtbjRkZDlkNVBpRi15aDBmZ2RGVFNvam9OaDd5WlZDTVpuTUdNRWQ?oc=5",
-   "date": "2026-04-03"
-  },
-  {
-   "cat": "media",
-   "source": "Nelson Star",
-   "title": "B.C. snowpack near normal but some regions face drought risk",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLXpDWVdpd0E3NW52MFR3VVJFZWlMRzc3ZXpSNkhCSTJjRUxvWkpWa0pPWFlaUGpQTlNYRXd4UzRTYmh6ZzByME5VeGZtN2NmR2tjQXN6cEpQci1ZdlpkSUxqTGcwakZQeXd0eUpMTnB1UlVsVzFwc0hBSVRBNHBGYURZRFVHallMTXZ6ampzeVBCWXpVXzY5WFV3?oc=5",
-   "date": "2026-03-10"
   },
   {
    "cat": "codeblue",
