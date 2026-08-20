@@ -1,7 +1,14 @@
 {
- "updated": "2026-08-20T13:10:26.064Z",
+ "updated": "2026-08-20T18:58:36.960Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
+  {
+   "cat": "coalition",
+   "source": "BC Watershed Security Coalition",
+   "title": "Coalition Statement on BC-Canada Cooperative Prosperity Agreement",
+   "url": "https://watershedsecurity.ca/coalition-statement-on-bc-canada-cooperative-prosperity-agreement/",
+   "date": "2026-08-20"
+  },
   {
    "cat": "media",
    "source": "Toronto Star",
@@ -36,13 +43,6 @@
    "title": "Dry lightning, record-low lake: British Columbia drought puts region on high fire alert",
    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbkNTVXBTSVdIa1dEZDFlcUVMYlpzb3ZFYVAyN1dvSjkxRlFlVWxMVzlzRFlDRUo1NWNHTURVQ1R4YVl6Rzd0VVlyUzZXaFgwNEh5dGlxMkx3c0dvaS1pbklEWVVDWjV0QmhXZ1ZWQkdmZVpxVkZXRmpXcjJIOWxoZDhWdWV2YVB2OHVSeG4yRTdoUnpjZVRkVVJLWmtpc2xFYmdOVXk4WjhnS0hGZ0NGOHF5M19fSjZDVHg3YkU5a2J3blVOY25ZZUNLLTIxT1JnbWt2N1VBUzhVWFNzRGVMNTlvLVd4WWt2SDdZSUdlY2Y0R01SMTY5ODFjVdIBgAJBVV95cUxPWl8wY1ktUGxWVGFYcDIza0ZxVnVzQVhKdUlzd1dEUTJnOWtQa2pyNjJiVUZleTJJTzd0cThjUm1oTW9NSld3cGxlLW9MbnZJOUdhd2RzU3d2TkhRX1FFR3NCVEJpWDVfdUNHN0RGcU5ISDM5dGdZeXFUTWs2VDVvbW82eGNMMkVNQWxrd19tTzAxX3BsVGlDeTlRekVyck9fWXpNLWw5YjlDWEI5dm1BYm5CV1YwNDJMM1RwNGhBQmc2T0Q1QUd3VU5iZ2NsTW9mU0JrQVhtdXNjMXNnUzZvX1NjTUljbnhla1RuaVNrV3JPMTF6SEpaQWdxOUJ2Q0Rm?oc=5",
    "date": "2026-08-12"
-  },
-  {
-   "cat": "media",
-   "source": "Columbia Valley Pioneer",
-   "title": "Wildfires harmful to our watersheds",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UVHZiUDAxRlFReXZNRG1aMTA3clpPSDFMNUNwdl9iUHUzaXRZbzQ1Z041TEJVZmFnRml4R2pGemJEYURyU3lpVGp6ZnVwOVhkN3ZVUFE3dlk1Q1pfZ2VqSzc4MXN2STF1NV9TSS04Q0JfcjRTYmFFOGRySi03dFU?oc=5",
-   "date": "2026-08-11"
   },
   {
    "cat": "media",
@@ -85,6 +85,13 @@
    "title": "Experts on drought in BC",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04QWhMSG55d2t3WkppWE11djIwcjRoc2U3c2o0dTR5dm5nX3F1MUFZYXplYVNiZDhiOTdraEJZN19lMFFDR1lIMmR4WDJEMVZDbUNNS3otRXFTVXh1ZmJNNXQ1Qjk1c0U1ZkU2dE1zYw?oc=5",
    "date": "2026-07-15"
+  },
+  {
+   "cat": "media",
+   "source": "BC Gov News",
+   "title": "Work underway on three conservation planning projects",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBON1luUVFHOG04d2tnUVBTZDZRenFkX0szRHpFbF90aWhqN2FnN2xfUXBrdlJqVmVnMHhFRHlBeTYzbTRKRV9SNFpWTU4zQWduUVRNekJVWkVTNUp3OExxOQ?oc=5",
+   "date": "2026-07-06"
   },
   {
    "cat": "media",
@@ -169,13 +176,6 @@
    "date": "2025-01-31",
    "title": "Why Is BC Giving Away Its Fresh Water for Next to Nothing?",
    "url": "https://www.codebluebc.ca/why-is-bc-giving-away-its-fresh-water"
-  },
-  {
-   "cat": "coalition",
-   "source": "BC Watershed Security Coalition",
-   "title": "Critical natural areas shield half of Canada&#8217;s population from flooding, study finds",
-   "url": "https://watershedsecurity.ca/critical-natural-areas-shield-half-of-canadas-population-from-flooding-study-finds/",
-   "date": "2024-11-27"
   }
  ]
 }
