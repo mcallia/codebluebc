@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T18:58:36.960Z",
+ "updated": "2026-08-21T01:56:59.616Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -66,13 +66,6 @@
    "date": "2026-07-28"
   },
   {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Part of northeast B.C. back to 'abnormally dry,' with long drought recovery expected",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX09kY3hXOEwxdDAwMFVrd0hXc2pTdDYzclg0WnktRnlxaU1CRmdNVUMyWWlmekFVUEdQOUF1QUNaMkxTeExYZXdKYWh3eVdXWC1OZ3VDeERQTkZ6V1N4YXJNbkVzSk5Od3ZyU1JBbmQyRml4Z0JNbzJTamVRTFl0c3VydHVoSTVDZ1g5aHRrS1V2YlYzYXJ4U0pFWFNsSmxVV05IYmdGX04?oc=5",
-   "date": "2026-07-26"
-  },
-  {
    "cat": "codeblue",
    "source": "CodeBlue BC",
    "date": "2026-07-23",
@@ -113,6 +106,13 @@
    "date": "2026-04-21",
    "title": "Small, Warty, and Remarkable: The Western Toad — Five Facts",
    "url": "https://www.codebluebc.ca/western-toad"
+  },
+  {
+   "cat": "media",
+   "source": "Nelson Star",
+   "title": "B.C. snowpack near normal but some regions face drought risk",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLXpDWVdpd0E3NW52MFR3VVJFZWlMRzc3ZXpSNkhCSTJjRUxvWkpWa0pPWFlaUGpQTlNYRXd4UzRTYmh6ZzByME5VeGZtN2NmR2tjQXN6cEpQci1ZdlpkSUxqTGcwakZQeXd0eUpMTnB1UlVsVzFwc0hBSVRBNHBGYURZRFVHallMTXZ6ampzeVBCWXpVXzY5WFV3?oc=5",
+   "date": "2026-03-10"
   },
   {
    "cat": "codeblue",
