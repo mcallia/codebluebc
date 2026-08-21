@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T13:10:18.404Z",
+ "updated": "2026-08-21T18:55:22.107Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -53,6 +53,13 @@
   },
   {
    "cat": "media",
+   "source": "My Campbell River Now",
+   "title": "Experts say severe drought is the new normal, and B.C.'s water strategy is stuck in crisis mode",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTXpsOVhQT1ZCX0c4b09DYTh1YmtxWk1GSHBvT0ZNb0JCak4tWDZnMHZuWmdUd0g1ZndMRXdqaWVybjVlWFp4aVlLRlhpNENNVEtIUDlOSzZFZ21MR2JlWHZlUWFRTmhVYTBjWTRRWktvZUxMNlN1MXlxNF9udjhzMzJ6U3NLcWtrUnhDd21MVWpBQ1dUWWw3bHNfYUg1bHo0VnpISmQzb0FFRGZWRGE2ZmRQMkI3SDdqakZlLWlkWkppTTRvaWZaYVR6ZVNIV1dMdkNONlNFcEw3Y3RsTnVNOFBRUi1PVUk?oc=5",
+   "date": "2026-08-01"
+  },
+  {
+   "cat": "media",
    "source": "gov.bc.ca",
    "title": "Freshwater fishing regulations in B.C. - Province of British Columbia",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DbDh0U3NqUkpfaGZmb2tmd0ltS3hCU1ZxZVZEME5JRlZNMW54NXBNMnZxb2ZSTWdzeUluWWFRVzhGVUJYRlU3QXA1YW1CNGNWRXc?oc=5",
@@ -71,13 +78,6 @@
    "title": "B.C. cities increasing water restrictions as drought persists",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUHNYWDRnRUZ0WlE1X1RSNW5zM2tuc1J3LXF1b3J0Q0JJNFV2UTU1bWc5T3NMQ2lpSV9zY3ZEVDNUYjlMT29oSmhKMnRnMXBGNnR2TkRMVXVDQ3BOVFRYckN5NF96V1VMeXZOUVlZRWE2Sk91YUxLQjRpVDF2OGdSSktrZjd6M01jRG5xVTNVNzVUV2VKY09xZGtUeWliLWg3a3BB?oc=5",
    "date": "2026-07-27"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Part of northeast B.C. back to 'abnormally dry,' with long drought recovery expected",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX09kY3hXOEwxdDAwMFVrd0hXc2pTdDYzclg0WnktRnlxaU1CRmdNVUMyWWlmekFVUEdQOUF1QUNaMkxTeExYZXdKYWh3eVdXWC1OZ3VDeERQTkZ6V1N4YXJNbkVzSk5Od3ZyU1JBbmQyRml4Z0JNbzJTamVRTFl0c3VydHVoSTVDZ1g5aHRrS1V2YlYzYXJ4U0pFWFNsSmxVV05IYmdGX04?oc=5",
-   "date": "2026-07-26"
   },
   {
    "cat": "codeblue",
