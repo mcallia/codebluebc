@@ -1,20 +1,20 @@
 {
- "updated": "2026-08-22T12:59:53.011Z",
+ "updated": "2026-08-22T18:48:27.500Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Crops sacrificed, losses mount for B.C. farmers grappling with historic drought",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN1BJZ2Z6Y3VyNTRCU1BCY045dnhuUmtnWUdrblRHYk85YjBud1NqbEF0dm1VeFpzMmhBTklzUWl5ZUdtVGdaaVIxV2p6M1BHSHEyWW5rZWMyaFpIY2ZlUmg1VVJuc0xWNXloWEJfeGtoXzJwN0EzTFdiTDZJMVBGS3NITXVseGtWSEpHRC1VNA?oc=5",
+   "date": "2026-08-22"
+  },
   {
    "cat": "coalition",
    "source": "BC Watershed Security Coalition",
    "title": "Coalition Statement on BC-Canada Cooperative Prosperity Agreement",
    "url": "https://watershedsecurity.ca/coalition-statement-on-bc-canada-cooperative-prosperity-agreement/",
    "date": "2026-08-20"
-  },
-  {
-   "cat": "media",
-   "source": "Toronto Star",
-   "title": "B.C. issues protection order for Salmon River watershed as fish spawn",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPU2RmY001RHozckc1M3N2M3BLOFBiWGpPT1R5Ti1YdnphM3pialVOMHNSMUxUM1U3OTljREdtQTZkVHBkdmV3bFcxT3ltb1F3bzBULUI2Y0tEVkRYdjNQUldMNFRfV3ExclVqMWhrZl9oeUxOd3N5Yzh6WkcyTFhrNDdkalp0WE01UGpfNEQtNEIzYnU5bUg1LVBocERIX1I1OXpYNXZxdHpfMmtJNUg2STJjb1RiUVppT2NSMjc3U1FGdEtsYlRmQnI3OWcxcVl3NHFBUE81cWN1WFBvZmwwVXEtajlvZE1aNktIWU5lLVA4OXYyUVZRaVEwbW1MaEk?oc=5",
-   "date": "2026-08-19"
   },
   {
    "cat": "media",
@@ -29,6 +29,13 @@
    "title": "Watershed Study Board to release Draft Final Report",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRm9nb2JjendQbGU0WC1ydzF5Nng4c2JrN1FIMm4yQWVIYXlyenBGNkxvVldSRXFjUFFpZ3pPS0ViZ3QxQXA0b2ZGOUFMdDdWSnZvU2p0Qm94OUZMZ1JDZXBiQnlrb0ljWWU0aTBuYzExNVF3RVkzellZbDlVekY3UVNnU002VXpLeWNsUmVqVm1veXNlbWdhc1FBTHA?oc=5",
    "date": "2026-08-16"
+  },
+  {
+   "cat": "media",
+   "source": "PembinaValleyOnline",
+   "title": "National Drought Footprint increases during July, with limited impact for Agriculture",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeFJ3a2xGdFVkWnlJWUN4blA3bGxGcDJTdnFWTkJUS0RINE5KR1JENE5oTnNDLXMyWWZ4b1pGOTQ3WUNQOTZ3SmU5akVsQnV0UDFDRkhaUnJkME02RVlLYUt3VFQxQmpJYlNBcExKOXU0LWduYVlrclNWVTJ5eHJoeXM3VFI3OW1MNm56SVh5NXhVVUlvZlRXWW9hOVVpekpPa29zTHN5VXFxcnhjekVaOVFvVkk2dHB6RlBvSUdaczNoZzN1R1hHNA?oc=5",
+   "date": "2026-08-14"
   },
   {
    "cat": "media",
@@ -85,13 +92,6 @@
    "title": "Experts on drought in BC",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04QWhMSG55d2t3WkppWE11djIwcjRoc2U3c2o0dTR5dm5nX3F1MUFZYXplYVNiZDhiOTdraEJZN19lMFFDR1lIMmR4WDJEMVZDbUNNS3otRXFTVXh1ZmJNNXQ1Qjk1c0U1ZkU2dE1zYw?oc=5",
    "date": "2026-07-15"
-  },
-  {
-   "cat": "media",
-   "source": "CTV News",
-   "title": "B.C. issues water warning amid drought conditions and record-low stream flows",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHJmcEZUNjFPRnU4X2UzQ25tQnRvMk1uR3BhT2otZkVvamd5ZFdFNG8xUEM1VmF3dFBJTU1iWlpoSnJpSmdCakwyZnZuamtESnJBeDRFbGRwR01MbnUycHQwd1p1cmw1a2NyNjV6VWZlUkNiODFQWGU3d2ppNmtzWWtRd0hnRFVZVlpLSTVvRjZXbUFEM21rY3NFbUhVM1N5TUdvOEZvSmI0SEcwNldpbnMwbVplQUFY?oc=5",
-   "date": "2026-07-14"
   },
   {
    "cat": "media",
