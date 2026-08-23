@@ -1,7 +1,14 @@
 {
- "updated": "2026-08-22T18:48:27.500Z",
+ "updated": "2026-08-23T01:58:56.729Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
+  {
+   "cat": "media",
+   "source": "TMX Newsfile",
+   "title": "Watershed Roofing Inc. Expands Roofing and Exterior Services Across British Columbia",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTDQ1cGlQYWdVd3lXRHRoN3Z6dGx6SWd5bFJkdmp6UVpMd3RTRTRYV21LNmp5anNDYlB1Vm9VRWdPZEh5aF9YaWNqSHM0VXU3aUd3MVU4NW1MSWFLWkxOUlc1cERpdHlYRHdtcWRWUU51MmlBOC1GdEZxNmtDVkZqeUpfNkR5aURiZjZrbnNOc2xWWUxzUkNGa1NyTkNhdlp4WTRkckNjMjduUmRVdFhzMGY3UkNpNmc0M1RKZldYNGJub1ZlbTlvN2IzS0l2eVVwVkE?oc=5",
+   "date": "2026-08-22"
+  },
   {
    "cat": "media",
    "source": "CBC",
@@ -15,6 +22,20 @@
    "title": "Coalition Statement on BC-Canada Cooperative Prosperity Agreement",
    "url": "https://watershedsecurity.ca/coalition-statement-on-bc-canada-cooperative-prosperity-agreement/",
    "date": "2026-08-20"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Temporary protection order reissued for B.C.'s Salmon River watershed as fish spawn",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcm9WQml0Q3NDNG8zekJDMVMtMlRubUhqYXVBMzl0bUZTS1pQc0lySHdlQUJpZTRsd0xnZF90bFlMV3JkLThuZGQ4d2txYWtyY2M5WWRUbC1vdHI3MU0xWk5vT1Z3M1p1OGFyajZLVU1kS3JsQUtZT1BSUnVUVHNrZjZjU25BeGZzQTgybFJPclh6S3dYN1A4eHJYQ080UQ?oc=5",
+   "date": "2026-08-20"
+  },
+  {
+   "cat": "media",
+   "source": "Toronto Star",
+   "title": "B.C. issues protection order for Salmon River watershed as fish spawn",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPU2RmY001RHozckc1M3N2M3BLOFBiWGpPT1R5Ti1YdnphM3pialVOMHNSMUxUM1U3OTljREdtQTZkVHBkdmV3bFcxT3ltb1F3bzBULUI2Y0tEVkRYdjNQUldMNFRfV3ExclVqMWhrZl9oeUxOd3N5Yzh6WkcyTFhrNDdkalp0WE01UGpfNEQtNEIzYnU5bUg1LVBocERIX1I1OXpYNXZxdHpfMmtJNUg2STJjb1RiUVppT2NSMjc3U1FGdEtsYlRmQnI3OWcxcVl3NHFBUE81cWN1WFBvZmwwVXEtajlvZE1aNktIWU5lLVA4OXYyUVZRaVEwbW1MaEk?oc=5",
+   "date": "2026-08-19"
   },
   {
    "cat": "media",
@@ -32,9 +53,9 @@
   },
   {
    "cat": "media",
-   "source": "PembinaValleyOnline",
+   "source": "DiscoverWestman",
    "title": "National Drought Footprint increases during July, with limited impact for Agriculture",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeFJ3a2xGdFVkWnlJWUN4blA3bGxGcDJTdnFWTkJUS0RINE5KR1JENE5oTnNDLXMyWWZ4b1pGOTQ3WUNQOTZ3SmU5akVsQnV0UDFDRkhaUnJkME02RVlLYUt3VFQxQmpJYlNBcExKOXU0LWduYVlrclNWVTJ5eHJoeXM3VFI3OW1MNm56SVh5NXhVVUlvZlRXWW9hOVVpekpPa29zTHN5VXFxcnhjekVaOVFvVkk2dHB6RlBvSUdaczNoZzN1R1hHNA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWjFfbjRVeExxZlN0QTNsQlNFWHhxcnloeWp2SjVXcG5pVTA4TElWRDZLLS1GU09MZlVGdzl6UEdRT3FHd0xMRXBSdXlVNnllY09fX2tLcFN5UmNwUDRYRi1sTTViQlZhY1BjNXMzTWpLSklCbm1BSGVHM1FLNW9NQjhtLU4xcHBSV1Q2S09xdVVPYkJpYmltX2ROOWRZVVhyYjA3WWxxS2RPeGJpbTR5dFlUUldHVXRfb3EweEE1THFWbVE?oc=5",
    "date": "2026-08-14"
   },
   {
@@ -66,20 +87,6 @@
    "date": "2026-08-01"
   },
   {
-   "cat": "media",
-   "source": "CityNews Vancouver",
-   "title": "‘Trace’ rainfall quells flames, but drought wracks B.C.’s fire-stricken south Cariboo",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNjRmUGcxdEZmMUtrZERJcDZITU5UVTB5MEZHaHRDeGN0SGlpSWhaTm55LVZpQTdUVEpRWnRvWmQ5ejk3Z3Y2NGZlRld2Mm9kQUJ6RTh2VGVlLXpsUW1nUGdWd0pYazUyeVdjV1dYMXNxQWdkNndXeThRelJRSUFVb1FVTWZKSi16S2lObVlsbHFydkpTTVE?oc=5",
-   "date": "2026-07-29"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "B.C. restricts water usage on Salmon River watershed amid 'severe' drought",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzZ3QUxaU0lZOVRTTmR1d2Vua1ZXdzBaNnQ4OEEzbzI2alpKdEFFNEYwVERhV3ZvSUpWaTlxZjJRWWxhYnB0aE0yN3V2ejJyODZQVGRIdHZaZ19MUmZhVEJqdk15OUtadkZ5VEVKYjFxS3BLUWhsdnd2R0paQktXSmlCRkpmRDRUOTlzQ3JWdk82WlBnSWxENDhB?oc=5",
-   "date": "2026-07-28"
-  },
-  {
    "cat": "codeblue",
    "source": "CodeBlue BC",
    "date": "2026-07-23",
@@ -92,13 +99,6 @@
    "title": "Experts on drought in BC",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04QWhMSG55d2t3WkppWE11djIwcjRoc2U3c2o0dTR5dm5nX3F1MUFZYXplYVNiZDhiOTdraEJZN19lMFFDR1lIMmR4WDJEMVZDbUNNS3otRXFTVXh1ZmJNNXQ1Qjk1c0U1ZkU2dE1zYw?oc=5",
    "date": "2026-07-15"
-  },
-  {
-   "cat": "media",
-   "source": "Canada WaterPortal",
-   "title": "By the Numbers: Building the Workforce Our Watersheds Need",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12MWFnclBWdkRNaFVYeUpabDRobFRNTkZwcGtYc1FDVjJzNERYbzBPVE9HeERaYnBvSldLNElrZFpnNEdXRGo2b1F0UDdhbzB3bTdxdkZ4QVUtRV9wcGREUWczeFlVc0ZYNXhNdDZzeTM?oc=5",
-   "date": "2026-07-02"
   },
   {
    "cat": "coalition",
