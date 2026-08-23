@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T07:00:25.318Z",
+ "updated": "2026-08-23T13:01:27.460Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -32,6 +32,13 @@
   },
   {
    "cat": "media",
+   "source": "BC Gov News",
+   "title": "Issuing a new temporary fish-protection order for Salmon River",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaS1F3Y0xxWF9Bb2s5ZHRmcV85U2NkQUZrWWZ3UGpnMElzaDRVckIyRmh4bmQ5NzNvTXZaeTJoaXNTWHFoejhVWnI0OUVmcW1qV3NWTUdqZXNvOFdYS20wZw?oc=5",
+   "date": "2026-08-19"
+  },
+  {
+   "cat": "media",
    "source": "Toronto Star",
    "title": "B.C. issues protection order for Salmon River watershed as fish spawn",
    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPU2RmY001RHozckc1M3N2M3BLOFBiWGpPT1R5Ti1YdnphM3pialVOMHNSMUxUM1U3OTljREdtQTZkVHBkdmV3bFcxT3ltb1F3bzBULUI2Y0tEVkRYdjNQUldMNFRfV3ExclVqMWhrZl9oeUxOd3N5Yzh6WkcyTFhrNDdkalp0WE01UGpfNEQtNEIzYnU5bUg1LVBocERIX1I1OXpYNXZxdHpfMmtJNUg2STJjb1RiUVppT2NSMjc3U1FGdEtsYlRmQnI3OWcxcVl3NHFBUE81cWN1WFBvZmwwVXEtajlvZE1aNktIWU5lLVA4OXYyUVZRaVEwbW1MaEk?oc=5",
@@ -46,17 +53,10 @@
   },
   {
    "cat": "media",
-   "source": "News",
-   "title": "Watershed Study Board to release Draft Final Report - e-KNOW.ca",
+   "source": "East Kootenay News Online Weekly",
+   "title": "Watershed Study Board to release Draft Final Report",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRm9nb2JjendQbGU0WC1ydzF5Nng4c2JrN1FIMm4yQWVIYXlyenBGNkxvVldSRXFjUFFpZ3pPS0ViZ3QxQXA0b2ZGOUFMdDdWSnZvU2p0Qm94OUZMZ1JDZXBiQnlrb0ljWWU0aTBuYzExNVF3RVkzellZbDlVekY3UVNnU002VXpLeWNsUmVqVm1veXNlbWdhc1FBTHA?oc=5",
    "date": "2026-08-16"
-  },
-  {
-   "cat": "media",
-   "source": "DiscoverWestman",
-   "title": "National Drought Footprint increases during July, with limited impact for Agriculture",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWjFfbjRVeExxZlN0QTNsQlNFWHhxcnloeWp2SjVXcG5pVTA4TElWRDZLLS1GU09MZlVGdzl6UEdRT3FHd0xMRXBSdXlVNnllY09fX2tLcFN5UmNwUDRYRi1sTTViQlZhY1BjNXMzTWpLSklCbm1BSGVHM1FLNW9NQjhtLU4xcHBSV1Q2S09xdVVPYkJpYmltX2ROOWRZVVhyYjA3WWxxS2RPeGJpbTR5dFlUUldHVXRfb3EweEE1THFWbVE?oc=5",
-   "date": "2026-08-14"
   },
   {
    "cat": "media",
