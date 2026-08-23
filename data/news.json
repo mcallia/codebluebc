@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T13:01:27.460Z",
+ "updated": "2026-08-23T18:47:37.321Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -53,13 +53,6 @@
   },
   {
    "cat": "media",
-   "source": "East Kootenay News Online Weekly",
-   "title": "Watershed Study Board to release Draft Final Report",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRm9nb2JjendQbGU0WC1ydzF5Nng4c2JrN1FIMm4yQWVIYXlyenBGNkxvVldSRXFjUFFpZ3pPS0ViZ3QxQXA0b2ZGOUFMdDdWSnZvU2p0Qm94OUZMZ1JDZXBiQnlrb0ljWWU0aTBuYzExNVF3RVkzellZbDlVekY3UVNnU002VXpLeWNsUmVqVm1veXNlbWdhc1FBTHA?oc=5",
-   "date": "2026-08-16"
-  },
-  {
-   "cat": "media",
    "source": "The Times of India",
    "title": "Dry lightning, record-low lake: British Columbia drought puts region on high fire alert",
    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbkNTVXBTSVdIa1dEZDFlcUVMYlpzb3ZFYVAyN1dvSjkxRlFlVWxMVzlzRFlDRUo1NWNHTURVQ1R4YVl6Rzd0VVlyUzZXaFgwNEh5dGlxMkx3c0dvaS1pbklEWVVDWjV0QmhXZ1ZWQkdmZVpxVkZXRmpXcjJIOWxoZDhWdWV2YVB2OHVSeG4yRTdoUnpjZVRkVVJLWmtpc2xFYmdOVXk4WjhnS0hGZ0NGOHF5M19fSjZDVHg3YkU5a2J3blVOY25ZZUNLLTIxT1JnbWt2N1VBUzhVWFNzRGVMNTlvLVd4WWt2SDdZSUdlY2Y0R01SMTY5ODFjVdIBgAJBVV95cUxPWl8wY1ktUGxWVGFYcDIza0ZxVnVzQVhKdUlzd1dEUTJnOWtQa2pyNjJiVUZleTJJTzd0cThjUm1oTW9NSld3cGxlLW9MbnZJOUdhd2RzU3d2TkhRX1FFR3NCVEJpWDVfdUNHN0RGcU5ISDM5dGdZeXFUTWs2VDVvbW82eGNMMkVNQWxrd19tTzAxX3BsVGlDeTlRekVyck9fWXpNLWw5YjlDWEI5dm1BYm5CV1YwNDJMM1RwNGhBQmc2T0Q1QUd3VU5iZ2NsTW9mU0JrQVhtdXNjMXNnUzZvX1NjTUljbnhla1RuaVNrV3JPMTF6SEpaQWdxOUJ2Q0Rm?oc=5",
@@ -81,9 +74,9 @@
   },
   {
    "cat": "media",
-   "source": "My Campbell River Now",
+   "source": "My East Kootenay Now",
    "title": "Experts say severe drought is the new normal, and B.C.'s water strategy is stuck in crisis mode",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTXpsOVhQT1ZCX0c4b09DYTh1YmtxWk1GSHBvT0ZNb0JCak4tWDZnMHZuWmdUd0g1ZndMRXdqaWVybjVlWFp4aVlLRlhpNENNVEtIUDlOSzZFZ21MR2JlWHZlUWFRTmhVYTBjWTRRWktvZUxMNlN1MXlxNF9udjhzMzJ6U3NLcWtrUnhDd21MVWpBQ1dUWWw3bHNfYUg1bHo0VnpISmQzb0FFRGZWRGE2ZmRQMkI3SDdqakZlLWlkWkppTTRvaWZaYVR6ZVNIV1dMdkNONlNFcEw3Y3RsTnVNOFBRUi1PVUk?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOGFzRDVDa0FOd29NT0JMVlQ2SlppWU1WQ0NxZlVzR3JJX3ZPTDYyR0RKSnJQSHZZbFZQNXJld29VNkdvOVVXd1F3YTVTZXJ0c29rMkVCd2RzY3BjVm9USm1zRXlPVzlQQUQ1OWIzZXVqWUYyWkh2WFl5YUdSVjd4LVo1TUtSNTJQa0h4c0l6VmdIWS1qblRzVDN4WGplc01uRkxqTm16TERPYUFyTHJHdGxFSnhsbG8ybWd3UnNWTzhDWVhvcHhrZ0h6TWg5T0tzOFNIUFJQRk5SbC1SM0ZRNVpjLU85dw?oc=5",
    "date": "2026-08-01"
   },
   {
@@ -99,6 +92,13 @@
    "title": "Experts on drought in BC",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04QWhMSG55d2t3WkppWE11djIwcjRoc2U3c2o0dTR5dm5nX3F1MUFZYXplYVNiZDhiOTdraEJZN19lMFFDR1lIMmR4WDJEMVZDbUNNS3otRXFTVXh1ZmJNNXQ1Qjk1c0U1ZkU2dE1zYw?oc=5",
    "date": "2026-07-15"
+  },
+  {
+   "cat": "media",
+   "source": "Canada WaterPortal",
+   "title": "By the Numbers: Building the Workforce Our Watersheds Need",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12MWFnclBWdkRNaFVYeUpabDRobFRNTkZwcGtYc1FDVjJzNERYbzBPVE9HeERaYnBvSldLNElrZFpnNEdXRGo2b1F0UDdhbzB3bTdxdkZ4QVUtRV9wcGREUWczeFlVc0ZYNXhNdDZzeTM?oc=5",
+   "date": "2026-07-02"
   },
   {
    "cat": "coalition",
