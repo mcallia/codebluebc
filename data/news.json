@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T13:12:16.075Z",
+ "updated": "2026-08-24T18:58:36.302Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -32,13 +32,6 @@
   },
   {
    "cat": "media",
-   "source": "BC Gov News",
-   "title": "Issuing a new temporary fish-protection order for Salmon River",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaS1F3Y0xxWF9Bb2s5ZHRmcV85U2NkQUZrWWZ3UGpnMElzaDRVckIyRmh4bmQ5NzNvTXZaeTJoaXNTWHFoejhVWnI0OUVmcW1qV3NWTUdqZXNvOFdYS20wZw?oc=5",
-   "date": "2026-08-19"
-  },
-  {
-   "cat": "media",
    "source": "News",
    "title": "Canadian Drought Outlook - Agriculture and Agri-food Canada",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGx5WC03LU82eEVjRml0SHF0M1B3eVppRlh6RnNXdEEzaUxRMjNFWnpwUzhIbG1aQ2FnVlpFUXRQdFVLdXpMUGdTWW15UUQyQTN0RzRURlQwTVc2UTloQktqem12RzhlU1ZURjVtNkdBNXpaVmVBejAtYmdjNF9ldW5WcnZSUkhRNC04eHp4M05OMDg?oc=5",
@@ -46,24 +39,10 @@
   },
   {
    "cat": "media",
-   "source": "DiscoverWestman",
-   "title": "National Drought Footprint increases during July, with limited impact for Agriculture",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWjFfbjRVeExxZlN0QTNsQlNFWHhxcnloeWp2SjVXcG5pVTA4TElWRDZLLS1GU09MZlVGdzl6UEdRT3FHd0xMRXBSdXlVNnllY09fX2tLcFN5UmNwUDRYRi1sTTViQlZhY1BjNXMzTWpLSklCbm1BSGVHM1FLNW9NQjhtLU4xcHBSV1Q2S09xdVVPYkJpYmltX2ROOWRZVVhyYjA3WWxxS2RPeGJpbTR5dFlUUldHVXRfb3EweEE1THFWbVE?oc=5",
-   "date": "2026-08-14"
-  },
-  {
-   "cat": "media",
    "source": "The Times of India",
    "title": "Dry lightning, record-low lake: British Columbia drought puts region on high fire alert",
    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbkNTVXBTSVdIa1dEZDFlcUVMYlpzb3ZFYVAyN1dvSjkxRlFlVWxMVzlzRFlDRUo1NWNHTURVQ1R4YVl6Rzd0VVlyUzZXaFgwNEh5dGlxMkx3c0dvaS1pbklEWVVDWjV0QmhXZ1ZWQkdmZVpxVkZXRmpXcjJIOWxoZDhWdWV2YVB2OHVSeG4yRTdoUnpjZVRkVVJLWmtpc2xFYmdOVXk4WjhnS0hGZ0NGOHF5M19fSjZDVHg3YkU5a2J3blVOY25ZZUNLLTIxT1JnbWt2N1VBUzhVWFNzRGVMNTlvLVd4WWt2SDdZSUdlY2Y0R01SMTY5ODFjVdIBgAJBVV95cUxPWl8wY1ktUGxWVGFYcDIza0ZxVnVzQVhKdUlzd1dEUTJnOWtQa2pyNjJiVUZleTJJTzd0cThjUm1oTW9NSld3cGxlLW9MbnZJOUdhd2RzU3d2TkhRX1FFR3NCVEJpWDVfdUNHN0RGcU5ISDM5dGdZeXFUTWs2VDVvbW82eGNMMkVNQWxrd19tTzAxX3BsVGlDeTlRekVyck9fWXpNLWw5YjlDWEI5dm1BYm5CV1YwNDJMM1RwNGhBQmc2T0Q1QUd3VU5iZ2NsTW9mU0JrQVhtdXNjMXNnUzZvX1NjTUljbnhla1RuaVNrV3JPMTF6SEpaQWdxOUJ2Q0Rm?oc=5",
    "date": "2026-08-12"
-  },
-  {
-   "cat": "media",
-   "source": "BC Gov News",
-   "title": "Rescinding temporary fish-protection order for Salmon River",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02MFp5WWxsaXcwVGZkWVcxeFJvc0hNOHVad2xuLUdVYksyS2d4VS1KLUViMFZmbzNSNGplRXVwLVVUVnM5QVZIVW5NOUdJdXNnQXpoVXYzNjFQUEUzdmVmUA?oc=5",
-   "date": "2026-08-08"
   },
   {
    "cat": "media",
@@ -80,6 +59,13 @@
    "date": "2026-08-01"
   },
   {
+   "cat": "media",
+   "source": "CFJC Today Kamloops",
+   "title": "No word on return for Clinton, B.C., residents as fire burns watershed, power lines",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQlVjMWhXYUszWGk1V3BaaWM2SXhfeGZPTEt5cGpUYkttakpBZGlqU05Kb0VwYVJ2LV90TDBiLVdscUJkM3VpWkdhZmp4TzVEOVlQMTJhZklYWlBiYUJpYzhac08tVUYyTXFDTUdpT3M0YzFqb0R6bnBLbVlXWnhUODVCWkFXNlp0aU1TcVE4VHlGR1pvVHo3MnhDbXpESnhQUU5fbngzVTVYbUF2Y3F6Sk1xOWJpZw?oc=5",
+   "date": "2026-07-29"
+  },
+  {
    "cat": "codeblue",
    "source": "CodeBlue BC",
    "date": "2026-07-23",
@@ -92,6 +78,20 @@
    "title": "Experts on drought in BC",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04QWhMSG55d2t3WkppWE11djIwcjRoc2U3c2o0dTR5dm5nX3F1MUFZYXplYVNiZDhiOTdraEJZN19lMFFDR1lIMmR4WDJEMVZDbUNNS3otRXFTVXh1ZmJNNXQ1Qjk1c0U1ZkU2dE1zYw?oc=5",
    "date": "2026-07-15"
+  },
+  {
+   "cat": "media",
+   "source": "CTV News",
+   "title": "B.C. issues water warning amid drought conditions and record-low stream flows",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHJmcEZUNjFPRnU4X2UzQ25tQnRvMk1uR3BhT2otZkVvamd5ZFdFNG8xUEM1VmF3dFBJTU1iWlpoSnJpSmdCakwyZnZuamtESnJBeDRFbGRwR01MbnUycHQwd1p1cmw1a2NyNjV6VWZlUkNiODFQWGU3d2ppNmtzWWtRd0hnRFVZVlpLSTVvRjZXbUFEM21rY3NFbUhVM1N5TUdvOEZvSmI0SEcwNldpbnMwbVplQUFY?oc=5",
+   "date": "2026-07-14"
+  },
+  {
+   "cat": "media",
+   "source": "BC Gov News",
+   "title": "Work underway on three conservation planning projects",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBON1luUVFHOG04d2tnUVBTZDZRenFkX0szRHpFbF90aWhqN2FnN2xfUXBrdlJqVmVnMHhFRHlBeTYzbTRKRV9SNFpWTU4zQWduUVRNekJVWkVTNUp3OExxOQ?oc=5",
+   "date": "2026-07-06"
   },
   {
    "cat": "media",
