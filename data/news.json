@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T18:58:36.302Z",
+ "updated": "2026-08-25T01:51:47.915Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -15,13 +15,6 @@
    "title": "Crops sacrificed, losses mount for B.C. farmers grappling with historic drought",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN1BJZ2Z6Y3VyNTRCU1BCY045dnhuUmtnWUdrblRHYk85YjBud1NqbEF0dm1VeFpzMmhBTklzUWl5ZUdtVGdaaVIxV2p6M1BHSHEyWW5rZWMyaFpIY2ZlUmg1VVJuc0xWNXloWEJfeGtoXzJwN0EzTFdiTDZJMVBGS3NITXVseGtWSEpHRC1VNA?oc=5",
    "date": "2026-08-22"
-  },
-  {
-   "cat": "coalition",
-   "source": "BC Watershed Security Coalition",
-   "title": "Coalition Statement on BC-Canada Cooperative Prosperity Agreement",
-   "url": "https://watershedsecurity.ca/coalition-statement-on-bc-canada-cooperative-prosperity-agreement/",
-   "date": "2026-08-20"
   },
   {
    "cat": "media",
@@ -60,10 +53,10 @@
   },
   {
    "cat": "media",
-   "source": "CFJC Today Kamloops",
-   "title": "No word on return for Clinton, B.C., residents as fire burns watershed, power lines",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQlVjMWhXYUszWGk1V3BaaWM2SXhfeGZPTEt5cGpUYkttakpBZGlqU05Kb0VwYVJ2LV90TDBiLVdscUJkM3VpWkdhZmp4TzVEOVlQMTJhZklYWlBiYUJpYzhac08tVUYyTXFDTUdpT3M0YzFqb0R6bnBLbVlXWnhUODVCWkFXNlp0aU1TcVE4VHlGR1pvVHo3MnhDbXpESnhQUU5fbngzVTVYbUF2Y3F6Sk1xOWJpZw?oc=5",
-   "date": "2026-07-29"
+   "source": "CBC",
+   "title": "B.C. restricts water usage on Salmon River watershed amid 'severe' drought",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzZ3QUxaU0lZOVRTTmR1d2Vua1ZXdzBaNnQ4OEEzbzI2alpKdEFFNEYwVERhV3ZvSUpWaTlxZjJRWWxhYnB0aE0yN3V2ejJyODZQVGRIdHZaZ19MUmZhVEJqdk15OUtadkZ5VEVKYjFxS3BLUWhsdnd2R0paQktXSmlCRkpmRDRUOTlzQ3JWdk82WlBnSWxENDhB?oc=5",
+   "date": "2026-07-28"
   },
   {
    "cat": "codeblue",
@@ -176,6 +169,13 @@
    "date": "2025-01-31",
    "title": "Why Is BC Giving Away Its Fresh Water for Next to Nothing?",
    "url": "https://www.codebluebc.ca/why-is-bc-giving-away-its-fresh-water"
+  },
+  {
+   "cat": "coalition",
+   "source": "BC Watershed Security Coalition",
+   "title": "Critical natural areas shield half of Canada&#8217;s population from flooding, study finds",
+   "url": "https://watershedsecurity.ca/critical-natural-areas-shield-half-of-canadas-population-from-flooding-study-finds/",
+   "date": "2024-11-27"
   }
  ]
 }
