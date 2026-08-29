@@ -1,12 +1,19 @@
 {
- "updated": "2026-08-28T22:18:56.019Z",
+ "updated": "2026-08-29T07:03:41.226Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
    "cat": "media",
    "source": "CFJC Today Kamloops",
-   "title": "Severe drought prompts new order limiting water use for irrigation in B.C. Interior",
+   "title": "Drought prompts order limiting irrigation from Bessette Creek in B.C. Interior",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY1NiR2VjRkRRVVJheEJCZkc5dTVIbkY4NHVmZXJuVVlqNFQ5RGNVaGs5enhtWkxXYnNuMWhCWnF0anE3b2wxNjh3STFCWE9SbHVaMk83WTViQkMtZXdyNFNRSTRmV3V3eExLb0xTeklsYlNlVDhBcE5rYjlRNkp0T3BLVC14d0xzRjlwcUlmSldKaEd6Y0VrcGNodWRuVUFyVlA1M2VYYTZzSGMzWmVqejcwVEliTUU?oc=5",
+   "date": "2026-08-28"
+  },
+  {
+   "cat": "media",
+   "source": "The Globe and Mail",
+   "title": "Severe drought prompts water-restriction order on irrigation in B.C. interior",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM0JmLXFaX3BoaklZZW5nMEM3bTNqbGc5bmUzNGR6WTZYVVNVOU1uU1V2UFhGWmJkOVFyWmppNDFfeklvbVhTb1UxRGpwNUQ3SWJ6dldWUnIwZVJhajVrbHkzTmxmVEVaNHg1UTc4c1p2VVY1MmZReTRTbDZPbzRPcXlUQ2JKYkE4X2xBSV9QQm5fa3FkT0tseVhoUk5RZ0t1ZXh2NTlxVFU3eDJwOWloaURLdmtjUnFQZ2w1YlFucmE0NmxBSk43UFpBWQ?oc=5",
    "date": "2026-08-28"
   },
   {
@@ -14,13 +21,6 @@
    "source": "TMX Newsfile",
    "title": "Watershed Roofing Inc. Expands Roofing and Exterior Services Across British Columbia",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMTZBVkZvY09FMVo2eE5IYVhzaFgtVU5HTnBJSTZRNXJJcEVxRlNSQm1qaDZvLVFMWkQ0VUllV0I5ejdkN1N3TW9haklxRGFReWl6WG9nMW9jaXN5N2tQaTZENVpjRDZ0S0JxbGhpSVFFWGF0Y1k0bkJGeU5JR3lLenEtQUlUc3lMVjdJUWl1T2syQ2xDcHlKMWpfWC1RN1J1MHF1dS1XMVpvX0JUeFBDZ3ZkcXdmSmNNN1FDanZUcmFzMVNHWXVj?oc=5",
-   "date": "2026-08-22"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Crops sacrificed, losses mount for B.C. farmers grappling with historic drought",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN1BJZ2Z6Y3VyNTRCU1BCY045dnhuUmtnWUdrblRHYk85YjBud1NqbEF0dm1VeFpzMmhBTklzUWl5ZUdtVGdaaVIxV2p6M1BHSHEyWW5rZWMyaFpIY2ZlUmg1VVJuc0xWNXloWEJfeGtoXzJwN0EzTFdiTDZJMVBGS3NITXVseGtWSEpHRC1VNA?oc=5",
    "date": "2026-08-22"
   },
   {
@@ -96,9 +96,9 @@
   {
    "cat": "media",
    "source": "BC Gov News",
-   "title": "Work underway on three conservation planning projects",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBON1luUVFHOG04d2tnUVBTZDZRenFkX0szRHpFbF90aWhqN2FnN2xfUXBrdlJqVmVnMHhFRHlBeTYzbTRKRV9SNFpWTU4zQWduUVRNekJVWkVTNUp3OExxOQ?oc=5",
-   "date": "2026-07-06"
+   "title": "Urging people, businesses to conserve water",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hMy1YQmlnU0hFd0tFWGVBM3h1YU16d2FxUUQ0OU5NZlRVLWVwNXVDWFpOSTROd2t2eEtWZ3Zzem43cVY4czlZTFoyWHV0UGNLSTNjc0h0eGpqUnVsVDRPRA?oc=5",
+   "date": "2026-07-14"
   },
   {
    "cat": "coalition",
