@@ -1,26 +1,19 @@
 {
- "updated": "2026-09-01T05:07:12.008Z",
+ "updated": "2026-09-01T11:38:27.005Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
    "cat": "media",
-   "source": "The New York Times",
-   "title": "Phantom Island Mysteriously Appears, Then Vanishes on B.C. Reservoir",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZElld1dhbTRROElldW1UVnVHZHl2TERFenk3YnNIX01XdUdCX0V1U2VsODd1cklPQ3ExUFp6bGV5WTllMHBBZzB4RTFGZXBKYlBsUkVncklEamtrLUk2dXo3YU5RaDQ0Y0plZ3o2RmNCeVBqMDNlX1F4Yzc4NjJqZ2xCMkowSzlCaGc3LUNnOFI1cU11NXA1ZXhn?oc=5",
-   "date": "2026-08-31"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Severe drought conditions prompt new order limiting water use for irrigation in B.C. Interior",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMzd0VlN3aENmTi0ydWlYZFlZOVNzSXUxYWZPekRiMlJHcWQtTVhOSmdvbEw4VzdVRF9TdzU1ZGZBcmxLMzcxZXYwdjlubFNqT20wOW5qZndNTGl0Q3pnZVp4UTUwa1FyTjhwdDg3djhVZjdZZXh2QVNNRTJPNGQ3WGJsY1g1b3MyS01fVWpyTjhydXFPa1E?oc=5",
-   "date": "2026-08-29"
-  },
-  {
-   "cat": "media",
-   "source": "cfjctoday.com",
+   "source": "CFJC Today Kamloops",
    "title": "Drought prompts order limiting irrigation from Bessette Creek in B.C. Interior",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY1NiR2VjRkRRVVJheEJCZkc5dTVIbkY4NHVmZXJuVVlqNFQ5RGNVaGs5enhtWkxXYnNuMWhCWnF0anE3b2wxNjh3STFCWE9SbHVaMk83WTViQkMtZXdyNFNRSTRmV3V3eExLb0xTeklsYlNlVDhBcE5rYjlRNkp0T3BLVC14d0xzRjlwcUlmSldKaEd6Y0VrcGNodWRuVUFyVlA1M2VYYTZzSGMzWmVqejcwVEliTUU?oc=5",
+   "date": "2026-08-28"
+  },
+  {
+   "cat": "media",
+   "source": "theglobeandmail.com",
+   "title": "Severe drought prompts water-restriction order on irrigation in B.C. interior",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM0JmLXFaX3BoaklZZW5nMEM3bTNqbGc5bmUzNGR6WTZYVVNVOU1uU1V2UFhGWmJkOVFyWmppNDFfeklvbVhTb1UxRGpwNUQ3SWJ6dldWUnIwZVJhajVrbHkzTmxmVEVaNHg1UTc4c1p2VVY1MmZReTRTbDZPbzRPcXlUQ2JKYkE4X2xBSV9QQm5fa3FkT0tseVhoUk5RZ0t1ZXh2NTlxVFU3eDJwOWloaURLdmtjUnFQZ2w1YlFucmE0NmxBSk43UFpBWQ?oc=5",
    "date": "2026-08-28"
   },
   {
@@ -46,10 +39,17 @@
   },
   {
    "cat": "media",
-   "source": "News",
-   "title": "Canadian Drought Outlook - Agriculture and Agri-food Canada",
+   "source": "agriculture.canada.ca",
+   "title": "Canadian Drought Outlook",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGx5WC03LU82eEVjRml0SHF0M1B3eVppRlh6RnNXdEEzaUxRMjNFWnpwUzhIbG1aQ2FnVlpFUXRQdFVLdXpMUGdTWW15UUQyQTN0RzRURlQwTVc2UTloQktqem12RzhlU1ZURjVtNkdBNXpaVmVBejAtYmdjNF9ldW5WcnZSUkhRNC04eHp4M05OMDg?oc=5",
    "date": "2026-08-17"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Meteorologists are forecasting a 'super' El Niño. What does that mean for B.C.?",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMks0Q1RaajVFQ29MX3ZfTWdkQm1aQlFpZWFYazVGWVhfSFdxU2F1Q01ENnI1Uko4MFpRa3c3MW9idDZyZVNpVjVXNG0yXzRESW9LQmRYNXFfVVpjNWJWTmV6a21HRy1VUlBmM1ozTkw0Rlc4M254N2JaNldwQ2FaLWw0Q3VmU2o4amVMdll2TFZEZw?oc=5",
+   "date": "2026-08-16"
   },
   {
    "cat": "media",
@@ -74,8 +74,8 @@
   },
   {
    "cat": "media",
-   "source": "News",
-   "title": "Current drought conditions - Agriculture and Agri-food Canada",
+   "source": "agriculture.canada.ca",
+   "title": "Current drought conditions",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2RtZHR3NEhNVFBZOXYwQ0hIV19vTTh3NDQ0YVlRem1wcDktaWx2bFAwR1FFek94Q0puSUE4UzdHVy13dmpPTjVUVC0yZEM4Zi1RZHRUSFNOTm9nN0k5enlPaUFscGt1QVpnNktGY1dOcVpvSVlFUjlaVnZJZy1UWFdfQXVTa1hIclZ2MTRRalRUdHo4a2hxdGxpRmtDLXlKa0o3UUZVeHFFOVNwV1FLUW5uS09oa0E?oc=5",
    "date": "2026-08-07"
   },
@@ -88,7 +88,7 @@
   },
   {
    "cat": "media",
-   "source": "UVic News",
+   "source": "news.uvic.ca",
    "title": "Experts on drought in BC",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04QWhMSG55d2t3WkppWE11djIwcjRoc2U3c2o0dTR5dm5nX3F1MUFZYXplYVNiZDhiOTdraEJZN19lMFFDR1lIMmR4WDJEMVZDbUNNS3otRXFTVXh1ZmJNNXQ1Qjk1c0U1ZkU2dE1zYw?oc=5",
    "date": "2026-07-15"
