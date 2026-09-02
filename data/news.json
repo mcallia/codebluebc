@@ -1,13 +1,13 @@
 {
- "updated": "2026-09-01T21:01:50.035Z",
+ "updated": "2026-09-02T04:32:46.088Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
    "cat": "media",
-   "source": "CFJC Today Kamloops",
+   "source": "NanaimoNewsNOW",
    "title": "Drought prompts order limiting irrigation from Bessette Creek in B.C. Interior",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY1NiR2VjRkRRVVJheEJCZkc5dTVIbkY4NHVmZXJuVVlqNFQ5RGNVaGs5enhtWkxXYnNuMWhCWnF0anE3b2wxNjh3STFCWE9SbHVaMk83WTViQkMtZXdyNFNRSTRmV3V3eExLb0xTeklsYlNlVDhBcE5rYjlRNkp0T3BLVC14d0xzRjlwcUlmSldKaEd6Y0VrcGNodWRuVUFyVlA1M2VYYTZzSGMzWmVqejcwVEliTUU?oc=5",
-   "date": "2026-08-28"
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOVBodkNHRVR5VUM4cVVMTlJIT0poblhGQVpnS0xsNjZ1Zk9kRWVIX1A0STFoWmRwazlpWTJPUWxSMG5hWG1nZDhxbDg5WkJXSGJybUc0bkNfQWpKbHlEOWo4RjRXOWR2N3FHdWZfTGwxeWJYRkxuclZJNjAyd0JYWlhIcjhkREZvZmVIUFVveDdGY041Mkw0YjdfU21xQm53M25uYnR6b29NdzR2RTVHVFlyTHh0ZjJaV0JWUVhB?oc=5",
+   "date": "2026-08-29"
   },
   {
    "cat": "media",
@@ -53,20 +53,6 @@
   },
   {
    "cat": "media",
-   "source": "PembinaValleyOnline",
-   "title": "National Drought Footprint increases during July, with limited impact for Agriculture",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeFJ3a2xGdFVkWnlJWUN4blA3bGxGcDJTdnFWTkJUS0RINE5KR1JENE5oTnNDLXMyWWZ4b1pGOTQ3WUNQOTZ3SmU5akVsQnV0UDFDRkhaUnJkME02RVlLYUt3VFQxQmpJYlNBcExKOXU0LWduYVlrclNWVTJ5eHJoeXM3VFI3OW1MNm56SVh5NXhVVUlvZlRXWW9hOVVpekpPa29zTHN5VXFxcnhjekVaOVFvVkk2dHB6RlBvSUdaczNoZzN1R1hHNA?oc=5",
-   "date": "2026-08-13"
-  },
-  {
-   "cat": "media",
-   "source": "The Times of India",
-   "title": "Dry lightning, record-low lake: British Columbia drought puts region on high fire alert",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbkNTVXBTSVdIa1dEZDFlcUVMYlpzb3ZFYVAyN1dvSjkxRlFlVWxMVzlzRFlDRUo1NWNHTURVQ1R4YVl6Rzd0VVlyUzZXaFgwNEh5dGlxMkx3c0dvaS1pbklEWVVDWjV0QmhXZ1ZWQkdmZVpxVkZXRmpXcjJIOWxoZDhWdWV2YVB2OHVSeG4yRTdoUnpjZVRkVVJLWmtpc2xFYmdOVXk4WjhnS0hGZ0NGOHF5M19fSjZDVHg3YkU5a2J3blVOY25ZZUNLLTIxT1JnbWt2N1VBUzhVWFNzRGVMNTlvLVd4WWt2SDdZSUdlY2Y0R01SMTY5ODFjVdIBgAJBVV95cUxPWl8wY1ktUGxWVGFYcDIza0ZxVnVzQVhKdUlzd1dEUTJnOWtQa2pyNjJiVUZleTJJTzd0cThjUm1oTW9NSld3cGxlLW9MbnZJOUdhd2RzU3d2TkhRX1FFR3NCVEJpWDVfdUNHN0RGcU5ISDM5dGdZeXFUTWs2VDVvbW82eGNMMkVNQWxrd19tTzAxX3BsVGlDeTlRekVyck9fWXpNLWw5YjlDWEI5dm1BYm5CV1YwNDJMM1RwNGhBQmc2T0Q1QUd3VU5iZ2NsTW9mU0JrQVhtdXNjMXNnUzZvX1NjTUljbnhla1RuaVNrV3JPMTF6SEpaQWdxOUJ2Q0Rm?oc=5",
-   "date": "2026-08-12"
-  },
-  {
-   "cat": "media",
    "source": "CBC",
    "title": "B.C. temporarily rescinds protection order for the Salmon River watershed",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMXFkdnVDSkljOWJ0VW84M2o1cEY5dTVDRV9faktQNzhhSldqUXVuY3U5MXl2OGRSaFhaQzlFbXFyNkZJX1czMmpzQkkwR3c3Q2Iwcl9xc3lBZFR3ZkViUTFsemZISU5PcDVDRzB1SXRxVEdmOGIzdXduZzVORU1PQVlsb0otSTdzajVhbDlMTkdFWVlpWUFzNEZXeV9yYWE2N2ZaZXFXdzNDeEk?oc=5",
@@ -78,6 +64,20 @@
    "title": "Current drought conditions - Agriculture and Agri-food Canada",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2RtZHR3NEhNVFBZOXYwQ0hIV19vTTh3NDQ0YVlRem1wcDktaWx2bFAwR1FFek94Q0puSUE4UzdHVy13dmpPTjVUVC0yZEM4Zi1RZHRUSFNOTm9nN0k5enlPaUFscGt1QVpnNktGY1dOcVpvSVlFUjlaVnZJZy1UWFdfQXVTa1hIclZ2MTRRalRUdHo4a2hxdGxpRmtDLXlKa0o3UUZVeHFFOVNwV1FLUW5uS09oa0E?oc=5",
    "date": "2026-08-07"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "B.C. restricts water usage on Salmon River watershed amid 'severe' drought",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzZ3QUxaU0lZOVRTTmR1d2Vua1ZXdzBaNnQ4OEEzbzI2alpKdEFFNEYwVERhV3ZvSUpWaTlxZjJRWWxhYnB0aE0yN3V2ejJyODZQVGRIdHZaZ19MUmZhVEJqdk15OUtadkZ5VEVKYjFxS3BLUWhsdnd2R0paQktXSmlCRkpmRDRUOTlzQ3JWdk82WlBnSWxENDhB?oc=5",
+   "date": "2026-07-28"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Part of northeast B.C. back to 'abnormally dry,' with long drought recovery expected",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX09kY3hXOEwxdDAwMFVrd0hXc2pTdDYzclg0WnktRnlxaU1CRmdNVUMyWWlmekFVUEdQOUF1QUNaMkxTeExYZXdKYWh3eVdXWC1OZ3VDeERQTkZ6V1N4YXJNbkVzSk5Od3ZyU1JBbmQyRml4Z0JNbzJTamVRTFl0c3VydHVoSTVDZ1g5aHRrS1V2YlYzYXJ4U0pFWFNsSmxVV05IYmdGX04?oc=5",
+   "date": "2026-07-26"
   },
   {
    "cat": "codeblue",
