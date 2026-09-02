@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T11:17:30.691Z",
+ "updated": "2026-09-02T16:34:05.693Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -11,6 +11,13 @@
   },
   {
    "cat": "media",
+   "source": "nytimes.com",
+   "title": "Phantom Island Mysteriously Appears, Vanishes, Then Reappears on B.C. Reservoir",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZElld1dhbTRROElldW1UVnVHZHl2TERFenk3YnNIX01XdUdCX0V1U2VsODd1cklPQ3ExUFp6bGV5WTllMHBBZzB4RTFGZXBKYlBsUkVncklEamtrLUk2dXo3YU5RaDQ0Y0plZ3o2RmNCeVBqMDNlX1F4Yzc4NjJqZ2xCMkowSzlCaGc3LUNnOFI1cU11NXA1ZXhn?oc=5",
+   "date": "2026-08-31"
+  },
+  {
+   "cat": "media",
    "source": "CBC",
    "title": "Severe drought conditions prompt new order limiting water use for irrigation in B.C. Interior",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMzd0VlN3aENmTi0ydWlYZFlZOVNzSXUxYWZPekRiMlJHcWQtTVhOSmdvbEw4VzdVRF9TdzU1ZGZBcmxLMzcxZXYwdjlubFNqT20wOW5qZndNTGl0Q3pnZVp4UTUwa1FyTjhwdDg3djhVZjdZZXh2QVNNRTJPNGQ3WGJsY1g1b3MyS01fVWpyTjhydXFPa1E?oc=5",
@@ -18,23 +25,16 @@
   },
   {
    "cat": "media",
-   "source": "NanaimoNewsNOW",
+   "source": "cfjctoday.com",
    "title": "Drought prompts order limiting irrigation from Bessette Creek in B.C. Interior",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOVBodkNHRVR5VUM4cVVMTlJIT0poblhGQVpnS0xsNjZ1Zk9kRWVIX1A0STFoWmRwazlpWTJPUWxSMG5hWG1nZDhxbDg5WkJXSGJybUc0bkNfQWpKbHlEOWo4RjRXOWR2N3FHdWZfTGwxeWJYRkxuclZJNjAyd0JYWlhIcjhkREZvZmVIUFVveDdGY041Mkw0YjdfU21xQm53M25uYnR6b29NdzR2RTVHVFlyTHh0ZjJaV0JWUVhB?oc=5",
-   "date": "2026-08-29"
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY1NiR2VjRkRRVVJheEJCZkc5dTVIbkY4NHVmZXJuVVlqNFQ5RGNVaGs5enhtWkxXYnNuMWhCWnF0anE3b2wxNjh3STFCWE9SbHVaMk83WTViQkMtZXdyNFNRSTRmV3V3eExLb0xTeklsYlNlVDhBcE5rYjlRNkp0T3BLVC14d0xzRjlwcUlmSldKaEd6Y0VrcGNodWRuVUFyVlA1M2VYYTZzSGMzWmVqejcwVEliTUU?oc=5",
+   "date": "2026-08-28"
   },
   {
    "cat": "media",
    "source": "TMX Newsfile",
    "title": "Watershed Roofing Inc. Expands Roofing and Exterior Services Across British Columbia",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMTZBVkZvY09FMVo2eE5IYVhzaFgtVU5HTnBJSTZRNXJJcEVxRlNSQm1qaDZvLVFMWkQ0VUllV0I5ejdkN1N3TW9haklxRGFReWl6WG9nMW9jaXN5N2tQaTZENVpjRDZ0S0JxbGhpSVFFWGF0Y1k0bkJGeU5JR3lLenEtQUlUc3lMVjdJUWl1T2syQ2xDcHlKMWpfWC1RN1J1MHF1dS1XMVpvX0JUeFBDZ3ZkcXdmSmNNN1FDanZUcmFzMVNHWXVj?oc=5",
-   "date": "2026-08-22"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Crops sacrificed, losses mount for B.C. farmers grappling with historic drought",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN1BJZ2Z6Y3VyNTRCU1BCY045dnhuUmtnWUdrblRHYk85YjBud1NqbEF0dm1VeFpzMmhBTklzUWl5ZUdtVGdaaVIxV2p6M1BHSHEyWW5rZWMyaFpIY2ZlUmg1VVJuc0xWNXloWEJfeGtoXzJwN0EzTFdiTDZJMVBGS3NITXVseGtWSEpHRC1VNA?oc=5",
    "date": "2026-08-22"
   },
   {
@@ -53,17 +53,17 @@
   },
   {
    "cat": "media",
-   "source": "News",
-   "title": "Canadian Drought Outlook - Agriculture and Agri-food Canada",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGx5WC03LU82eEVjRml0SHF0M1B3eVppRlh6RnNXdEEzaUxRMjNFWnpwUzhIbG1aQ2FnVlpFUXRQdFVLdXpMUGdTWW15UUQyQTN0RzRURlQwTVc2UTloQktqem12RzhlU1ZURjVtNkdBNXpaVmVBejAtYmdjNF9ldW5WcnZSUkhRNC04eHp4M05OMDg?oc=5",
-   "date": "2026-08-17"
+   "source": "CBC",
+   "title": "Temporary protection order reissued for B.C.'s Salmon River watershed as fish spawn",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcm9WQml0Q3NDNG8zekJDMVMtMlRubUhqYXVBMzl0bUZTS1pQc0lySHdlQUJpZTRsd0xnZF90bFlMV3JkLThuZGQ4d2txYWtyY2M5WWRUbC1vdHI3MU0xWk5vT1Z3M1p1OGFyajZLVU1kS3JsQUtZT1BSUnVUVHNrZjZjU25BeGZzQTgybFJPclh6S3dYN1A4eHJYQ080UQ?oc=5",
+   "date": "2026-08-19"
   },
   {
    "cat": "media",
    "source": "News",
-   "title": "Current drought conditions - Agriculture and Agri-food Canada",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2RtZHR3NEhNVFBZOXYwQ0hIV19vTTh3NDQ0YVlRem1wcDktaWx2bFAwR1FFek94Q0puSUE4UzdHVy13dmpPTjVUVC0yZEM4Zi1RZHRUSFNOTm9nN0k5enlPaUFscGt1QVpnNktGY1dOcVpvSVlFUjlaVnZJZy1UWFdfQXVTa1hIclZ2MTRRalRUdHo4a2hxdGxpRmtDLXlKa0o3UUZVeHFFOVNwV1FLUW5uS09oa0E?oc=5",
-   "date": "2026-08-07"
+   "title": "Canadian Drought Outlook - Agriculture and Agri-food Canada",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGx5WC03LU82eEVjRml0SHF0M1B3eVppRlh6RnNXdEEzaUxRMjNFWnpwUzhIbG1aQ2FnVlpFUXRQdFVLdXpMUGdTWW15UUQyQTN0RzRURlQwTVc2UTloQktqem12RzhlU1ZURjVtNkdBNXpaVmVBejAtYmdjNF9ldW5WcnZSUkhRNC04eHp4M05OMDg?oc=5",
+   "date": "2026-08-17"
   },
   {
    "cat": "media",
