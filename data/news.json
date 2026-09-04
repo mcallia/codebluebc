@@ -1,13 +1,20 @@
 {
- "updated": "2026-09-04T04:31:59.051Z",
+ "updated": "2026-09-04T11:17:04.780Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
    "cat": "media",
-   "source": "theconversation.com",
+   "source": "The Conversation",
    "title": "Clear-cut logging is making floods worse. But it’s not just about how many trees are cut",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVVVBLVlqUm5SN1E0aVRjNERRUjJOM2JvSVowdl81Z2prM1BWdlNLZlphaHpISWk2UENfZ1dlUlZQa2FlUDN3YmdvQUJNT3E5ODBuenVXWUZBbFBsckpfbjVFZUMwU3dlTlBHc0hmWWFKcmJGWkdJYmx0QVd0NzlmN2hVZ01MaWk1VE1oTFU1WFNiajUyaVNMSmNRR3ViV0pqZkdDYVRzSFJtOXpHS3JDVGl3ZzBPcVAtSVRFOFVn?oc=5",
    "date": "2026-09-01"
+  },
+  {
+   "cat": "media",
+   "source": "The New York Times",
+   "title": "How a Phantom Island in a Canadian Lake Appeared, Vanished, Then Reappeared",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZElld1dhbTRROElldW1UVnVHZHl2TERFenk3YnNIX01XdUdCX0V1U2VsODd1cklPQ3ExUFp6bGV5WTllMHBBZzB4RTFGZXBKYlBsUkVncklEamtrLUk2dXo3YU5RaDQ0Y0plZ3o2RmNCeVBqMDNlX1F4Yzc4NjJqZ2xCMkowSzlCaGc3LUNnOFI1cU11NXA1ZXhn?oc=5",
+   "date": "2026-08-31"
   },
   {
    "cat": "media",
@@ -31,13 +38,6 @@
    "date": "2026-08-22"
   },
   {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Crops sacrificed, losses mount for B.C. farmers grappling with historic drought",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN1BJZ2Z6Y3VyNTRCU1BCY045dnhuUmtnWUdrblRHYk85YjBud1NqbEF0dm1VeFpzMmhBTklzUWl5ZUdtVGdaaVIxV2p6M1BHSHEyWW5rZWMyaFpIY2ZlUmg1VVJuc0xWNXloWEJfeGtoXzJwN0EzTFdiTDZJMVBGS3NITXVseGtWSEpHRC1VNA?oc=5",
-   "date": "2026-08-22"
-  },
-  {
    "cat": "coalition",
    "source": "BC Watershed Security Coalition",
    "title": "Statement: BC-Canada Cooperative Prosperity Agreement",
@@ -46,24 +46,31 @@
   },
   {
    "cat": "media",
-   "source": "CBC",
-   "title": "Meteorologists are forecasting a 'super' El Niño. What does that mean for B.C.?",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMks0Q1RaajVFQ29MX3ZfTWdkQm1aQlFpZWFYazVGWVhfSFdxU2F1Q01ENnI1Uko4MFpRa3c3MW9idDZyZVNpVjVXNG0yXzRESW9LQmRYNXFfVVpjNWJWTmV6a21HRy1VUlBmM1ozTkw0Rlc4M254N2JaNldwQ2FaLWw0Q3VmU2o4amVMdll2TFZEZw?oc=5",
-   "date": "2026-08-16"
+   "source": "waterportal.ca",
+   "title": "By the Numbers: Building the Workforce Our Watersheds Need",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12MWFnclBWdkRNaFVYeUpabDRobFRNTkZwcGtYc1FDVjJzNERYbzBPVE9HeERaYnBvSldLNElrZFpnNEdXRGo2b1F0UDdhbzB3bTdxdkZ4QVUtRV9wcGREUWczeFlVc0ZYNXhNdDZzeTM?oc=5",
+   "date": "2026-08-19"
   },
   {
    "cat": "media",
-   "source": "agriculture.canada.ca",
-   "title": "Current drought conditions",
+   "source": "CBC",
+   "title": "Temporary protection order reissued for B.C.'s Salmon River watershed as fish spawn",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcm9WQml0Q3NDNG8zekJDMVMtMlRubUhqYXVBMzl0bUZTS1pQc0lySHdlQUJpZTRsd0xnZF90bFlMV3JkLThuZGQ4d2txYWtyY2M5WWRUbC1vdHI3MU0xWk5vT1Z3M1p1OGFyajZLVU1kS3JsQUtZT1BSUnVUVHNrZjZjU25BeGZzQTgybFJPclh6S3dYN1A4eHJYQ080UQ?oc=5",
+   "date": "2026-08-19"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "B.C. temporarily rescinds protection order for the Salmon River watershed",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMXFkdnVDSkljOWJ0VW84M2o1cEY5dTVDRV9faktQNzhhSldqUXVuY3U5MXl2OGRSaFhaQzlFbXFyNkZJX1czMmpzQkkwR3c3Q2Iwcl9xc3lBZFR3ZkViUTFsemZISU5PcDVDRzB1SXRxVEdmOGIzdXduZzVORU1PQVlsb0otSTdzajVhbDlMTkdFWVlpWUFzNEZXeV9yYWE2N2ZaZXFXdzNDeEk?oc=5",
+   "date": "2026-08-11"
+  },
+  {
+   "cat": "media",
+   "source": "News",
+   "title": "Current drought conditions - Agriculture and Agri-food Canada",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2RtZHR3NEhNVFBZOXYwQ0hIV19vTTh3NDQ0YVlRem1wcDktaWx2bFAwR1FFek94Q0puSUE4UzdHVy13dmpPTjVUVC0yZEM4Zi1RZHRUSFNOTm9nN0k5enlPaUFscGt1QVpnNktGY1dOcVpvSVlFUjlaVnZJZy1UWFdfQXVTa1hIclZ2MTRRalRUdHo4a2hxdGxpRmtDLXlKa0o3UUZVeHFFOVNwV1FLUW5uS09oa0E?oc=5",
    "date": "2026-08-07"
-  },
-  {
-   "cat": "media",
-   "source": "My East Kootenay Now",
-   "title": "Experts say severe drought is the new normal, and B.C.'s water strategy is stuck in crisis mode",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOGFzRDVDa0FOd29NT0JMVlQ2SlppWU1WQ0NxZlVzR3JJX3ZPTDYyR0RKSnJQSHZZbFZQNXJld29VNkdvOVVXd1F3YTVTZXJ0c29rMkVCd2RzY3BjVm9USm1zRXlPVzlQQUQ1OWIzZXVqWUYyWkh2WFl5YUdSVjd4LVo1TUtSNTJQa0h4c0l6VmdIWS1qblRzVDN4WGplc01uRkxqTm16TERPYUFyTHJHdGxFSnhsbG8ybWd3UnNWTzhDWVhvcHhrZ0h6TWg5T0tzOFNIUFJQRk5SbC1SM0ZRNVpjLU85dw?oc=5",
-   "date": "2026-08-01"
   },
   {
    "cat": "media",
@@ -81,10 +88,17 @@
   },
   {
    "cat": "media",
-   "source": "Government of British Columbia",
-   "title": "B.C. Flood Strategy - Province of British Columbia",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdjN5S3QwYm9sTDVISEE4Ti05UmxyQ0t3U1VfMzZpRHNrdFNXYkZTdEdCYlBFQjNBc3EtbWgyTmdjcUJKdExldlJHeFNnbElUdko0ZnF1Tm1pUXRrdXowbGJ6Q1dISFBTY1Rlb0hrMVdsM2Y1VDM3V0VhUWVRZHZ4U0RRVzZUd3dEcEZRa1NiNW1QTHlpRGRScEJrUHNxSlcxcmRmWVNEOVhKNVdjUnE2Q0steXRNR2drYTB2RzVSb1FiNTZOMzZoRFljWW13b3BpZkhpZ09yV3BwclJ1NnlwY2ZB?oc=5",
-   "date": "2026-07-13"
+   "source": "UVic News",
+   "title": "Experts on drought in BC",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04QWhMSG55d2t3WkppWE11djIwcjRoc2U3c2o0dTR5dm5nX3F1MUFZYXplYVNiZDhiOTdraEJZN19lMFFDR1lIMmR4WDJEMVZDbUNNS3otRXFTVXh1ZmJNNXQ1Qjk1c0U1ZkU2dE1zYw?oc=5",
+   "date": "2026-07-15"
+  },
+  {
+   "cat": "media",
+   "source": "BC Gov News",
+   "title": "Work underway on three conservation planning projects",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBON1luUVFHOG04d2tnUVBTZDZRenFkX0szRHpFbF90aWhqN2FnN2xfUXBrdlJqVmVnMHhFRHlBeTYzbTRKRV9SNFpWTU4zQWduUVRNekJVWkVTNUp3OExxOQ?oc=5",
+   "date": "2026-07-06"
   },
   {
    "cat": "coalition",
@@ -92,20 +106,6 @@
    "title": "Media Release: On World Drought Day, BC Coalition Calls for Provincial Action on Drought and Water Scarcity",
    "url": "https://watershedsecurity.ca/media-release-world-drought-day/",
    "date": "2026-06-17"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Metro Vancouver urges residents to keep saving water as temperatures rise",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkYyMzdES1Awa3lHd1ZxMERUZEF1ci1ZV0ZXaHUxaHVEOGF6cUZtcDA3WU1TSU1qd0Z0TnhqUVQ4dkxSdFA4RmVHbkFBMlBfVFljeGVNUF9SVWtFRzR5TEFxc2xQUk1GODBSc1lqNE9CQWpXU0ROSVgzVkFmeV9URmJIRVE3NC1iR2hqQzBPME11VHhla2Nn?oc=5",
-   "date": "2026-06-13"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Vancouver Island's low snowpack likely to affect salmon populations: researchers",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd1o1QzhUN1UwWFRTMlZfTnB6TXBZSkJDVVRpYXIxRG5VeElWcHhJeUthcDJiLTNpU29vcTNQd1dBZ241OUVDRUp6aUltNUtqREZqMVpzTW9zY1NfTHVUNzh1RTZSUmhnZVp3eU43NGkzSm5zZms4MWtLN2l3N2ZJZm1TbWM5X0NNMVQ2dXRvc28?oc=5",
-   "date": "2026-04-22"
   },
   {
    "cat": "codeblue",
