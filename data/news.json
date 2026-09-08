@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T04:34:55.665Z",
+ "updated": "2026-09-08T11:18:02.298Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -11,6 +11,13 @@
   },
   {
    "cat": "media",
+   "source": "CFJC Today Kamloops",
+   "title": "Drought prompts order limiting irrigation from Bessette Creek in B.C. Interior",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY1NiR2VjRkRRVVJheEJCZkc5dTVIbkY4NHVmZXJuVVlqNFQ5RGNVaGs5enhtWkxXYnNuMWhCWnF0anE3b2wxNjh3STFCWE9SbHVaMk83WTViQkMtZXdyNFNRSTRmV3V3eExLb0xTeklsYlNlVDhBcE5rYjlRNkp0T3BLVC14d0xzRjlwcUlmSldKaEd6Y0VrcGNodWRuVUFyVlA1M2VYYTZzSGMzWmVqejcwVEliTUU?oc=5",
+   "date": "2026-08-28"
+  },
+  {
+   "cat": "media",
    "source": "CBC",
    "title": "Severe drought conditions prompt new order limiting water use for irrigation in B.C. Interior",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMzd0VlN3aENmTi0ydWlYZFlZOVNzSXUxYWZPekRiMlJHcWQtTVhOSmdvbEw4VzdVRF9TdzU1ZGZBcmxLMzcxZXYwdjlubFNqT20wOW5qZndNTGl0Q3pnZVp4UTUwa1FyTjhwdDg3djhVZjdZZXh2QVNNRTJPNGQ3WGJsY1g1b3MyS01fVWpyTjhydXFPa1E?oc=5",
@@ -18,23 +25,9 @@
   },
   {
    "cat": "media",
-   "source": "cfjctoday.com",
-   "title": "Drought prompts order limiting irrigation from Bessette Creek in B.C. Interior",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY1NiR2VjRkRRVVJheEJCZkc5dTVIbkY4NHVmZXJuVVlqNFQ5RGNVaGs5enhtWkxXYnNuMWhCWnF0anE3b2wxNjh3STFCWE9SbHVaMk83WTViQkMtZXdyNFNRSTRmV3V3eExLb0xTeklsYlNlVDhBcE5rYjlRNkp0T3BLVC14d0xzRjlwcUlmSldKaEd6Y0VrcGNodWRuVUFyVlA1M2VYYTZzSGMzWmVqejcwVEliTUU?oc=5",
-   "date": "2026-08-28"
-  },
-  {
-   "cat": "media",
-   "source": "TMX Newsfile",
+   "source": "newsfilecorp.com",
    "title": "Watershed Roofing Inc. Expands Roofing and Exterior Services Across British Columbia",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMTZBVkZvY09FMVo2eE5IYVhzaFgtVU5HTnBJSTZRNXJJcEVxRlNSQm1qaDZvLVFMWkQ0VUllV0I5ejdkN1N3TW9haklxRGFReWl6WG9nMW9jaXN5N2tQaTZENVpjRDZ0S0JxbGhpSVFFWGF0Y1k0bkJGeU5JR3lLenEtQUlUc3lMVjdJUWl1T2syQ2xDcHlKMWpfWC1RN1J1MHF1dS1XMVpvX0JUeFBDZ3ZkcXdmSmNNN1FDanZUcmFzMVNHWXVj?oc=5",
-   "date": "2026-08-22"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Crops sacrificed, losses mount for B.C. farmers grappling with historic drought",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN1BJZ2Z6Y3VyNTRCU1BCY045dnhuUmtnWUdrblRHYk85YjBud1NqbEF0dm1VeFpzMmhBTklzUWl5ZUdtVGdaaVIxV2p6M1BHSHEyWW5rZWMyaFpIY2ZlUmg1VVJuc0xWNXloWEJfeGtoXzJwN0EzTFdiTDZJMVBGS3NITXVseGtWSEpHRC1VNA?oc=5",
    "date": "2026-08-22"
   },
   {
@@ -43,6 +36,13 @@
    "title": "Statement: BC-Canada Cooperative Prosperity Agreement",
    "url": "https://watershedsecurity.ca/statement-bc-can-agreement/",
    "date": "2026-08-20"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Temporary protection order reissued for B.C.'s Salmon River watershed as fish spawn",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcm9WQml0Q3NDNG8zekJDMVMtMlRubUhqYXVBMzl0bUZTS1pQc0lySHdlQUJpZTRsd0xnZF90bFlMV3JkLThuZGQ4d2txYWtyY2M5WWRUbC1vdHI3MU0xWk5vT1Z3M1p1OGFyajZLVU1kS3JsQUtZT1BSUnVUVHNrZjZjU25BeGZzQTgybFJPclh6S3dYN1A4eHJYQ080UQ?oc=5",
+   "date": "2026-08-19"
   },
   {
    "cat": "media",
