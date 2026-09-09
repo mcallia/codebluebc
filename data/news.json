@@ -1,10 +1,10 @@
 {
- "updated": "2026-09-08T21:08:57.548Z",
+ "updated": "2026-09-09T04:41:04.429Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
    "cat": "media",
-   "source": "The Conversation",
+   "source": "theconversation.com",
    "title": "Clear-cut logging is making floods worse. But it’s not just about how many trees are cut",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVVVBLVlqUm5SN1E0aVRjNERRUjJOM2JvSVowdl81Z2prM1BWdlNLZlphaHpISWk2UENfZ1dlUlZQa2FlUDN3YmdvQUJNT3E5ODBuenVXWUZBbFBsckpfbjVFZUMwU3dlTlBHc0hmWWFKcmJGWkdJYmx0QVd0NzlmN2hVZ01MaWk1VE1oTFU1WFNiajUyaVNMSmNRR3ViV0pqZkdDYVRzSFJtOXpHS3JDVGl3ZzBPcVAtSVRFOFVn?oc=5",
    "date": "2026-09-01"
@@ -53,17 +53,17 @@
   },
   {
    "cat": "media",
-   "source": "The Times of India",
-   "title": "Dry lightning, record-low lake: British Columbia drought puts region on high fire alert",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbkNTVXBTSVdIa1dEZDFlcUVMYlpzb3ZFYVAyN1dvSjkxRlFlVWxMVzlzRFlDRUo1NWNHTURVQ1R4YVl6Rzd0VVlyUzZXaFgwNEh5dGlxMkx3c0dvaS1pbklEWVVDWjV0QmhXZ1ZWQkdmZVpxVkZXRmpXcjJIOWxoZDhWdWV2YVB2OHVSeG4yRTdoUnpjZVRkVVJLWmtpc2xFYmdOVXk4WjhnS0hGZ0NGOHF5M19fSjZDVHg3YkU5a2J3blVOY25ZZUNLLTIxT1JnbWt2N1VBUzhVWFNzRGVMNTlvLVd4WWt2SDdZSUdlY2Y0R01SMTY5ODFjVdIBgAJBVV95cUxPWl8wY1ktUGxWVGFYcDIza0ZxVnVzQVhKdUlzd1dEUTJnOWtQa2pyNjJiVUZleTJJTzd0cThjUm1oTW9NSld3cGxlLW9MbnZJOUdhd2RzU3d2TkhRX1FFR3NCVEJpWDVfdUNHN0RGcU5ISDM5dGdZeXFUTWs2VDVvbW82eGNMMkVNQWxrd19tTzAxX3BsVGlDeTlRekVyck9fWXpNLWw5YjlDWEI5dm1BYm5CV1YwNDJMM1RwNGhBQmc2T0Q1QUd3VU5iZ2NsTW9mU0JrQVhtdXNjMXNnUzZvX1NjTUljbnhla1RuaVNrV3JPMTF6SEpaQWdxOUJ2Q0Rm?oc=5",
-   "date": "2026-08-12"
-  },
-  {
-   "cat": "media",
    "source": "News",
    "title": "Current drought conditions - Agriculture and Agri-food Canada",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2RtZHR3NEhNVFBZOXYwQ0hIV19vTTh3NDQ0YVlRem1wcDktaWx2bFAwR1FFek94Q0puSUE4UzdHVy13dmpPTjVUVC0yZEM4Zi1RZHRUSFNOTm9nN0k5enlPaUFscGt1QVpnNktGY1dOcVpvSVlFUjlaVnZJZy1UWFdfQXVTa1hIclZ2MTRRalRUdHo4a2hxdGxpRmtDLXlKa0o3UUZVeHFFOVNwV1FLUW5uS09oa0E?oc=5",
    "date": "2026-08-07"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "B.C. restricts water usage on Salmon River watershed amid 'severe' drought",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzZ3QUxaU0lZOVRTTmR1d2Vua1ZXdzBaNnQ4OEEzbzI2alpKdEFFNEYwVERhV3ZvSUpWaTlxZjJRWWxhYnB0aE0yN3V2ejJyODZQVGRIdHZaZ19MUmZhVEJqdk15OUtadkZ5VEVKYjFxS3BLUWhsdnd2R0paQktXSmlCRkpmRDRUOTlzQ3JWdk82WlBnSWxENDhB?oc=5",
+   "date": "2026-07-28"
   },
   {
    "cat": "codeblue",
@@ -88,10 +88,10 @@
   },
   {
    "cat": "media",
-   "source": "CTV News",
-   "title": "B.C. issues water warning amid drought conditions and record-low stream flows",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHJmcEZUNjFPRnU4X2UzQ25tQnRvMk1uR3BhT2otZkVvamd5ZFdFNG8xUEM1VmF3dFBJTU1iWlpoSnJpSmdCakwyZnZuamtESnJBeDRFbGRwR01MbnUycHQwd1p1cmw1a2NyNjV6VWZlUkNiODFQWGU3d2ppNmtzWWtRd0hnRFVZVlpLSTVvRjZXbUFEM21rY3NFbUhVM1N5TUdvOEZvSmI0SEcwNldpbnMwbVplQUFY?oc=5",
-   "date": "2026-07-14"
+   "source": "BC Gov News",
+   "title": "Work underway on three conservation planning projects",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBON1luUVFHOG04d2tnUVBTZDZRenFkX0szRHpFbF90aWhqN2FnN2xfUXBrdlJqVmVnMHhFRHlBeTYzbTRKRV9SNFpWTU4zQWduUVRNekJVWkVTNUp3OExxOQ?oc=5",
+   "date": "2026-07-06"
   },
   {
    "cat": "media",
