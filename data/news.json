@@ -1,7 +1,14 @@
 {
- "updated": "2026-09-13T04:46:35.428Z",
+ "updated": "2026-09-13T11:50:41.934Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "B.C. drought forces volunteers to rescue salmon from drying streams",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaTczZ3h3bzNGdG0yV18wQjJtMXpzWFo2d0Mwa0swcWhFcnBmNWZJcU5sZ19JbllQVXBfTkVhTnM4dk9ocHlPMDNuaS0yc21DV3BQWkNKNEJkaVVjcTB5NFFzdXdGam9MS2N4SlNFc0FwdGRPZHVKZlI2ZXBCR3BNdU9RbG5UVWM?oc=5",
+   "date": "2026-09-06"
+  },
   {
    "cat": "media",
    "source": "The Conversation",
@@ -67,7 +74,7 @@
   },
   {
    "cat": "media",
-   "source": "news.uvic.ca",
+   "source": "UVic News",
    "title": "Experts on drought in BC",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04QWhMSG55d2t3WkppWE11djIwcjRoc2U3c2o0dTR5dm5nX3F1MUFZYXplYVNiZDhiOTdraEJZN19lMFFDR1lIMmR4WDJEMVZDbUNNS3otRXFTVXh1ZmJNNXQ1Qjk1c0U1ZkU2dE1zYw?oc=5",
    "date": "2026-07-15"
@@ -106,13 +113,6 @@
    "date": "2026-04-21",
    "title": "Small, Warty, and Remarkable: The Western Toad — Five Facts",
    "url": "https://www.codebluebc.ca/western-toad"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Average B.C. snowpack of 92% masks 'strong regional divide,' says provincial bulletin",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWZrRWdiQ18yX3lyemo5MmFWRjhManptSmFPcWtmZzRVOHA4RjVEUm95Mk1STElzakJ2OXlZTE9VamR1amExdlR4TGtNanZWbDlTQmktcVJVdGlRM2ZnQWFnZTVsT244ZnFMMDc0cWRjaUNIeDktTmMtTmNUdjNfQU95Sm5UMmEya0VCWFBncEtsdw?oc=5",
-   "date": "2026-04-09"
   },
   {
    "cat": "codeblue",
