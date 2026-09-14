@@ -1,7 +1,14 @@
 {
- "updated": "2026-09-14T04:55:07.409Z",
+ "updated": "2026-09-14T12:45:32.980Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
+  {
+   "cat": "media",
+   "source": "The Golden Star",
+   "title": "Whirling disease raises concerns for Columbia River watershed",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mR2N3RUlQeWgtMGo3ZzNNeERlTFMyb0piUEVuVkxDQV80aWZYVjBSTFBkbnByWmk5RHhnMlVqTnNCaUFvNm5zNHVTekJBUVZyUmNTZjJWR1kwTURkNXhScy1GczhXdjYwT0VrZlMzUENiXzY1THl3ODBoYw?oc=5",
+   "date": "2026-09-14"
+  },
   {
    "cat": "media",
    "source": "The Conversation",
@@ -88,7 +95,7 @@
   },
   {
    "cat": "media",
-   "source": "waterportal.ca",
+   "source": "Canada WaterPortal",
    "title": "By the Numbers: Building the Workforce Our Watersheds Need",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12MWFnclBWdkRNaFVYeUpabDRobFRNTkZwcGtYc1FDVjJzNERYbzBPVE9HeERaYnBvSldLNElrZFpnNEdXRGo2b1F0UDdhbzB3bTdxdkZ4QVUtRV9wcGREUWczeFlVc0ZYNXhNdDZzeTM?oc=5",
    "date": "2026-07-02"
@@ -106,13 +113,6 @@
    "date": "2026-04-21",
    "title": "Small, Warty, and Remarkable: The Western Toad — Five Facts",
    "url": "https://www.codebluebc.ca/western-toad"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Average B.C. snowpack of 92% masks 'strong regional divide,' says provincial bulletin",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWZrRWdiQ18yX3lyemo5MmFWRjhManptSmFPcWtmZzRVOHA4RjVEUm95Mk1STElzakJ2OXlZTE9VamR1amExdlR4TGtNanZWbDlTQmktcVJVdGlRM2ZnQWFnZTVsT244ZnFMMDc0cWRjaUNIeDktTmMtTmNUdjNfQU95Sm5UMmEya0VCWFBncEtsdw?oc=5",
-   "date": "2026-04-09"
   },
   {
    "cat": "codeblue",
