@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15T11:43:24.195Z",
+ "updated": "2026-09-15T16:58:39.360Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -32,7 +32,14 @@
   },
   {
    "cat": "media",
-   "source": "newsfilecorp.com",
+   "source": "CBC",
+   "title": "Severe drought conditions prompt new order limiting water use for irrigation in B.C. Interior",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMzd0VlN3aENmTi0ydWlYZFlZOVNzSXUxYWZPekRiMlJHcWQtTVhOSmdvbEw4VzdVRF9TdzU1ZGZBcmxLMzcxZXYwdjlubFNqT20wOW5qZndNTGl0Q3pnZVp4UTUwa1FyTjhwdDg3djhVZjdZZXh2QVNNRTJPNGQ3WGJsY1g1b3MyS01fVWpyTjhydXFPa1E?oc=5",
+   "date": "2026-08-28"
+  },
+  {
+   "cat": "media",
+   "source": "TMX Newsfile",
    "title": "Watershed Roofing Inc. Expands Roofing and Exterior Services Across British Columbia",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMTZBVkZvY09FMVo2eE5IYVhzaFgtVU5HTnBJSTZRNXJJcEVxRlNSQm1qaDZvLVFMWkQ0VUllV0I5ejdkN1N3TW9haklxRGFReWl6WG9nMW9jaXN5N2tQaTZENVpjRDZ0S0JxbGhpSVFFWGF0Y1k0bkJGeU5JR3lLenEtQUlUc3lMVjdJUWl1T2syQ2xDcHlKMWpfWC1RN1J1MHF1dS1XMVpvX0JUeFBDZ3ZkcXdmSmNNN1FDanZUcmFzMVNHWXVj?oc=5",
    "date": "2026-08-22"
@@ -60,10 +67,10 @@
   },
   {
    "cat": "media",
-   "source": "CBC",
-   "title": "B.C. restricts water usage on Salmon River watershed amid 'severe' drought",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzZ3QUxaU0lZOVRTTmR1d2Vua1ZXdzBaNnQ4OEEzbzI2alpKdEFFNEYwVERhV3ZvSUpWaTlxZjJRWWxhYnB0aE0yN3V2ejJyODZQVGRIdHZaZ19MUmZhVEJqdk15OUtadkZ5VEVKYjFxS3BLUWhsdnd2R0paQktXSmlCRkpmRDRUOTlzQ3JWdk82WlBnSWxENDhB?oc=5",
-   "date": "2026-07-28"
+   "source": "My East Kootenay Now",
+   "title": "Experts say severe drought is the new normal, and B.C.'s water strategy is stuck in crisis mode",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOGFzRDVDa0FOd29NT0JMVlQ2SlppWU1WQ0NxZlVzR3JJX3ZPTDYyR0RKSnJQSHZZbFZQNXJld29VNkdvOVVXd1F3YTVTZXJ0c29rMkVCd2RzY3BjVm9USm1zRXlPVzlQQUQ1OWIzZXVqWUYyWkh2WFl5YUdSVjd4LVo1TUtSNTJQa0h4c0l6VmdIWS1qblRzVDN4WGplc01uRkxqTm16TERPYUFyTHJHdGxFSnhsbG8ybWd3UnNWTzhDWVhvcHhrZ0h6TWg5T0tzOFNIUFJQRk5SbC1SM0ZRNVpjLU85dw?oc=5",
+   "date": "2026-08-01"
   },
   {
    "cat": "codeblue",
@@ -92,13 +99,6 @@
    "title": "B.C. issues water warning amid drought conditions and record-low stream flows",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHJmcEZUNjFPRnU4X2UzQ25tQnRvMk1uR3BhT2otZkVvamd5ZFdFNG8xUEM1VmF3dFBJTU1iWlpoSnJpSmdCakwyZnZuamtESnJBeDRFbGRwR01MbnUycHQwd1p1cmw1a2NyNjV6VWZlUkNiODFQWGU3d2ppNmtzWWtRd0hnRFVZVlpLSTVvRjZXbUFEM21rY3NFbUhVM1N5TUdvOEZvSmI0SEcwNldpbnMwbVplQUFY?oc=5",
    "date": "2026-07-14"
-  },
-  {
-   "cat": "media",
-   "source": "BC Gov News",
-   "title": "Work underway on three conservation planning projects",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBON1luUVFHOG04d2tnUVBTZDZRenFkX0szRHpFbF90aWhqN2FnN2xfUXBrdlJqVmVnMHhFRHlBeTYzbTRKRV9SNFpWTU4zQWduUVRNekJVWkVTNUp3OExxOQ?oc=5",
-   "date": "2026-07-06"
   },
   {
    "cat": "media",
