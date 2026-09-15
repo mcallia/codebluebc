@@ -1,20 +1,20 @@
 {
- "updated": "2026-09-14T21:48:46.288Z",
+ "updated": "2026-09-15T04:53:33.455Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
+  {
+   "cat": "coalition",
+   "source": "BC Watershed Security Coalition",
+   "title": "McAllister Poll- Fresh Water, Sovereignty and Security: What British Columbians Think (September 2026)",
+   "url": "https://watershedsecurity.ca/mcallister-poll-fresh-water-sovereignty-and-security-what-british-columbians-think-september-2026/",
+   "date": "2026-09-15"
+  },
   {
    "cat": "media",
    "source": "The Golden Star",
    "title": "Whirling disease raises concerns for Columbia River watershed",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mR2N3RUlQeWgtMGo3ZzNNeERlTFMyb0piUEVuVkxDQV80aWZYVjBSTFBkbnByWmk5RHhnMlVqTnNCaUFvNm5zNHVTekJBUVZyUmNTZjJWR1kwTURkNXhScy1GczhXdjYwT0VrZlMzUENiXzY1THl3ODBoYw?oc=5",
    "date": "2026-09-14"
-  },
-  {
-   "cat": "media",
-   "source": "agriculture.canada.ca",
-   "title": "Current drought conditions",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2RtZHR3NEhNVFBZOXYwQ0hIV19vTTh3NDQ0YVlRem1wcDktaWx2bFAwR1FFek94Q0puSUE4UzdHVy13dmpPTjVUVC0yZEM4Zi1RZHRUSFNOTm9nN0k5enlPaUFscGt1QVpnNktGY1dOcVpvSVlFUjlaVnZJZy1UWFdfQXVTa1hIclZ2MTRRalRUdHo4a2hxdGxpRmtDLXlKa0o3UUZVeHFFOVNwV1FLUW5uS09oa0E?oc=5",
-   "date": "2026-09-11"
   },
   {
    "cat": "media",
@@ -25,17 +25,10 @@
   },
   {
    "cat": "media",
-   "source": "NanaimoNewsNOW",
+   "source": "nanaimonewsnow.com",
    "title": "Drought prompts order limiting irrigation from Bessette Creek in B.C. Interior",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOVBodkNHRVR5VUM4cVVMTlJIT0poblhGQVpnS0xsNjZ1Zk9kRWVIX1A0STFoWmRwazlpWTJPUWxSMG5hWG1nZDhxbDg5WkJXSGJybUc0bkNfQWpKbHlEOWo4RjRXOWR2N3FHdWZfTGwxeWJYRkxuclZJNjAyd0JYWlhIcjhkREZvZmVIUFVveDdGY041Mkw0YjdfU21xQm53M25uYnR6b29NdzR2RTVHVFlyTHh0ZjJaV0JWUVhB?oc=5",
    "date": "2026-08-29"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Severe drought conditions prompt new order limiting water use for irrigation in B.C. Interior",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMzd0VlN3aENmTi0ydWlYZFlZOVNzSXUxYWZPekRiMlJHcWQtTVhOSmdvbEw4VzdVRF9TdzU1ZGZBcmxLMzcxZXYwdjlubFNqT20wOW5qZndNTGl0Q3pnZVp4UTUwa1FyTjhwdDg3djhVZjdZZXh2QVNNRTJPNGQ3WGJsY1g1b3MyS01fVWpyTjhydXFPa1E?oc=5",
-   "date": "2026-08-28"
   },
   {
    "cat": "media",
@@ -66,6 +59,13 @@
    "date": "2026-07-28"
   },
   {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Part of northeast B.C. back to 'abnormally dry,' with long drought recovery expected",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX09kY3hXOEwxdDAwMFVrd0hXc2pTdDYzclg0WnktRnlxaU1CRmdNVUMyWWlmekFVUEdQOUF1QUNaMkxTeExYZXdKYWh3eVdXWC1OZ3VDeERQTkZ6V1N4YXJNbkVzSk5Od3ZyU1JBbmQyRml4Z0JNbzJTamVRTFl0c3VydHVoSTVDZ1g5aHRrS1V2YlYzYXJ4U0pFWFNsSmxVV05IYmdGX04?oc=5",
+   "date": "2026-07-26"
+  },
+  {
    "cat": "codeblue",
    "source": "CodeBlue BC",
    "date": "2026-07-23",
@@ -84,6 +84,13 @@
    "source": "BC Gov News",
    "title": "Urging people, businesses to conserve water",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hMy1YQmlnU0hFd0tFWGVBM3h1YU16d2FxUUQ0OU5NZlRVLWVwNXVDWFpOSTROd2t2eEtWZ3Zzem43cVY4czlZTFoyWHV0UGNLSTNjc0h0eGpqUnVsVDRPRA?oc=5",
+   "date": "2026-07-14"
+  },
+  {
+   "cat": "media",
+   "source": "CTV News",
+   "title": "B.C. issues water warning amid drought conditions and record-low stream flows",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHJmcEZUNjFPRnU4X2UzQ25tQnRvMk1uR3BhT2otZkVvamd5ZFdFNG8xUEM1VmF3dFBJTU1iWlpoSnJpSmdCakwyZnZuamtESnJBeDRFbGRwR01MbnUycHQwd1p1cmw1a2NyNjV6VWZlUkNiODFQWGU3d2ppNmtzWWtRd0hnRFVZVlpLSTVvRjZXbUFEM21rY3NFbUhVM1N5TUdvOEZvSmI0SEcwNldpbnMwbVplQUFY?oc=5",
    "date": "2026-07-14"
   },
   {
@@ -162,13 +169,6 @@
    "title": "Media Release:BC’s Water Giveaway Must End, Says New Report",
    "url": "https://watershedsecurity.ca/media-releasebcs-water-giveaway-must-end-says-new-report/",
    "date": "2025-10-27"
-  },
-  {
-   "cat": "coalition",
-   "source": "BC Watershed Security Coalition",
-   "title": "Media Release: Failure to invest in BC’s water security poses economic risks, increased community costs, and missed job opportunities",
-   "url": "https://watershedsecurity.ca/failure-to-invest-in-bcs-water-security-poses-economic-risks-increased-community-costs-and-missed-job-opportunities/",
-   "date": "2025-03-06"
   },
   {
    "cat": "codeblue",
