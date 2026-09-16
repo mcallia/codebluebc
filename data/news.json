@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15T21:20:23.429Z",
+ "updated": "2026-09-16T04:48:20.907Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -15,6 +15,13 @@
    "title": "Whirling disease raises concerns for Columbia River watershed",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mR2N3RUlQeWgtMGo3ZzNNeERlTFMyb0piUEVuVkxDQV80aWZYVjBSTFBkbnByWmk5RHhnMlVqTnNCaUFvNm5zNHVTekJBUVZyUmNTZjJWR1kwTURkNXhScy1GczhXdjYwT0VrZlMzUENiXzY1THl3ODBoYw?oc=5",
    "date": "2026-09-14"
+  },
+  {
+   "cat": "media",
+   "source": "News",
+   "title": "Current drought conditions - Agriculture and Agri-Food Canada",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2RtZHR3NEhNVFBZOXYwQ0hIV19vTTh3NDQ0YVlRem1wcDktaWx2bFAwR1FFek94Q0puSUE4UzdHVy13dmpPTjVUVC0yZEM4Zi1RZHRUSFNOTm9nN0k5enlPaUFscGt1QVpnNktGY1dOcVpvSVlFUjlaVnZJZy1UWFdfQXVTa1hIclZ2MTRRalRUdHo4a2hxdGxpRmtDLXlKa0o3UUZVeHFFOVNwV1FLUW5uS09oa0E?oc=5",
+   "date": "2026-09-11"
   },
   {
    "cat": "media",
@@ -53,8 +60,8 @@
   },
   {
    "cat": "media",
-   "source": "agriculture.canada.ca",
-   "title": "Canadian Drought Outlook",
+   "source": "News",
+   "title": "Canadian Drought Outlook - Agriculture and Agri-Food Canada",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGx5WC03LU82eEVjRml0SHF0M1B3eVppRlh6RnNXdEEzaUxRMjNFWnpwUzhIbG1aQ2FnVlpFUXRQdFVLdXpMUGdTWW15UUQyQTN0RzRURlQwTVc2UTloQktqem12RzhlU1ZURjVtNkdBNXpaVmVBejAtYmdjNF9ldW5WcnZSUkhRNC04eHp4M05OMDg?oc=5",
    "date": "2026-08-17"
   },
@@ -78,13 +85,6 @@
    "date": "2026-07-23",
    "title": "Why Building More Reservoirs Won't Solve BC's Water Problem",
    "url": "https://www.codebluebc.ca/why-building-more-reservoirs-wont-solve-bcs-water-problem"
-  },
-  {
-   "cat": "media",
-   "source": "UVic News",
-   "title": "Experts on drought in BC",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04QWhMSG55d2t3WkppWE11djIwcjRoc2U3c2o0dTR5dm5nX3F1MUFZYXplYVNiZDhiOTdraEJZN19lMFFDR1lIMmR4WDJEMVZDbUNNS3otRXFTVXh1ZmJNNXQ1Qjk1c0U1ZkU2dE1zYw?oc=5",
-   "date": "2026-07-15"
   },
   {
    "cat": "media",
