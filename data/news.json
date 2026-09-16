@@ -1,7 +1,14 @@
 {
- "updated": "2026-09-16T16:54:41.679Z",
+ "updated": "2026-09-16T21:17:37.832Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
+  {
+   "cat": "coalition",
+   "source": "BC Watershed Security Coalition",
+   "title": "News Release: Nine in Ten British Columbians Say Fresh Water is a Matter of National Security",
+   "url": "https://watershedsecurity.ca/news-release-nine-in-ten-british-columbians-say-fresh-water-is-a-matter-of-national-security/",
+   "date": "2026-09-16"
+  },
   {
    "cat": "coalition",
    "source": "BC Watershed Security Coalition",
@@ -161,13 +168,6 @@
    "source": "BC Watershed Security Coalition",
    "title": "B.C. charges Canada&#8217;s lowest industrial water rates, finds report",
    "url": "https://watershedsecurity.ca/b-c-charges-canadas-lowest-industrial-water-rates-finds-report/",
-   "date": "2025-10-27"
-  },
-  {
-   "cat": "coalition",
-   "source": "BC Watershed Security Coalition",
-   "title": "Media Release:BC’s Water Giveaway Must End, Says New Report",
-   "url": "https://watershedsecurity.ca/media-releasebcs-water-giveaway-must-end-says-new-report/",
    "date": "2025-10-27"
   },
   {
