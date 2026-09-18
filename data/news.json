@@ -1,7 +1,14 @@
 {
- "updated": "2026-09-18T06:40:23.120Z",
+ "updated": "2026-09-18T12:35:32.391Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
+  {
+   "cat": "media",
+   "source": "The Cool Down",
+   "title": "British Columbia meteorologist says 'super' El Niño could bring record heat, floods, and droughts",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORW1fbmNDcHdJVG45alFhdGJJMEdybklBemhoQ3JvSTZONXNaVEJGSFdtY0JWeHlWN1U4Y2JTTkN5ck9mVjlZVTNrcE5rdW1EcFZpV3REWE5FdXZXU04tVXIzOVo5cHFwZFlyRUxMaFlTdUNhaDl4UHhNSDZPUlJBazJVUDgtQmx2NFU4Q1R3?oc=5",
+   "date": "2026-09-18"
+  },
   {
    "cat": "coalition",
    "source": "BC Watershed Security Coalition",
@@ -18,7 +25,7 @@
   },
   {
    "cat": "media",
-   "source": "The Golden Star",
+   "source": "thegoldenstar.net",
    "title": "Whirling disease raises concerns for Columbia River watershed",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mR2N3RUlQeWgtMGo3ZzNNeERlTFMyb0piUEVuVkxDQV80aWZYVjBSTFBkbnByWmk5RHhnMlVqTnNCaUFvNm5zNHVTekJBUVZyUmNTZjJWR1kwTURkNXhScy1GczhXdjYwT0VrZlMzUENiXzY1THl3ODBoYw?oc=5",
    "date": "2026-09-14"
@@ -88,7 +95,7 @@
   },
   {
    "cat": "media",
-   "source": "news.uvic.ca",
+   "source": "UVic News",
    "title": "Experts on drought in BC",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04QWhMSG55d2t3WkppWE11djIwcjRoc2U3c2o0dTR5dm5nX3F1MUFZYXplYVNiZDhiOTdraEJZN19lMFFDR1lIMmR4WDJEMVZDbUNNS3otRXFTVXh1ZmJNNXQ1Qjk1c0U1ZkU2dE1zYw?oc=5",
    "date": "2026-07-15"
@@ -99,13 +106,6 @@
    "title": "Urging people, businesses to conserve water",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hMy1YQmlnU0hFd0tFWGVBM3h1YU16d2FxUUQ0OU5NZlRVLWVwNXVDWFpOSTROd2t2eEtWZ3Zzem43cVY4czlZTFoyWHV0UGNLSTNjc0h0eGpqUnVsVDRPRA?oc=5",
    "date": "2026-07-14"
-  },
-  {
-   "cat": "media",
-   "source": "BC Gov News",
-   "title": "Work underway on three conservation planning projects",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBON1luUVFHOG04d2tnUVBTZDZRenFkX0szRHpFbF90aWhqN2FnN2xfUXBrdlJqVmVnMHhFRHlBeTYzbTRKRV9SNFpWTU4zQWduUVRNekJVWkVTNUp3OExxOQ?oc=5",
-   "date": "2026-07-06"
   },
   {
    "cat": "media",
