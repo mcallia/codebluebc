@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19T06:37:03.352Z",
+ "updated": "2026-09-19T12:32:29.562Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -46,13 +46,6 @@
   },
   {
    "cat": "media",
-   "source": "theconversation.com",
-   "title": "Clear-cut logging is making floods worse. But it’s not just about how many trees are cut",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVVVBLVlqUm5SN1E0aVRjNERRUjJOM2JvSVowdl81Z2prM1BWdlNLZlphaHpISWk2UENfZ1dlUlZQa2FlUDN3YmdvQUJNT3E5ODBuenVXWUZBbFBsckpfbjVFZUMwU3dlTlBHc0hmWWFKcmJGWkdJYmx0QVd0NzlmN2hVZ01MaWk1VE1oTFU1WFNiajUyaVNMSmNRR3ViV0pqZkdDYVRzSFJtOXpHS3JDVGl3ZzBPcVAtSVRFOFVn?oc=5",
-   "date": "2026-09-01"
-  },
-  {
-   "cat": "media",
    "source": "NanaimoNewsNOW",
    "title": "Drought prompts order limiting irrigation from Bessette Creek in B.C. Interior",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOVBodkNHRVR5VUM4cVVMTlJIT0poblhGQVpnS0xsNjZ1Zk9kRWVIX1A0STFoWmRwazlpWTJPUWxSMG5hWG1nZDhxbDg5WkJXSGJybUc0bkNfQWpKbHlEOWo4RjRXOWR2N3FHdWZfTGwxeWJYRkxuclZJNjAyd0JYWlhIcjhkREZvZmVIUFVveDdGY041Mkw0YjdfU21xQm53M25uYnR6b29NdzR2RTVHVFlyTHh0ZjJaV0JWUVhB?oc=5",
@@ -80,6 +73,20 @@
    "date": "2026-08-20"
   },
   {
+   "cat": "media",
+   "source": "News",
+   "title": "Canadian Drought Outlook - Agriculture and Agri-Food Canada",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGx5WC03LU82eEVjRml0SHF0M1B3eVppRlh6RnNXdEEzaUxRMjNFWnpwUzhIbG1aQ2FnVlpFUXRQdFVLdXpMUGdTWW15UUQyQTN0RzRURlQwTVc2UTloQktqem12RzhlU1ZURjVtNkdBNXpaVmVBejAtYmdjNF9ldW5WcnZSUkhRNC04eHp4M05OMDg?oc=5",
+   "date": "2026-08-17"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "B.C. temporarily rescinds protection order for the Salmon River watershed",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMXFkdnVDSkljOWJ0VW84M2o1cEY5dTVDRV9faktQNzhhSldqUXVuY3U5MXl2OGRSaFhaQzlFbXFyNkZJX1czMmpzQkkwR3c3Q2Iwcl9xc3lBZFR3ZkViUTFsemZISU5PcDVDRzB1SXRxVEdmOGIzdXduZzVORU1PQVlsb0otSTdzajVhbDlMTkdFWVlpWUFzNEZXeV9yYWE2N2ZaZXFXdzNDeEk?oc=5",
+   "date": "2026-08-11"
+  },
+  {
    "cat": "codeblue",
    "source": "CodeBlue BC",
    "date": "2026-07-23",
@@ -98,13 +105,6 @@
    "source": "BC Gov News",
    "title": "Urging people, businesses to conserve water",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hMy1YQmlnU0hFd0tFWGVBM3h1YU16d2FxUUQ0OU5NZlRVLWVwNXVDWFpOSTROd2t2eEtWZ3Zzem43cVY4czlZTFoyWHV0UGNLSTNjc0h0eGpqUnVsVDRPRA?oc=5",
-   "date": "2026-07-14"
-  },
-  {
-   "cat": "media",
-   "source": "CTV News",
-   "title": "B.C. issues water warning amid drought conditions and record-low stream flows",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHJmcEZUNjFPRnU4X2UzQ25tQnRvMk1uR3BhT2otZkVvamd5ZFdFNG8xUEM1VmF3dFBJTU1iWlpoSnJpSmdCakwyZnZuamtESnJBeDRFbGRwR01MbnUycHQwd1p1cmw1a2NyNjV6VWZlUkNiODFQWGU3d2ppNmtzWWtRd0hnRFVZVlpLSTVvRjZXbUFEM21rY3NFbUhVM1N5TUdvOEZvSmI0SEcwNldpbnMwbVplQUFY?oc=5",
    "date": "2026-07-14"
   },
   {
