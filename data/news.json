@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T06:37:31.528Z",
+ "updated": "2026-09-20T12:33:07.347Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -11,7 +11,7 @@
   },
   {
    "cat": "media",
-   "source": "The Cool Down",
+   "source": "thecooldown.com",
    "title": "British Columbia meteorologist says 'super' El Niño could bring record heat, floods, and droughts",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORW1fbmNDcHdJVG45alFhdGJJMEdybklBemhoQ3JvSTZONXNaVEJGSFdtY0JWeHlWN1U4Y2JTTkN5ck9mVjlZVTNrcE5rdW1EcFZpV3REWE5FdXZXU04tVXIzOVo5cHFwZFlyRUxMaFlTdUNhaDl4UHhNSDZPUlJBazJVUDgtQmx2NFU4Q1R3?oc=5",
    "date": "2026-09-18"
@@ -46,16 +46,23 @@
   },
   {
    "cat": "media",
-   "source": "CHEK News",
-   "title": "Severe drought prompts new order limiting water use for irrigation in B.C. Interior",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTFxdWFOcjNMSm1rNmQ5eVJteDJKVzliTElTT1NlQmkwcXJzdzlkNFdHR2stM3NoSjJZMG5VTWtNcVhrbUtBT1hoWHNzX1pYWTNNZ0VKWDB5NmNfVE05YmRaaFRhX3RKY3hEblQzR3lOMGpXc0tEZDVycko4b2ZqNzlPQzM3V3ljeFpid2h2M3R5WGFFa1FsbGwxdk5pdUhUSUxUbXUwVjNGbmNzR1NjYQ?oc=5",
-   "date": "2026-08-28"
+   "source": "The Conversation",
+   "title": "Clear-cut logging is making floods worse. But it’s not just about how many trees are cut",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVVVBLVlqUm5SN1E0aVRjNERRUjJOM2JvSVowdl81Z2prM1BWdlNLZlphaHpISWk2UENfZ1dlUlZQa2FlUDN3YmdvQUJNT3E5ODBuenVXWUZBbFBsckpfbjVFZUMwU3dlTlBHc0hmWWFKcmJGWkdJYmx0QVd0NzlmN2hVZ01MaWk1VE1oTFU1WFNiajUyaVNMSmNRR3ViV0pqZkdDYVRzSFJtOXpHS3JDVGl3ZzBPcVAtSVRFOFVn?oc=5",
+   "date": "2026-09-01"
   },
   {
    "cat": "media",
    "source": "CBC",
    "title": "Severe drought conditions prompt new order limiting water use for irrigation in B.C. Interior",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMzd0VlN3aENmTi0ydWlYZFlZOVNzSXUxYWZPekRiMlJHcWQtTVhOSmdvbEw4VzdVRF9TdzU1ZGZBcmxLMzcxZXYwdjlubFNqT20wOW5qZndNTGl0Q3pnZVp4UTUwa1FyTjhwdDg3djhVZjdZZXh2QVNNRTJPNGQ3WGJsY1g1b3MyS01fVWpyTjhydXFPa1E?oc=5",
+   "date": "2026-08-28"
+  },
+  {
+   "cat": "media",
+   "source": "NanaimoNewsNOW",
+   "title": "Drought prompts order limiting irrigation from Bessette Creek in B.C. Interior",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOVBodkNHRVR5VUM4cVVMTlJIT0poblhGQVpnS0xsNjZ1Zk9kRWVIX1A0STFoWmRwazlpWTJPUWxSMG5hWG1nZDhxbDg5WkJXSGJybUc0bkNfQWpKbHlEOWo4RjRXOWR2N3FHdWZfTGwxeWJYRkxuclZJNjAyd0JYWlhIcjhkREZvZmVIUFVveDdGY041Mkw0YjdfU21xQm53M25uYnR6b29NdzR2RTVHVFlyTHh0ZjJaV0JWUVhB?oc=5",
    "date": "2026-08-28"
   },
   {
@@ -71,13 +78,6 @@
    "title": "Statement: BC-Canada Cooperative Prosperity Agreement",
    "url": "https://watershedsecurity.ca/statement-bc-can-agreement/",
    "date": "2026-08-20"
-  },
-  {
-   "cat": "media",
-   "source": "News",
-   "title": "Canadian Drought Outlook - Agriculture and Agri-food Canada",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGx5WC03LU82eEVjRml0SHF0M1B3eVppRlh6RnNXdEEzaUxRMjNFWnpwUzhIbG1aQ2FnVlpFUXRQdFVLdXpMUGdTWW15UUQyQTN0RzRURlQwTVc2UTloQktqem12RzhlU1ZURjVtNkdBNXpaVmVBejAtYmdjNF9ldW5WcnZSUkhRNC04eHp4M05OMDg?oc=5",
-   "date": "2026-08-17"
   },
   {
    "cat": "media",
@@ -102,7 +102,7 @@
   },
   {
    "cat": "media",
-   "source": "news.gov.bc.ca",
+   "source": "BC Gov News",
    "title": "Work underway on three conservation planning projects",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBON1luUVFHOG04d2tnUVBTZDZRenFkX0szRHpFbF90aWhqN2FnN2xfUXBrdlJqVmVnMHhFRHlBeTYzbTRKRV9SNFpWTU4zQWduUVRNekJVWkVTNUp3OExxOQ?oc=5",
    "date": "2026-07-06"
