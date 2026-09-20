@@ -1,7 +1,14 @@
 {
- "updated": "2026-09-20T12:33:07.347Z",
+ "updated": "2026-09-20T18:27:47.271Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
+  {
+   "cat": "media",
+   "source": "The Conversation",
+   "title": "How to tackle persistent drought: Lessons from British Columbia",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmFOS3pITEw1ZV91Z1BBck9NNEtYTTBwa1hIWnpKSTBNVVVIZFpjWkNzYVQzOGFJY1dRaFhKcVlVU0lqUmhMRkczYTNseklMVTNLam16TTV2RDhZeVVwXzk0V3ZGTE1GNFNvemN2enpLZVFJb0JuQzZhdXN1ZWQzbXBDMndjczRHMXNLakZLUEJwOEx6dFJfQlBTNm43dw?oc=5",
+   "date": "2026-09-20"
+  },
   {
    "cat": "media",
    "source": "CityNews Vancouver",
@@ -11,7 +18,7 @@
   },
   {
    "cat": "media",
-   "source": "thecooldown.com",
+   "source": "The Cool Down",
    "title": "British Columbia meteorologist says 'super' El Niño could bring record heat, floods, and droughts",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORW1fbmNDcHdJVG45alFhdGJJMEdybklBemhoQ3JvSTZONXNaVEJGSFdtY0JWeHlWN1U4Y2JTTkN5ck9mVjlZVTNrcE5rdW1EcFZpV3REWE5FdXZXU04tVXIzOVo5cHFwZFlyRUxMaFlTdUNhaDl4UHhNSDZPUlJBazJVUDgtQmx2NFU4Q1R3?oc=5",
    "date": "2026-09-18"
@@ -43,13 +50,6 @@
    "title": "Current drought conditions - Agriculture and Agri-food Canada",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2RtZHR3NEhNVFBZOXYwQ0hIV19vTTh3NDQ0YVlRem1wcDktaWx2bFAwR1FFek94Q0puSUE4UzdHVy13dmpPTjVUVC0yZEM4Zi1RZHRUSFNOTm9nN0k5enlPaUFscGt1QVpnNktGY1dOcVpvSVlFUjlaVnZJZy1UWFdfQXVTa1hIclZ2MTRRalRUdHo4a2hxdGxpRmtDLXlKa0o3UUZVeHFFOVNwV1FLUW5uS09oa0E?oc=5",
    "date": "2026-09-11"
-  },
-  {
-   "cat": "media",
-   "source": "The Conversation",
-   "title": "Clear-cut logging is making floods worse. But it’s not just about how many trees are cut",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVVVBLVlqUm5SN1E0aVRjNERRUjJOM2JvSVowdl81Z2prM1BWdlNLZlphaHpISWk2UENfZ1dlUlZQa2FlUDN3YmdvQUJNT3E5ODBuenVXWUZBbFBsckpfbjVFZUMwU3dlTlBHc0hmWWFKcmJGWkdJYmx0QVd0NzlmN2hVZ01MaWk1VE1oTFU1WFNiajUyaVNMSmNRR3ViV0pqZkdDYVRzSFJtOXpHS3JDVGl3ZzBPcVAtSVRFOFVn?oc=5",
-   "date": "2026-09-01"
   },
   {
    "cat": "media",
