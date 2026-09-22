@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T18:31:14.087Z",
+ "updated": "2026-09-22T00:59:24.249Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -8,13 +8,6 @@
    "title": "How to tackle persistent drought: Lessons from British Columbia",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZWE5SXZUbjdlWk5uR19lcDVfRGtWbkJVdkRCZ0tzVFJvQVY0ZTcxTEVmWjJETjd1VzljV0o4Um9sZFBPUE9XRzF3OW8yclNtX24zUGt0LUFUbC00ZndkSVFmcm5ZbEkxUmRGVzhUTHpEa3k0OUpmRUh3bHp3U0g2NE9R?oc=5",
    "date": "2026-09-21"
-  },
-  {
-   "cat": "media",
-   "source": "CityNews Vancouver",
-   "title": "Drought conditions persist across southern B.C. despite recent rainfall",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2NnRy1UQWpVaTVQcGVQckNtUUpMOXJ5d1dENk02VWdxODVJZng5X1dPZ2dNV0wxQVE1T2xJeHZneENCQk1IZ0xNNGFVczRkZ3lKUFYxam54NENBY3ptWFBDc1FzWnU5WllRZ1RTWVVwZXpiU2dhR1NHQkpEaXNrM3NVZ1BoQ2RMLVFSUmhyUlNhSkFXa0xBbXEyTHJ3Zw?oc=5",
-   "date": "2026-09-18"
   },
   {
    "cat": "media",
@@ -81,6 +74,13 @@
   },
   {
    "cat": "media",
+   "source": "News",
+   "title": "Canadian Drought Outlook - Agriculture and Agri-food Canada",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGx5WC03LU82eEVjRml0SHF0M1B3eVppRlh6RnNXdEEzaUxRMjNFWnpwUzhIbG1aQ2FnVlpFUXRQdFVLdXpMUGdTWW15UUQyQTN0RzRURlQwTVc2UTloQktqem12RzhlU1ZURjVtNkdBNXpaVmVBejAtYmdjNF9ldW5WcnZSUkhRNC04eHp4M05OMDg?oc=5",
+   "date": "2026-08-17"
+  },
+  {
+   "cat": "media",
    "source": "CBC",
    "title": "B.C. temporarily rescinds protection order for the Salmon River watershed",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMXFkdnVDSkljOWJ0VW84M2o1cEY5dTVDRV9faktQNzhhSldqUXVuY3U5MXl2OGRSaFhaQzlFbXFyNkZJX1czMmpzQkkwR3c3Q2Iwcl9xc3lBZFR3ZkViUTFsemZISU5PcDVDRzB1SXRxVEdmOGIzdXduZzVORU1PQVlsb0otSTdzajVhbDlMTkdFWVlpWUFzNEZXeV9yYWE2N2ZaZXFXdzNDeEk?oc=5",
@@ -95,14 +95,14 @@
   },
   {
    "cat": "media",
-   "source": "news.uvic.ca",
+   "source": "UVic News",
    "title": "Experts on drought in BC",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04QWhMSG55d2t3WkppWE11djIwcjRoc2U3c2o0dTR5dm5nX3F1MUFZYXplYVNiZDhiOTdraEJZN19lMFFDR1lIMmR4WDJEMVZDbUNNS3otRXFTVXh1ZmJNNXQ1Qjk1c0U1ZkU2dE1zYw?oc=5",
    "date": "2026-07-15"
   },
   {
    "cat": "media",
-   "source": "news.gov.bc.ca",
+   "source": "BC Gov News",
    "title": "Work underway on three conservation planning projects",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBON1luUVFHOG04d2tnUVBTZDZRenFkX0szRHpFbF90aWhqN2FnN2xfUXBrdlJqVmVnMHhFRHlBeTYzbTRKRV9SNFpWTU4zQWduUVRNekJVWkVTNUp3OExxOQ?oc=5",
    "date": "2026-07-06"
