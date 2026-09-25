@@ -1,7 +1,14 @@
 {
- "updated": "2026-09-24T18:31:44.017Z",
+ "updated": "2026-09-25T00:59:46.656Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
+  {
+   "cat": "coalition",
+   "source": "BC Watershed Security Coalition",
+   "title": "UBCM 2026: Momentum Is Building for Watershed Security in B.C.",
+   "url": "https://watershedsecurity.ca/ubcm-2026/",
+   "date": "2026-09-24"
+  },
   {
    "cat": "media",
    "source": "CBC",
@@ -18,9 +25,9 @@
   },
   {
    "cat": "media",
-   "source": "Wrangell Sentinel",
+   "source": "wrangellsentinel.com",
    "title": "Canada, B.C., First Nation all line up in support of mines in transboundary watershed",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbWVURkI3akx4UEw3UWw2RVJfZzBXR2Vselhod003WGo4dFZ5MnRMN1BMMnZOYUdON3NzTGtucXVDS29NUEVfTFpCMHpaMjJ6UHVPRXlta180OUxGNVE5Q1BCME5ZbFR6Nm5DeEhEdy0wS2pEZWFPdWptRElWSU9MbW55cW10M1pDYjZfVmRmWTVmendRU0NzcVJPYk91bEJIY2l2dV91b2ZZTVdUVEZid1NrQjl0ZTdFQk5kY0FzU3E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTExpRTVHbjd0U1dFTEVocW12Vjd2U1pNdGZUcG41b2U2bWxCUGJkVVZxcjk0LXFpa25QbjR3ZXVWTnJ0Y1AxbUxUN2taVnhaWm5WLWNPRTgwbm41RkoxczQ1VExnWmp1ZWFSdzcwZnl1ZkxwZFRIZGJiZ2JQTjBudU42NGNudnozOTBER3FiSW5GaW1iR3YyaWxaaUx0dmJPQWN0VkpCbWhUNFFJcWtOQnBDSDVucEhpZE5JX2FOTWYzVDJwSGc?oc=5",
    "date": "2026-09-23"
   },
   {
@@ -29,6 +36,13 @@
    "title": "How to tackle persistent drought: Lessons from British Columbia",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmFOS3pITEw1ZV91Z1BBck9NNEtYTTBwa1hIWnpKSTBNVVVIZFpjWkNzYVQzOGFJY1dRaFhKcVlVU0lqUmhMRkczYTNseklMVTNLam16TTV2RDhZeVVwXzk0V3ZGTE1GNFNvemN2enpLZVFJb0JuQzZhdXN1ZWQzbXBDMndjczRHMXNLakZLUEJwOEx6dFJfQlBTNm43dw?oc=5",
    "date": "2026-09-20"
+  },
+  {
+   "cat": "media",
+   "source": "Energeticcity",
+   "title": "Drought conditions persist across southern B.C. despite recent rainfall",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVpqUkVRUjhYQ3gyVnVMYXJBd2RCWmdlOEhTazhNR1dXZElOb09hZm1qcTQycm1zYmwxUUJPVXJlY0FabHJ3em1MZHphY3FoUHNicFJCZE85a3VjeURFSGhxVTZnOExsMjZqVmE3WHlkNkxfREpuZEU3MXVBLU5jNEpqSlBEWERDLWZRcGFVeTBiWEVIQmU1UWlyaWZ0TWczanF3MEgzRE9ET3M?oc=5",
+   "date": "2026-09-18"
   },
   {
    "cat": "media",
@@ -60,17 +74,17 @@
   },
   {
    "cat": "media",
+   "source": "News",
+   "title": "Current drought conditions - Agriculture and Agri-food Canada",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2RtZHR3NEhNVFBZOXYwQ0hIV19vTTh3NDQ0YVlRem1wcDktaWx2bFAwR1FFek94Q0puSUE4UzdHVy13dmpPTjVUVC0yZEM4Zi1RZHRUSFNOTm9nN0k5enlPaUFscGt1QVpnNktGY1dOcVpvSVlFUjlaVnZJZy1UWFdfQXVTa1hIclZ2MTRRalRUdHo4a2hxdGxpRmtDLXlKa0o3UUZVeHFFOVNwV1FLUW5uS09oa0E?oc=5",
+   "date": "2026-09-11"
+  },
+  {
+   "cat": "media",
    "source": "NanaimoNewsNOW",
    "title": "Drought prompts order limiting irrigation from Bessette Creek in B.C. Interior",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOVBodkNHRVR5VUM4cVVMTlJIT0poblhGQVpnS0xsNjZ1Zk9kRWVIX1A0STFoWmRwazlpWTJPUWxSMG5hWG1nZDhxbDg5WkJXSGJybUc0bkNfQWpKbHlEOWo4RjRXOWR2N3FHdWZfTGwxeWJYRkxuclZJNjAyd0JYWlhIcjhkREZvZmVIUFVveDdGY041Mkw0YjdfU21xQm53M25uYnR6b29NdzR2RTVHVFlyTHh0ZjJaV0JWUVhB?oc=5",
    "date": "2026-08-28"
-  },
-  {
-   "cat": "media",
-   "source": "TMX Newsfile",
-   "title": "Watershed Roofing Inc. Expands Roofing and Exterior Services Across British Columbia",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTDQ1cGlQYWdVd3lXRHRoN3Z6dGx6SWd5bFJkdmp6UVpMd3RTRTRYV21LNmp5anNDYlB1Vm9VRWdPZEh5aF9YaWNqSHM0VXU3aUd3MVU4NW1MSWFLWkxOUlc1cERpdHlYRHdtcWRWUU51MmlBOC1GdEZxNmtDVkZqeUpfNkR5aURiZjZrbnNOc2xWWUxzUkNGa1NyTkNhdlp4WTRkckNjMjduUmRVdFhzMGY3UkNpNmc0M1RKZldYNGJub1ZlbTlvN2IzS0l2eVVwVkE?oc=5",
-   "date": "2026-08-22"
   },
   {
    "cat": "coalition",
@@ -78,13 +92,6 @@
    "title": "Statement: BC-Canada Cooperative Prosperity Agreement",
    "url": "https://watershedsecurity.ca/statement-bc-can-agreement/",
    "date": "2026-08-20"
-  },
-  {
-   "cat": "media",
-   "source": "News",
-   "title": "Canadian Drought Outlook - Agriculture and Agri-food Canada",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGx5WC03LU82eEVjRml0SHF0M1B3eVppRlh6RnNXdEEzaUxRMjNFWnpwUzhIbG1aQ2FnVlpFUXRQdFVLdXpMUGdTWW15UUQyQTN0RzRURlQwTVc2UTloQktqem12RzhlU1ZURjVtNkdBNXpaVmVBejAtYmdjNF9ldW5WcnZSUkhRNC04eHp4M05OMDg?oc=5",
-   "date": "2026-08-17"
   },
   {
    "cat": "codeblue",
@@ -95,7 +102,7 @@
   },
   {
    "cat": "media",
-   "source": "UVic News",
+   "source": "news.uvic.ca",
    "title": "Experts on drought in BC",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04QWhMSG55d2t3WkppWE11djIwcjRoc2U3c2o0dTR5dm5nX3F1MUFZYXplYVNiZDhiOTdraEJZN19lMFFDR1lIMmR4WDJEMVZDbUNNS3otRXFTVXh1ZmJNNXQ1Qjk1c0U1ZkU2dE1zYw?oc=5",
    "date": "2026-07-15"
@@ -162,13 +169,6 @@
    "title": "Media Release: Federal Budget 2025 fails to respond to urgent threats to Canada’s watershed security",
    "url": "https://watershedsecurity.ca/media-release-federal-budget-2025-fails-to-respond-to-urgent-threats-to-canadas-watershed-security/",
    "date": "2025-11-05"
-  },
-  {
-   "cat": "coalition",
-   "source": "BC Watershed Security Coalition",
-   "title": "B.C. charges Canada&#8217;s lowest industrial water rates, finds report",
-   "url": "https://watershedsecurity.ca/b-c-charges-canadas-lowest-industrial-water-rates-finds-report/",
-   "date": "2025-10-27"
   },
   {
    "cat": "codeblue",
