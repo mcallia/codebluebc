@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25T12:37:43.315Z",
+ "updated": "2026-09-25T18:30:18.133Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -46,7 +46,7 @@
   },
   {
    "cat": "media",
-   "source": "energeticcity.ca",
+   "source": "Energeticcity",
    "title": "Drought conditions persist across southern B.C. despite recent rainfall",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVpqUkVRUjhYQ3gyVnVMYXJBd2RCWmdlOEhTazhNR1dXZElOb09hZm1qcTQycm1zYmwxUUJPVXJlY0FabHJ3em1MZHphY3FoUHNicFJCZE85a3VjeURFSGhxVTZnOExsMjZqVmE3WHlkNkxfREpuZEU3MXVBLU5jNEpqSlBEWERDLWZRcGFVeTBiWEVIQmU1UWlyaWZ0TWczanF3MEgzRE9ET3M?oc=5",
    "date": "2026-09-18"
@@ -67,6 +67,13 @@
   },
   {
    "cat": "media",
+   "source": "The Golden Star",
+   "title": "Whirling disease raises concerns for Columbia River watershed",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mR2N3RUlQeWgtMGo3ZzNNeERlTFMyb0piUEVuVkxDQV80aWZYVjBSTFBkbnByWmk5RHhnMlVqTnNCaUFvNm5zNHVTekJBUVZyUmNTZjJWR1kwTURkNXhScy1GczhXdjYwT0VrZlMzUENiXzY1THl3ODBoYw?oc=5",
+   "date": "2026-09-14"
+  },
+  {
+   "cat": "media",
    "source": "News",
    "title": "Current drought conditions - Agriculture and Agri-food Canada",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2RtZHR3NEhNVFBZOXYwQ0hIV19vTTh3NDQ0YVlRem1wcDktaWx2bFAwR1FFek94Q0puSUE4UzdHVy13dmpPTjVUVC0yZEM4Zi1RZHRUSFNOTm9nN0k5enlPaUFscGt1QVpnNktGY1dOcVpvSVlFUjlaVnZJZy1UWFdfQXVTa1hIclZ2MTRRalRUdHo4a2hxdGxpRmtDLXlKa0o3UUZVeHFFOVNwV1FLUW5uS09oa0E?oc=5",
@@ -74,7 +81,7 @@
   },
   {
    "cat": "media",
-   "source": "nanaimonewsnow.com",
+   "source": "NanaimoNewsNOW",
    "title": "Drought prompts order limiting irrigation from Bessette Creek in B.C. Interior",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOVBodkNHRVR5VUM4cVVMTlJIT0poblhGQVpnS0xsNjZ1Zk9kRWVIX1A0STFoWmRwazlpWTJPUWxSMG5hWG1nZDhxbDg5WkJXSGJybUc0bkNfQWpKbHlEOWo4RjRXOWR2N3FHdWZfTGwxeWJYRkxuclZJNjAyd0JYWlhIcjhkREZvZmVIUFVveDdGY041Mkw0YjdfU21xQm53M25uYnR6b29NdzR2RTVHVFlyTHh0ZjJaV0JWUVhB?oc=5",
    "date": "2026-08-28"
@@ -106,13 +113,6 @@
    "title": "Experts on drought in BC",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04QWhMSG55d2t3WkppWE11djIwcjRoc2U3c2o0dTR5dm5nX3F1MUFZYXplYVNiZDhiOTdraEJZN19lMFFDR1lIMmR4WDJEMVZDbUNNS3otRXFTVXh1ZmJNNXQ1Qjk1c0U1ZkU2dE1zYw?oc=5",
    "date": "2026-07-15"
-  },
-  {
-   "cat": "media",
-   "source": "BC Gov News",
-   "title": "Work underway on three conservation planning projects",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBON1luUVFHOG04d2tnUVBTZDZRenFkX0szRHpFbF90aWhqN2FnN2xfUXBrdlJqVmVnMHhFRHlBeTYzbTRKRV9SNFpWTU4zQWduUVRNekJVWkVTNUp3OExxOQ?oc=5",
-   "date": "2026-07-06"
   },
   {
    "cat": "media",
