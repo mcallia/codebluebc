@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T18:29:44.554Z",
+ "updated": "2026-09-27T01:08:14.931Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -11,13 +11,6 @@
   },
   {
    "cat": "media",
-   "source": "petersburgpilot.com",
-   "title": "Canada, B.C., First Nation line up in support of mines in transboundary watershed",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMkIzZnZ1OXFqS1JlcEtGdVMtdHl6S2dVYkxwcFZ1X3hqZldqU185bDF3NHJCZjVsMmpBZ3JDNnVhR3hXUTVjeGxKMG13cW9tejZTWHZZVVNTajBvTkpCbkQxeWUxZkFOMmJVbnRnRW9rbkJTQXRLX0c5SFdRS2tIZDV3cW1xNlhscHhWZk0yc2xhVFlEendjQ2NoVXk3UlFFalpRZ21KRTFuYjRNM0x3ZTZUYmpDbTdLQmE1WE1DU2VRMGM2dHpIWVI4bENNN2w3aHppc2xESlMtQQ?oc=5",
-   "date": "2026-09-24"
-  },
-  {
-   "cat": "media",
    "source": "CBC",
    "title": "First Nations in B.C. Interior feel 'fear and scarcity' amidst drought-stricken salmon run",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1dObG5GUVVzcFZSNExMcm9RbFhzdWF2LXZPdzVzRmJQTWFXd3BiNjhrczhkWXhPVFBPUTc4M3RqNk10M3RZLXVRZE03VlVIQ3ZkYlptQW5KSDdZbm9tM3FzSXRxY1ltT0xnU3BpX1MtRGk0WVQ5Nk05N1VIMjdTdTI1VEtTdjhyWGZNWVFnQldiQ3RtMGFOSg?oc=5",
@@ -25,16 +18,16 @@
   },
   {
    "cat": "media",
-   "source": "Abbotsford News",
-   "title": "B.C.’s fire season moderated by recent weeks of cool weather",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWlBQWVZKb0JYYWNhWU02OE1iYlF0R1QzSTY1NzN3OElFSXQyU0RoU0dWdmNicHBNZmJDeklEVkVoWUlJRW1HUnJTRGRYLXpHQWtad0cydnFucHpua0lnR0VGYzNWLU0tMkREeHVSOExjQ1F5Nkw5WURpM2dXcXpZRHdmQjNhREY3YUZHTHYwTUJmcTRXU3ln?oc=5",
+   "source": "Wrangell Sentinel",
+   "title": "Canada, B.C., First Nation all line up in support of mines in transboundary watershed",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOEs1M1VyM0EyNjVCNXk2cm9BNEdLeDJ2ZEV6V0hVYV92OUpGRzIxbUI2NW85blJqaV9idVlFSGtNOU55emFBWkpaRGFkbUVFWkZtYjlhbmdMck5JcVc4d29wTG9zVmxQeXdDazh5aWZEeV9NQ0ctdmtINmRvQ1RFZFkzc096YVU5LVV6dlVhNGxtRlBfd3d5aUs5aDZrNGttclgtUWwtdEg5dk50SUJJdlF1cHhXdTY1SDJRYXBUNDI1UQ?oc=5",
    "date": "2026-09-23"
   },
   {
    "cat": "media",
-   "source": "Wrangell Sentinel",
-   "title": "Canada, B.C., First Nation all line up in support of mines in transboundary watershed",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOEs1M1VyM0EyNjVCNXk2cm9BNEdLeDJ2ZEV6V0hVYV92OUpGRzIxbUI2NW85blJqaV9idVlFSGtNOU55emFBWkpaRGFkbUVFWkZtYjlhbmdMck5JcVc4d29wTG9zVmxQeXdDazh5aWZEeV9NQ0ctdmtINmRvQ1RFZFkzc096YVU5LVV6dlVhNGxtRlBfd3d5aUs5aDZrNGttclgtUWwtdEg5dk50SUJJdlF1cHhXdTY1SDJRYXBUNDI1UQ?oc=5",
+   "source": "Chilliwack Progress",
+   "title": "B.C.’s fire season moderated by recent weeks of cool weather",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSHdoY19Dd05pTUlSRUg4eGdwSVZNeFJkYUF4ZFR3Z094Y1ZBVGdjemdvdGR5bF9vb0dmOXhRVGZteHlreVVVa1NpSUxRMnhkdTBIUWhrLUFJdEpCMzB1MU5jVnFfaWFkaGNpVU1xV3c5a1FHRVNQWjVmMnZmOURhX2Y1TWhCNFJHLXhIVUk3SzhJVThET2paLUxBQQ?oc=5",
    "date": "2026-09-23"
   },
   {
@@ -94,6 +87,13 @@
    "date": "2026-08-20"
   },
   {
+   "cat": "media",
+   "source": "CBC",
+   "title": "B.C. temporarily rescinds protection order for the Salmon River watershed",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMXFkdnVDSkljOWJ0VW84M2o1cEY5dTVDRV9faktQNzhhSldqUXVuY3U5MXl2OGRSaFhaQzlFbXFyNkZJX1czMmpzQkkwR3c3Q2Iwcl9xc3lBZFR3ZkViUTFsemZISU5PcDVDRzB1SXRxVEdmOGIzdXduZzVORU1PQVlsb0otSTdzajVhbDlMTkdFWVlpWUFzNEZXeV9yYWE2N2ZaZXFXdzNDeEk?oc=5",
+   "date": "2026-08-11"
+  },
+  {
    "cat": "codeblue",
    "source": "CodeBlue BC",
    "date": "2026-07-23",
@@ -109,7 +109,7 @@
   },
   {
    "cat": "media",
-   "source": "BC Gov News",
+   "source": "news.gov.bc.ca",
    "title": "Work underway on three conservation planning projects",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBON1luUVFHOG04d2tnUVBTZDZRenFkX0szRHpFbF90aWhqN2FnN2xfUXBrdlJqVmVnMHhFRHlBeTYzbTRKRV9SNFpWTU4zQWduUVRNekJVWkVTNUp3OExxOQ?oc=5",
    "date": "2026-07-06"
