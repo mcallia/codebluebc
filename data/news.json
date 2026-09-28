@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28T12:42:49.768Z",
+ "updated": "2026-09-28T18:34:09.806Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -11,7 +11,7 @@
   },
   {
    "cat": "media",
-   "source": "CBC",
+   "source": "cbc.ca",
    "title": "First Nations in B.C. Interior feel 'fear and scarcity' amidst drought-stricken salmon run",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1dObG5GUVVzcFZSNExMcm9RbFhzdWF2LXZPdzVzRmJQTWFXd3BiNjhrczhkWXhPVFBPUTc4M3RqNk10M3RZLXVRZE03VlVIQ3ZkYlptQW5KSDdZbm9tM3FzSXRxY1ltT0xnU3BpX1MtRGk0WVQ5Nk05N1VIMjdTdTI1VEtTdjhyWGZNWVFnQldiQ3RtMGFOSg?oc=5",
    "date": "2026-09-23"
@@ -25,17 +25,10 @@
   },
   {
    "cat": "media",
-   "source": "wrangellsentinel.com",
+   "source": "Wrangell Sentinel",
    "title": "Canada, B.C., First Nation all line up in support of mines in transboundary watershed",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOEs1M1VyM0EyNjVCNXk2cm9BNEdLeDJ2ZEV6V0hVYV92OUpGRzIxbUI2NW85blJqaV9idVlFSGtNOU55emFBWkpaRGFkbUVFWkZtYjlhbmdMck5JcVc4d29wTG9zVmxQeXdDazh5aWZEeV9NQ0ctdmtINmRvQ1RFZFkzc096YVU5LVV6dlVhNGxtRlBfd3d5aUs5aDZrNGttclgtUWwtdEg5dk50SUJJdlF1cHhXdTY1SDJRYXBUNDI1UQ?oc=5",
    "date": "2026-09-23"
-  },
-  {
-   "cat": "media",
-   "source": "APTN News",
-   "title": "Number of sockeye salmon returning to Fraser River ‘alarming,’ says expert",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYnNkTXdVaEd0OUxEXzI4X3RoR3VyREJEVE1PZEJyVHNveExUdXgtdWV0SldpeVJPY0o1bUhENXNFNUN3VzlseW11amtfXzhFZk5mMGVkUjZOTHM0djVma1NTVDFDUFJxSktqc0R1TUtkU0pXV0k1dnJ0cWZYT2VpUHN2SzcwY2otLVJEUFoxWWRBZXpaa0QyMjU1WlVPYjBNdXFQVkhPakN3RHZ4RldV?oc=5",
-   "date": "2026-09-21"
   },
   {
    "cat": "media",
@@ -88,7 +81,14 @@
   },
   {
    "cat": "media",
-   "source": "CBC",
+   "source": "News",
+   "title": "Canadian Drought Outlook - Agriculture and Agri-food Canada",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGx5WC03LU82eEVjRml0SHF0M1B3eVppRlh6RnNXdEEzaUxRMjNFWnpwUzhIbG1aQ2FnVlpFUXRQdFVLdXpMUGdTWW15UUQyQTN0RzRURlQwTVc2UTloQktqem12RzhlU1ZURjVtNkdBNXpaVmVBejAtYmdjNF9ldW5WcnZSUkhRNC04eHp4M05OMDg?oc=5",
+   "date": "2026-08-17"
+  },
+  {
+   "cat": "media",
+   "source": "cbc.ca",
    "title": "B.C. temporarily rescinds protection order for the Salmon River watershed",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMXFkdnVDSkljOWJ0VW84M2o1cEY5dTVDRV9faktQNzhhSldqUXVuY3U5MXl2OGRSaFhaQzlFbXFyNkZJX1czMmpzQkkwR3c3Q2Iwcl9xc3lBZFR3ZkViUTFsemZISU5PcDVDRzB1SXRxVEdmOGIzdXduZzVORU1PQVlsb0otSTdzajVhbDlMTkdFWVlpWUFzNEZXeV9yYWE2N2ZaZXFXdzNDeEk?oc=5",
    "date": "2026-08-11"
