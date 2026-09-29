@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T01:05:16.872Z",
+ "updated": "2026-09-29T06:44:32.799Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -7,7 +7,7 @@
    "source": "BC Watershed Security Coalition",
    "title": "Opinion: B.C.’s economic security runs through our watersheds",
    "url": "https://watershedsecurity.ca/opinion-b-c-s-economic-security-runs-through-our-watersheds/",
-   "date": "2026-09-28"
+   "date": "2026-09-25"
   },
   {
    "cat": "coalition",
@@ -39,17 +39,17 @@
   },
   {
    "cat": "media",
-   "source": "Phys.org",
-   "title": "How to tackle persistent drought: Lessons from British Columbia",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZWE5SXZUbjdlWk5uR19lcDVfRGtWbkJVdkRCZ0tzVFJvQVY0ZTcxTEVmWjJETjd1VzljV0o4Um9sZFBPUE9XRzF3OW8yclNtX24zUGt0LUFUbC00ZndkSVFmcm5ZbEkxUmRGVzhUTHpEa3k0OUpmRUh3bHp3U0g2NE9R?oc=5",
-   "date": "2026-09-21"
-  },
-  {
-   "cat": "media",
    "source": "The Conversation",
    "title": "How to tackle persistent drought: Lessons from British Columbia",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmFOS3pITEw1ZV91Z1BBck9NNEtYTTBwa1hIWnpKSTBNVVVIZFpjWkNzYVQzOGFJY1dRaFhKcVlVU0lqUmhMRkczYTNseklMVTNLam16TTV2RDhZeVVwXzk0V3ZGTE1GNFNvemN2enpLZVFJb0JuQzZhdXN1ZWQzbXBDMndjczRHMXNLakZLUEJwOEx6dFJfQlBTNm43dw?oc=5",
    "date": "2026-09-20"
+  },
+  {
+   "cat": "coalition",
+   "source": "BC Watershed Security Coalition",
+   "title": "Opinion: This year’s drought pitted fish against farms. B.C. must do better",
+   "url": "https://watershedsecurity.ca/opinion-this-years-drought-pitted-fish-against-farms-b-c-must-do-better/",
+   "date": "2026-09-19"
   },
   {
    "cat": "media",
@@ -57,6 +57,13 @@
    "title": "Drought conditions persist across southern B.C. despite recent rainfall",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVpqUkVRUjhYQ3gyVnVMYXJBd2RCWmdlOEhTazhNR1dXZElOb09hZm1qcTQycm1zYmwxUUJPVXJlY0FabHJ3em1MZHphY3FoUHNicFJCZE85a3VjeURFSGhxVTZnOExsMjZqVmE3WHlkNkxfREpuZEU3MXVBLU5jNEpqSlBEWERDLWZRcGFVeTBiWEVIQmU1UWlyaWZ0TWczanF3MEgzRE9ET3M?oc=5",
    "date": "2026-09-18"
+  },
+  {
+   "cat": "coalition",
+   "source": "BC Watershed Security Coalition",
+   "title": "Media Release: Sovereignty starts upstream: nine in ten British Columbians say fresh water is a matter of national security",
+   "url": "https://watershedsecurity.ca/sovereignty-polling-september-2026/",
+   "date": "2026-09-15"
   },
   {
    "cat": "coalition",
@@ -85,6 +92,13 @@
    "title": "Statement: BC-Canada Cooperative Prosperity Agreement",
    "url": "https://watershedsecurity.ca/statement-bc-can-agreement/",
    "date": "2026-08-20"
+  },
+  {
+   "cat": "media",
+   "source": "News",
+   "title": "Canadian Drought Outlook - Agriculture and Agri-food Canada",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGx5WC03LU82eEVjRml0SHF0M1B3eVppRlh6RnNXdEEzaUxRMjNFWnpwUzhIbG1aQ2FnVlpFUXRQdFVLdXpMUGdTWW15UUQyQTN0RzRURlQwTVc2UTloQktqem12RzhlU1ZURjVtNkdBNXpaVmVBejAtYmdjNF9ldW5WcnZSUkhRNC04eHp4M05OMDg?oc=5",
+   "date": "2026-08-17"
   },
   {
    "cat": "media",
@@ -150,25 +164,11 @@
    "date": "2026-02-17"
   },
   {
-   "cat": "coalition",
-   "source": "BC Watershed Security Coalition",
-   "title": "Open Letter: 46 local government elected officials calling for action to strengthen watershed security",
-   "url": "https://watershedsecurity.ca/open-letter-46-local-government-elected-officials-calling-for-action-to-strengthen-watershed-security/",
-   "date": "2026-01-24"
-  },
-  {
    "cat": "codeblue",
    "source": "CodeBlue BC",
    "date": "2025-11-10",
    "title": "Time to Get Serious About the Price of Water in BC",
    "url": "https://www.codebluebc.ca/time-to-get-serious-about-the-price-of-water-in-bc"
-  },
-  {
-   "cat": "coalition",
-   "source": "BC Watershed Security Coalition",
-   "title": "Media Release: Federal Budget 2025 fails to respond to urgent threats to Canada’s watershed security",
-   "url": "https://watershedsecurity.ca/media-release-federal-budget-2025-fails-to-respond-to-urgent-threats-to-canadas-watershed-security/",
-   "date": "2025-11-05"
   },
   {
    "cat": "codeblue",
