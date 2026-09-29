@@ -1,7 +1,14 @@
 {
- "updated": "2026-09-28T18:34:09.806Z",
+ "updated": "2026-09-29T01:05:16.872Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
+  {
+   "cat": "coalition",
+   "source": "BC Watershed Security Coalition",
+   "title": "Opinion: B.C.’s economic security runs through our watersheds",
+   "url": "https://watershedsecurity.ca/opinion-b-c-s-economic-security-runs-through-our-watersheds/",
+   "date": "2026-09-28"
+  },
   {
    "cat": "coalition",
    "source": "BC Watershed Security Coalition",
@@ -11,7 +18,7 @@
   },
   {
    "cat": "media",
-   "source": "cbc.ca",
+   "source": "CBC",
    "title": "First Nations in B.C. Interior feel 'fear and scarcity' amidst drought-stricken salmon run",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1dObG5GUVVzcFZSNExMcm9RbFhzdWF2LXZPdzVzRmJQTWFXd3BiNjhrczhkWXhPVFBPUTc4M3RqNk10M3RZLXVRZE03VlVIQ3ZkYlptQW5KSDdZbm9tM3FzSXRxY1ltT0xnU3BpX1MtRGk0WVQ5Nk05N1VIMjdTdTI1VEtTdjhyWGZNWVFnQldiQ3RtMGFOSg?oc=5",
    "date": "2026-09-23"
@@ -32,6 +39,13 @@
   },
   {
    "cat": "media",
+   "source": "Phys.org",
+   "title": "How to tackle persistent drought: Lessons from British Columbia",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZWE5SXZUbjdlWk5uR19lcDVfRGtWbkJVdkRCZ0tzVFJvQVY0ZTcxTEVmWjJETjd1VzljV0o4Um9sZFBPUE9XRzF3OW8yclNtX24zUGt0LUFUbC00ZndkSVFmcm5ZbEkxUmRGVzhUTHpEa3k0OUpmRUh3bHp3U0g2NE9R?oc=5",
+   "date": "2026-09-21"
+  },
+  {
+   "cat": "media",
    "source": "The Conversation",
    "title": "How to tackle persistent drought: Lessons from British Columbia",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmFOS3pITEw1ZV91Z1BBck9NNEtYTTBwa1hIWnpKSTBNVVVIZFpjWkNzYVQzOGFJY1dRaFhKcVlVU0lqUmhMRkczYTNseklMVTNLam16TTV2RDhZeVVwXzk0V3ZGTE1GNFNvemN2enpLZVFJb0JuQzZhdXN1ZWQzbXBDMndjczRHMXNLakZLUEJwOEx6dFJfQlBTNm43dw?oc=5",
@@ -43,13 +57,6 @@
    "title": "Drought conditions persist across southern B.C. despite recent rainfall",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVpqUkVRUjhYQ3gyVnVMYXJBd2RCWmdlOEhTazhNR1dXZElOb09hZm1qcTQycm1zYmwxUUJPVXJlY0FabHJ3em1MZHphY3FoUHNicFJCZE85a3VjeURFSGhxVTZnOExsMjZqVmE3WHlkNkxfREpuZEU3MXVBLU5jNEpqSlBEWERDLWZRcGFVeTBiWEVIQmU1UWlyaWZ0TWczanF3MEgzRE9ET3M?oc=5",
    "date": "2026-09-18"
-  },
-  {
-   "cat": "coalition",
-   "source": "BC Watershed Security Coalition",
-   "title": "News Release: Nine in Ten British Columbians Say Fresh Water is a Matter of National Security",
-   "url": "https://watershedsecurity.ca/news-release-nine-in-ten-british-columbians-say-fresh-water-is-a-matter-of-national-security/",
-   "date": "2026-09-16"
   },
   {
    "cat": "coalition",
@@ -81,14 +88,7 @@
   },
   {
    "cat": "media",
-   "source": "News",
-   "title": "Canadian Drought Outlook - Agriculture and Agri-food Canada",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGx5WC03LU82eEVjRml0SHF0M1B3eVppRlh6RnNXdEEzaUxRMjNFWnpwUzhIbG1aQ2FnVlpFUXRQdFVLdXpMUGdTWW15UUQyQTN0RzRURlQwTVc2UTloQktqem12RzhlU1ZURjVtNkdBNXpaVmVBejAtYmdjNF9ldW5WcnZSUkhRNC04eHp4M05OMDg?oc=5",
-   "date": "2026-08-17"
-  },
-  {
-   "cat": "media",
-   "source": "cbc.ca",
+   "source": "CBC",
    "title": "B.C. temporarily rescinds protection order for the Salmon River watershed",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMXFkdnVDSkljOWJ0VW84M2o1cEY5dTVDRV9faktQNzhhSldqUXVuY3U5MXl2OGRSaFhaQzlFbXFyNkZJX1czMmpzQkkwR3c3Q2Iwcl9xc3lBZFR3ZkViUTFsemZISU5PcDVDRzB1SXRxVEdmOGIzdXduZzVORU1PQVlsb0otSTdzajVhbDlMTkdFWVlpWUFzNEZXeV9yYWE2N2ZaZXFXdzNDeEk?oc=5",
    "date": "2026-08-11"
