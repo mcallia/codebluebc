@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T12:43:35.652Z",
+ "updated": "2026-09-30T18:33:00.097Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -45,13 +45,6 @@
    "date": "2026-09-19"
   },
   {
-   "cat": "media",
-   "source": "energeticcity.ca",
-   "title": "Drought conditions persist across southern B.C. despite recent rainfall",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVpqUkVRUjhYQ3gyVnVMYXJBd2RCWmdlOEhTazhNR1dXZElOb09hZm1qcTQycm1zYmwxUUJPVXJlY0FabHJ3em1MZHphY3FoUHNicFJCZE85a3VjeURFSGhxVTZnOExsMjZqVmE3WHlkNkxfREpuZEU3MXVBLU5jNEpqSlBEWERDLWZRcGFVeTBiWEVIQmU1UWlyaWZ0TWczanF3MEgzRE9ET3M?oc=5",
-   "date": "2026-09-18"
-  },
-  {
    "cat": "coalition",
    "source": "BC Watershed Security Coalition",
    "title": "Media Release: Sovereignty starts upstream: nine in ten British Columbians say fresh water is a matter of national security",
@@ -78,6 +71,13 @@
    "title": "Statement: BC-Canada Cooperative Prosperity Agreement",
    "url": "https://watershedsecurity.ca/statement-bc-can-agreement/",
    "date": "2026-08-20"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Temporary protection order reissued for B.C.'s Salmon River watershed as fish spawn",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcm9WQml0Q3NDNG8zekJDMVMtMlRubUhqYXVBMzl0bUZTS1pQc0lySHdlQUJpZTRsd0xnZF90bFlMV3JkLThuZGQ4d2txYWtyY2M5WWRUbC1vdHI3MU0xWk5vT1Z3M1p1OGFyajZLVU1kS3JsQUtZT1BSUnVUVHNrZjZjU25BeGZzQTgybFJPclh6S3dYN1A4eHJYQ080UQ?oc=5",
+   "date": "2026-08-19"
   },
   {
    "cat": "media",
