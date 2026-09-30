@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T18:34:16.980Z",
+ "updated": "2026-09-30T01:06:37.969Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -66,13 +66,6 @@
    "date": "2026-09-15"
   },
   {
-   "cat": "coalition",
-   "source": "BC Watershed Security Coalition",
-   "title": "McAllister Poll- Fresh Water, Sovereignty and Security: What British Columbians Think (September 2026)",
-   "url": "https://watershedsecurity.ca/mcallister-poll-fresh-water-sovereignty-and-security-what-british-columbians-think-september-2026/",
-   "date": "2026-09-15"
-  },
-  {
    "cat": "media",
    "source": "News",
    "title": "Current drought conditions - Agriculture and Agri-food Canada",
@@ -116,7 +109,7 @@
   },
   {
    "cat": "media",
-   "source": "news.uvic.ca",
+   "source": "UVic News",
    "title": "Experts on drought in BC",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04QWhMSG55d2t3WkppWE11djIwcjRoc2U3c2o0dTR5dm5nX3F1MUFZYXplYVNiZDhiOTdraEJZN19lMFFDR1lIMmR4WDJEMVZDbUNNS3otRXFTVXh1ZmJNNXQ1Qjk1c0U1ZkU2dE1zYw?oc=5",
    "date": "2026-07-15"
@@ -130,7 +123,7 @@
   },
   {
    "cat": "media",
-   "source": "waterportal.ca",
+   "source": "Canada WaterPortal",
    "title": "By the Numbers: Building the Workforce Our Watersheds Need",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12MWFnclBWdkRNaFVYeUpabDRobFRNTkZwcGtYc1FDVjJzNERYbzBPVE9HeERaYnBvSldLNElrZFpnNEdXRGo2b1F0UDdhbzB3bTdxdkZ4QVUtRV9wcGREUWczeFlVc0ZYNXhNdDZzeTM?oc=5",
    "date": "2026-07-02"
@@ -162,6 +155,13 @@
    "title": "Media Release: BC Budget Misses Opportunity to Generate New Revenue, Strengthen Watershed Security, Jobs, and Economic Resilience",
    "url": "https://watershedsecurity.ca/media-release-bc-budget-misses-opportunity-to-generate-new-revenue-strengthen-watershed-security-jobs-and-economic-resilience/",
    "date": "2026-02-17"
+  },
+  {
+   "cat": "coalition",
+   "source": "BC Watershed Security Coalition",
+   "title": "Open Letter: 46 local government elected officials calling for action to strengthen watershed security",
+   "url": "https://watershedsecurity.ca/open-letter-46-local-government-elected-officials-calling-for-action-to-strengthen-watershed-security/",
+   "date": "2026-01-24"
   },
   {
    "cat": "codeblue",
