@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T06:44:06.646Z",
+ "updated": "2026-10-02T12:40:12.221Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -18,7 +18,7 @@
   },
   {
    "cat": "media",
-   "source": "CBC",
+   "source": "cbc.ca",
    "title": "First Nations in B.C. Interior feel 'fear and scarcity' amidst drought-stricken salmon run",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1dObG5GUVVzcFZSNExMcm9RbFhzdWF2LXZPdzVzRmJQTWFXd3BiNjhrczhkWXhPVFBPUTc4M3RqNk10M3RZLXVRZE03VlVIQ3ZkYlptQW5KSDdZbm9tM3FzSXRxY1ltT0xnU3BpX1MtRGk0WVQ5Nk05N1VIMjdTdTI1VEtTdjhyWGZNWVFnQldiQ3RtMGFOSg?oc=5",
    "date": "2026-09-23"
@@ -36,13 +36,6 @@
    "title": "Canada, B.C., First Nation all line up in support of mines in transboundary watershed",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOEs1M1VyM0EyNjVCNXk2cm9BNEdLeDJ2ZEV6V0hVYV92OUpGRzIxbUI2NW85blJqaV9idVlFSGtNOU55emFBWkpaRGFkbUVFWkZtYjlhbmdMck5JcVc4d29wTG9zVmxQeXdDazh5aWZEeV9NQ0ctdmtINmRvQ1RFZFkzc096YVU5LVV6dlVhNGxtRlBfd3d5aUs5aDZrNGttclgtUWwtdEg5dk50SUJJdlF1cHhXdTY1SDJRYXBUNDI1UQ?oc=5",
    "date": "2026-09-23"
-  },
-  {
-   "cat": "media",
-   "source": "The Conversation",
-   "title": "How to tackle persistent drought: Lessons from British Columbia",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmFOS3pITEw1ZV91Z1BBck9NNEtYTTBwa1hIWnpKSTBNVVVIZFpjWkNzYVQzOGFJY1dRaFhKcVlVU0lqUmhMRkczYTNseklMVTNLam16TTV2RDhZeVVwXzk0V3ZGTE1GNFNvemN2enpLZVFJb0JuQzZhdXN1ZWQzbXBDMndjczRHMXNLakZLUEJwOEx6dFJfQlBTNm43dw?oc=5",
-   "date": "2026-09-20"
   },
   {
    "cat": "media",
@@ -95,10 +88,17 @@
   },
   {
    "cat": "media",
-   "source": "CBC",
+   "source": "cbc.ca",
    "title": "B.C. temporarily rescinds protection order for the Salmon River watershed",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMXFkdnVDSkljOWJ0VW84M2o1cEY5dTVDRV9faktQNzhhSldqUXVuY3U5MXl2OGRSaFhaQzlFbXFyNkZJX1czMmpzQkkwR3c3Q2Iwcl9xc3lBZFR3ZkViUTFsemZISU5PcDVDRzB1SXRxVEdmOGIzdXduZzVORU1PQVlsb0otSTdzajVhbDlMTkdFWVlpWUFzNEZXeV9yYWE2N2ZaZXFXdzNDeEk?oc=5",
    "date": "2026-08-11"
+  },
+  {
+   "cat": "media",
+   "source": "cbc.ca",
+   "title": "B.C. restricts water usage on Salmon River watershed amid 'severe' drought",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzZ3QUxaU0lZOVRTTmR1d2Vua1ZXdzBaNnQ4OEEzbzI2alpKdEFFNEYwVERhV3ZvSUpWaTlxZjJRWWxhYnB0aE0yN3V2ejJyODZQVGRIdHZaZ19MUmZhVEJqdk15OUtadkZ5VEVKYjFxS3BLUWhsdnd2R0paQktXSmlCRkpmRDRUOTlzQ3JWdk82WlBnSWxENDhB?oc=5",
+   "date": "2026-07-28"
   },
   {
    "cat": "codeblue",
@@ -109,7 +109,7 @@
   },
   {
    "cat": "media",
-   "source": "news.uvic.ca",
+   "source": "UVic News",
    "title": "Experts on drought in BC",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04QWhMSG55d2t3WkppWE11djIwcjRoc2U3c2o0dTR5dm5nX3F1MUFZYXplYVNiZDhiOTdraEJZN19lMFFDR1lIMmR4WDJEMVZDbUNNS3otRXFTVXh1ZmJNNXQ1Qjk1c0U1ZkU2dE1zYw?oc=5",
    "date": "2026-07-15"
