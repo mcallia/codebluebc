@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T06:48:04.912Z",
+ "updated": "2026-10-03T13:58:06.202Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -25,10 +25,10 @@
   },
   {
    "cat": "media",
-   "source": "Victoria News",
+   "source": "Maple Ridge News",
    "title": "B.C.’s fire season moderated by recent weeks of cool weather",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeTdtRFFsckF2Mm9kVTZGeDh2eXRZUDdzOTZKUDJYalk1dHczS0otMGN4RnZOOFEwSFBpeHFGR0lwQUZEQThiZGxfOWpJYzF0NVFHbmIwTUs3NXgyYjFDNjJyY2duQ1JsOHAxZHNXQVB3QnVTdUp0ZHM5UngtMmdQTEpMMW5tMXVsRHVXc3FyV1lvWmhQNkE?oc=5",
-   "date": "2026-09-22"
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTnRYLUg3Z3JrVHFOV3dKd2VUZzl0cTdtNVBIMEl4NWZDY3YxaFAydU4yQ2VwSnBsVnpXWXFhTDc1QnZzcnZRTmxtY3ZWc05jajhEeUNURTJILXlidkUtMlp4UDZleHJWRndTa2hNaXJqelhZaHVRYmxvRUN6R0R0bTdlUG1YMldNT1llRXk5R0plTUtzOGFMZ1dEU0dqQzg?oc=5",
+   "date": "2026-09-23"
   },
   {
    "cat": "media",
@@ -60,7 +60,7 @@
   },
   {
    "cat": "media",
-   "source": "NanaimoNewsNOW",
+   "source": "nanaimonewsnow.com",
    "title": "Drought prompts order limiting irrigation from Bessette Creek in B.C. Interior",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOVBodkNHRVR5VUM4cVVMTlJIT0poblhGQVpnS0xsNjZ1Zk9kRWVIX1A0STFoWmRwazlpWTJPUWxSMG5hWG1nZDhxbDg5WkJXSGJybUc0bkNfQWpKbHlEOWo4RjRXOWR2N3FHdWZfTGwxeWJYRkxuclZJNjAyd0JYWlhIcjhkREZvZmVIUFVveDdGY041Mkw0YjdfU21xQm53M25uYnR6b29NdzR2RTVHVFlyTHh0ZjJaV0JWUVhB?oc=5",
    "date": "2026-08-28"
@@ -88,17 +88,17 @@
   },
   {
    "cat": "media",
-   "source": "CBC",
-   "title": "B.C. restricts water usage on Salmon River watershed amid 'severe' drought",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzZ3QUxaU0lZOVRTTmR1d2Vua1ZXdzBaNnQ4OEEzbzI2alpKdEFFNEYwVERhV3ZvSUpWaTlxZjJRWWxhYnB0aE0yN3V2ejJyODZQVGRIdHZaZ19MUmZhVEJqdk15OUtadkZ5VEVKYjFxS3BLUWhsdnd2R0paQktXSmlCRkpmRDRUOTlzQ3JWdk82WlBnSWxENDhB?oc=5",
-   "date": "2026-07-28"
+   "source": "Canada WaterPortal",
+   "title": "Effects of Drought on Salmon in British Columbia Rivers",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4U3k1eHZ4TWxxU3NuWFh5Ym52UVZUSTM1TjNaT1I0NzJfN3NBU3FzMjNUeF9XNVM4b3BCbVVVR2U5bHBuVzA2VUhn?oc=5",
+   "date": "2026-08-05"
   },
   {
    "cat": "media",
    "source": "CBC",
-   "title": "Part of northeast B.C. back to 'abnormally dry,' with long drought recovery expected",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX09kY3hXOEwxdDAwMFVrd0hXc2pTdDYzclg0WnktRnlxaU1CRmdNVUMyWWlmekFVUEdQOUF1QUNaMkxTeExYZXdKYWh3eVdXWC1OZ3VDeERQTkZ6V1N4YXJNbkVzSk5Od3ZyU1JBbmQyRml4Z0JNbzJTamVRTFl0c3VydHVoSTVDZ1g5aHRrS1V2YlYzYXJ4U0pFWFNsSmxVV05IYmdGX04?oc=5",
-   "date": "2026-07-26"
+   "title": "B.C. restricts water usage on Salmon River watershed amid 'severe' drought",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzZ3QUxaU0lZOVRTTmR1d2Vua1ZXdzBaNnQ4OEEzbzI2alpKdEFFNEYwVERhV3ZvSUpWaTlxZjJRWWxhYnB0aE0yN3V2ejJyODZQVGRIdHZaZ19MUmZhVEJqdk15OUtadkZ5VEVKYjFxS3BLUWhsdnd2R0paQktXSmlCRkpmRDRUOTlzQ3JWdk82WlBnSWxENDhB?oc=5",
+   "date": "2026-07-28"
   },
   {
    "cat": "codeblue",
