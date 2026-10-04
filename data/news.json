@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T08:21:31.984Z",
+ "updated": "2026-10-04T14:11:55.265Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -25,14 +25,7 @@
   },
   {
    "cat": "media",
-   "source": "wrangellsentinel.com",
-   "title": "Canada, B.C., First Nation all line up in support of mines in transboundary watershed",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOEs1M1VyM0EyNjVCNXk2cm9BNEdLeDJ2ZEV6V0hVYV92OUpGRzIxbUI2NW85blJqaV9idVlFSGtNOU55emFBWkpaRGFkbUVFWkZtYjlhbmdMck5JcVc4d29wTG9zVmxQeXdDazh5aWZEeV9NQ0ctdmtINmRvQ1RFZFkzc096YVU5LVV6dlVhNGxtRlBfd3d5aUs5aDZrNGttclgtUWwtdEg5dk50SUJJdlF1cHhXdTY1SDJRYXBUNDI1UQ?oc=5",
-   "date": "2026-09-23"
-  },
-  {
-   "cat": "media",
-   "source": "Victoria News",
+   "source": "vicnews.com",
    "title": "B.C.’s fire season moderated by recent weeks of cool weather",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeTdtRFFsckF2Mm9kVTZGeDh2eXRZUDdzOTZKUDJYalk1dHczS0otMGN4RnZOOFEwSFBpeHFGR0lwQUZEQThiZGxfOWpJYzF0NVFHbmIwTUs3NXgyYjFDNjJyY2duQ1JsOHAxZHNXQVB3QnVTdUp0ZHM5UngtMmdQTEpMMW5tMXVsRHVXc3FyV1lvWmhQNkE?oc=5",
    "date": "2026-09-22"
@@ -52,13 +45,6 @@
    "date": "2026-09-19"
   },
   {
-   "cat": "media",
-   "source": "thecooldown.com",
-   "title": "British Columbia meteorologist says 'super' El Niño could bring record heat, floods, and droughts",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORW1fbmNDcHdJVG45alFhdGJJMEdybklBemhoQ3JvSTZONXNaVEJGSFdtY0JWeHlWN1U4Y2JTTkN5ck9mVjlZVTNrcE5rdW1EcFZpV3REWE5FdXZXU04tVXIzOVo5cHFwZFlyRUxMaFlTdUNhaDl4UHhNSDZPUlJBazJVUDgtQmx2NFU4Q1R3?oc=5",
-   "date": "2026-09-18"
-  },
-  {
    "cat": "coalition",
    "source": "BC Watershed Security Coalition",
    "title": "Media Release: Sovereignty starts upstream: nine in ten British Columbians say fresh water is a matter of national security",
@@ -74,7 +60,7 @@
   },
   {
    "cat": "media",
-   "source": "NanaimoNewsNOW",
+   "source": "nanaimonewsnow.com",
    "title": "Drought prompts order limiting irrigation from Bessette Creek in B.C. Interior",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOVBodkNHRVR5VUM4cVVMTlJIT0poblhGQVpnS0xsNjZ1Zk9kRWVIX1A0STFoWmRwazlpWTJPUWxSMG5hWG1nZDhxbDg5WkJXSGJybUc0bkNfQWpKbHlEOWo4RjRXOWR2N3FHdWZfTGwxeWJYRkxuclZJNjAyd0JYWlhIcjhkREZvZmVIUFVveDdGY041Mkw0YjdfU21xQm53M25uYnR6b29NdzR2RTVHVFlyTHh0ZjJaV0JWUVhB?oc=5",
    "date": "2026-08-28"
@@ -101,6 +87,20 @@
    "date": "2026-08-11"
   },
   {
+   "cat": "media",
+   "source": "Canada WaterPortal",
+   "title": "Effects of Drought on Salmon in British Columbia Rivers",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4U3k1eHZ4TWxxU3NuWFh5Ym52UVZUSTM1TjNaT1I0NzJfN3NBU3FzMjNUeF9XNVM4b3BCbVVVR2U5bHBuVzA2VUhn?oc=5",
+   "date": "2026-08-05"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "B.C. restricts water usage on Salmon River watershed amid 'severe' drought",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzZ3QUxaU0lZOVRTTmR1d2Vua1ZXdzBaNnQ4OEEzbzI2alpKdEFFNEYwVERhV3ZvSUpWaTlxZjJRWWxhYnB0aE0yN3V2ejJyODZQVGRIdHZaZ19MUmZhVEJqdk15OUtadkZ5VEVKYjFxS3BLUWhsdnd2R0paQktXSmlCRkpmRDRUOTlzQ3JWdk82WlBnSWxENDhB?oc=5",
+   "date": "2026-07-28"
+  },
+  {
    "cat": "codeblue",
    "source": "CodeBlue BC",
    "date": "2026-07-23",
@@ -123,7 +123,7 @@
   },
   {
    "cat": "media",
-   "source": "waterportal.ca",
+   "source": "Canada WaterPortal",
    "title": "By the Numbers: Building the Workforce Our Watersheds Need",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12MWFnclBWdkRNaFVYeUpabDRobFRNTkZwcGtYc1FDVjJzNERYbzBPVE9HeERaYnBvSldLNElrZFpnNEdXRGo2b1F0UDdhbzB3bTdxdkZ4QVUtRV9wcGREUWczeFlVc0ZYNXhNdDZzeTM?oc=5",
    "date": "2026-07-02"
