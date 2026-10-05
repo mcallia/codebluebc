@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T01:09:56.992Z",
+ "updated": "2026-10-05T07:01:20.153Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -28,13 +28,6 @@
    "source": "Maple Ridge News",
    "title": "B.C.’s fire season moderated by recent weeks of cool weather",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTnRYLUg3Z3JrVHFOV3dKd2VUZzl0cTdtNVBIMEl4NWZDY3YxaFAydU4yQ2VwSnBsVnpXWXFhTDc1QnZzcnZRTmxtY3ZWc05jajhEeUNURTJILXlidkUtMlp4UDZleHJWRndTa2hNaXJqelhZaHVRYmxvRUN6R0R0bTdlUG1YMldNT1llRXk5R0plTUtzOGFMZ1dEU0dqQzg?oc=5",
-   "date": "2026-09-23"
-  },
-  {
-   "cat": "media",
-   "source": "Wrangell Sentinel",
-   "title": "Canada, B.C., First Nation all line up in support of mines in transboundary watershed",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOEs1M1VyM0EyNjVCNXk2cm9BNEdLeDJ2ZEV6V0hVYV92OUpGRzIxbUI2NW85blJqaV9idVlFSGtNOU55emFBWkpaRGFkbUVFWkZtYjlhbmdMck5JcVc4d29wTG9zVmxQeXdDazh5aWZEeV9NQ0ctdmtINmRvQ1RFZFkzc096YVU5LVV6dlVhNGxtRlBfd3d5aUs5aDZrNGttclgtUWwtdEg5dk50SUJJdlF1cHhXdTY1SDJRYXBUNDI1UQ?oc=5",
    "date": "2026-09-23"
   },
   {
@@ -73,13 +66,6 @@
    "date": "2026-09-11"
   },
   {
-   "cat": "media",
-   "source": "NanaimoNewsNOW",
-   "title": "Drought prompts order limiting irrigation from Bessette Creek in B.C. Interior",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOVBodkNHRVR5VUM4cVVMTlJIT0poblhGQVpnS0xsNjZ1Zk9kRWVIX1A0STFoWmRwazlpWTJPUWxSMG5hWG1nZDhxbDg5WkJXSGJybUc0bkNfQWpKbHlEOWo4RjRXOWR2N3FHdWZfTGwxeWJYRkxuclZJNjAyd0JYWlhIcjhkREZvZmVIUFVveDdGY041Mkw0YjdfU21xQm53M25uYnR6b29NdzR2RTVHVFlyTHh0ZjJaV0JWUVhB?oc=5",
-   "date": "2026-08-28"
-  },
-  {
    "cat": "coalition",
    "source": "BC Watershed Security Coalition",
    "title": "Statement: BC-Canada Cooperative Prosperity Agreement",
@@ -88,10 +74,24 @@
   },
   {
    "cat": "media",
+   "source": "News",
+   "title": "Canadian Drought Outlook - Agriculture and Agri-food Canada",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGx5WC03LU82eEVjRml0SHF0M1B3eVppRlh6RnNXdEEzaUxRMjNFWnpwUzhIbG1aQ2FnVlpFUXRQdFVLdXpMUGdTWW15UUQyQTN0RzRURlQwTVc2UTloQktqem12RzhlU1ZURjVtNkdBNXpaVmVBejAtYmdjNF9ldW5WcnZSUkhRNC04eHp4M05OMDg?oc=5",
+   "date": "2026-08-17"
+  },
+  {
+   "cat": "media",
    "source": "CBC",
    "title": "B.C. temporarily rescinds protection order for the Salmon River watershed",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMXFkdnVDSkljOWJ0VW84M2o1cEY5dTVDRV9faktQNzhhSldqUXVuY3U5MXl2OGRSaFhaQzlFbXFyNkZJX1czMmpzQkkwR3c3Q2Iwcl9xc3lBZFR3ZkViUTFsemZISU5PcDVDRzB1SXRxVEdmOGIzdXduZzVORU1PQVlsb0otSTdzajVhbDlMTkdFWVlpWUFzNEZXeV9yYWE2N2ZaZXFXdzNDeEk?oc=5",
    "date": "2026-08-11"
+  },
+  {
+   "cat": "media",
+   "source": "Canada WaterPortal",
+   "title": "Effects of Drought on Salmon in British Columbia Rivers",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4U3k1eHZ4TWxxU3NuWFh5Ym52UVZUSTM1TjNaT1I0NzJfN3NBU3FzMjNUeF9XNVM4b3BCbVVVR2U5bHBuVzA2VUhn?oc=5",
+   "date": "2026-08-05"
   },
   {
    "cat": "media",
