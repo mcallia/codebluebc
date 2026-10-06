@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T06:44:58.663Z",
+ "updated": "2026-10-06T12:39:43.550Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -25,16 +25,16 @@
   },
   {
    "cat": "media",
-   "source": "Maple Ridge News",
+   "source": "mapleridgenews.com",
    "title": "B.C.’s fire season moderated by recent weeks of cool weather",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTnRYLUg3Z3JrVHFOV3dKd2VUZzl0cTdtNVBIMEl4NWZDY3YxaFAydU4yQ2VwSnBsVnpXWXFhTDc1QnZzcnZRTmxtY3ZWc05jajhEeUNURTJILXlidkUtMlp4UDZleHJWRndTa2hNaXJqelhZaHVRYmxvRUN6R0R0bTdlUG1YMldNT1llRXk5R0plTUtzOGFMZ1dEU0dqQzg?oc=5",
    "date": "2026-09-23"
   },
   {
    "cat": "media",
-   "source": "theconversation.com",
+   "source": "PreventionWeb",
    "title": "How to tackle persistent drought: Lessons from British Columbia",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmFOS3pITEw1ZV91Z1BBck9NNEtYTTBwa1hIWnpKSTBNVVVIZFpjWkNzYVQzOGFJY1dRaFhKcVlVU0lqUmhMRkczYTNseklMVTNLam16TTV2RDhZeVVwXzk0V3ZGTE1GNFNvemN2enpLZVFJb0JuQzZhdXN1ZWQzbXBDMndjczRHMXNLakZLUEJwOEx6dFJfQlBTNm43dw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQVFHZkJYbk1pMjFTb0x1a212Z0ZyQ1ptbmF3UGpRSi1vbEgzQUFRZkMwVWtnSjhTWDgzQWNTcHpVXzZja1Y2OS1TTXFPNUVaNUdfZDdnRGdReGQ0T0FyMGE1WWRha3o2SVVGczF4ZS1tMzBoTkdGX21ERS1hMWh2Um5OczBhVmZ0bmpVLWRoSTBWcm8?oc=5",
    "date": "2026-09-20"
   },
   {
@@ -88,13 +88,6 @@
   },
   {
    "cat": "media",
-   "source": "Canada WaterPortal",
-   "title": "Effects of Drought on Salmon in British Columbia Rivers",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4U3k1eHZ4TWxxU3NuWFh5Ym52UVZUSTM1TjNaT1I0NzJfN3NBU3FzMjNUeF9XNVM4b3BCbVVVR2U5bHBuVzA2VUhn?oc=5",
-   "date": "2026-08-05"
-  },
-  {
-   "cat": "media",
    "source": "My East Kootenay Now",
    "title": "Experts say severe drought is the new normal, and B.C.'s water strategy is stuck in crisis mode",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOGFzRDVDa0FOd29NT0JMVlQ2SlppWU1WQ0NxZlVzR3JJX3ZPTDYyR0RKSnJQSHZZbFZQNXJld29VNkdvOVVXd1F3YTVTZXJ0c29rMkVCd2RzY3BjVm9USm1zRXlPVzlQQUQ1OWIzZXVqWUYyWkh2WFl5YUdSVjd4LVo1TUtSNTJQa0h4c0l6VmdIWS1qblRzVDN4WGplc01uRkxqTm16TERPYUFyTHJHdGxFSnhsbG8ybWd3UnNWTzhDWVhvcHhrZ0h6TWg5T0tzOFNIUFJQRk5SbC1SM0ZRNVpjLU85dw?oc=5",
@@ -109,10 +102,17 @@
   },
   {
    "cat": "media",
-   "source": "UVic News",
+   "source": "news.uvic.ca",
    "title": "Experts on drought in BC",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04QWhMSG55d2t3WkppWE11djIwcjRoc2U3c2o0dTR5dm5nX3F1MUFZYXplYVNiZDhiOTdraEJZN19lMFFDR1lIMmR4WDJEMVZDbUNNS3otRXFTVXh1ZmJNNXQ1Qjk1c0U1ZkU2dE1zYw?oc=5",
    "date": "2026-07-15"
+  },
+  {
+   "cat": "media",
+   "source": "CTV News",
+   "title": "B.C. issues water warning amid drought conditions and record-low stream flows",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHJmcEZUNjFPRnU4X2UzQ25tQnRvMk1uR3BhT2otZkVvamd5ZFdFNG8xUEM1VmF3dFBJTU1iWlpoSnJpSmdCakwyZnZuamtESnJBeDRFbGRwR01MbnUycHQwd1p1cmw1a2NyNjV6VWZlUkNiODFQWGU3d2ppNmtzWWtRd0hnRFVZVlpLSTVvRjZXbUFEM21rY3NFbUhVM1N5TUdvOEZvSmI0SEcwNldpbnMwbVplQUFY?oc=5",
+   "date": "2026-07-14"
   },
   {
    "cat": "media",
