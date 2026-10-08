@@ -1,14 +1,7 @@
 {
- "updated": "2026-10-08T01:06:27.788Z",
+ "updated": "2026-10-08T06:46:10.683Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
-  {
-   "cat": "media",
-   "source": "Business Recorder",
-   "title": "Trends - University of British Columbia Watershed Model",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMjAwcHBEa09Ic3FOUWRsLTNDZm5VblJXTDRNSDJLME5xeUMwZXNlbEpCeWlqVGFqeEtKS1lxdnpvSVd2RWdTaW9jQ194V09haWdCRVRCVk80TDZOSHpzeFNDb3FSLWF0TjVhNUNpdDRnRmQ4LUN2bFZpVHpYaXB0OGRFOWR0dw?oc=5",
-   "date": "2026-10-07"
-  },
   {
    "cat": "coalition",
    "source": "BC Watershed Security Coalition",
@@ -113,6 +106,13 @@
    "title": "Experts on drought in BC",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04QWhMSG55d2t3WkppWE11djIwcjRoc2U3c2o0dTR5dm5nX3F1MUFZYXplYVNiZDhiOTdraEJZN19lMFFDR1lIMmR4WDJEMVZDbUNNS3otRXFTVXh1ZmJNNXQ1Qjk1c0U1ZkU2dE1zYw?oc=5",
    "date": "2026-07-15"
+  },
+  {
+   "cat": "media",
+   "source": "CTV News",
+   "title": "B.C. issues water warning amid drought conditions and record-low stream flows",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHJmcEZUNjFPRnU4X2UzQ25tQnRvMk1uR3BhT2otZkVvamd5ZFdFNG8xUEM1VmF3dFBJTU1iWlpoSnJpSmdCakwyZnZuamtESnJBeDRFbGRwR01MbnUycHQwd1p1cmw1a2NyNjV6VWZlUkNiODFQWGU3d2ppNmtzWWtRd0hnRFVZVlpLSTVvRjZXbUFEM21rY3NFbUhVM1N5TUdvOEZvSmI0SEcwNldpbnMwbVplQUFY?oc=5",
+   "date": "2026-07-14"
   },
   {
    "cat": "media",
