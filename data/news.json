@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T18:35:19.233Z",
+ "updated": "2026-10-08T01:06:27.788Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -32,6 +32,13 @@
   },
   {
    "cat": "media",
+   "source": "Maple Ridge News",
+   "title": "B.C.’s fire season moderated by recent weeks of cool weather",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTnRYLUg3Z3JrVHFOV3dKd2VUZzl0cTdtNVBIMEl4NWZDY3YxaFAydU4yQ2VwSnBsVnpXWXFhTDc1QnZzcnZRTmxtY3ZWc05jajhEeUNURTJILXlidkUtMlp4UDZleHJWRndTa2hNaXJqelhZaHVRYmxvRUN6R0R0bTdlUG1YMldNT1llRXk5R0plTUtzOGFMZ1dEU0dqQzg?oc=5",
+   "date": "2026-09-23"
+  },
+  {
+   "cat": "media",
    "source": "The Conversation",
    "title": "How to tackle persistent drought: Lessons from British Columbia",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmFOS3pITEw1ZV91Z1BBck9NNEtYTTBwa1hIWnpKSTBNVVVIZFpjWkNzYVQzOGFJY1dRaFhKcVlVU0lqUmhMRkczYTNseklMVTNLam16TTV2RDhZeVVwXzk0V3ZGTE1GNFNvemN2enpLZVFJb0JuQzZhdXN1ZWQzbXBDMndjczRHMXNLakZLUEJwOEx6dFJfQlBTNm43dw?oc=5",
@@ -43,6 +50,13 @@
    "title": "Opinion: This year’s drought pitted fish against farms. B.C. must do better",
    "url": "https://watershedsecurity.ca/opinion-this-years-drought-pitted-fish-against-farms-b-c-must-do-better/",
    "date": "2026-09-19"
+  },
+  {
+   "cat": "media",
+   "source": "The Cool Down",
+   "title": "British Columbia meteorologist says 'super' El Niño could bring record heat, floods, and droughts",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORW1fbmNDcHdJVG45alFhdGJJMEdybklBemhoQ3JvSTZONXNaVEJGSFdtY0JWeHlWN1U4Y2JTTkN5ck9mVjlZVTNrcE5rdW1EcFZpV3REWE5FdXZXU04tVXIzOVo5cHFwZFlyRUxMaFlTdUNhaDl4UHhNSDZPUlJBazJVUDgtQmx2NFU4Q1R3?oc=5",
+   "date": "2026-09-18"
   },
   {
    "cat": "coalition",
@@ -74,13 +88,6 @@
   },
   {
    "cat": "media",
-   "source": "News",
-   "title": "Canadian Drought Outlook - Agriculture and Agri-food Canada",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGx5WC03LU82eEVjRml0SHF0M1B3eVppRlh6RnNXdEEzaUxRMjNFWnpwUzhIbG1aQ2FnVlpFUXRQdFVLdXpMUGdTWW15UUQyQTN0RzRURlQwTVc2UTloQktqem12RzhlU1ZURjVtNkdBNXpaVmVBejAtYmdjNF9ldW5WcnZSUkhRNC04eHp4M05OMDg?oc=5",
-   "date": "2026-08-17"
-  },
-  {
-   "cat": "media",
    "source": "CBC",
    "title": "B.C. temporarily rescinds protection order for the Salmon River watershed",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMXFkdnVDSkljOWJ0VW84M2o1cEY5dTVDRV9faktQNzhhSldqUXVuY3U5MXl2OGRSaFhaQzlFbXFyNkZJX1czMmpzQkkwR3c3Q2Iwcl9xc3lBZFR3ZkViUTFsemZISU5PcDVDRzB1SXRxVEdmOGIzdXduZzVORU1PQVlsb0otSTdzajVhbDlMTkdFWVlpWUFzNEZXeV9yYWE2N2ZaZXFXdzNDeEk?oc=5",
@@ -88,17 +95,10 @@
   },
   {
    "cat": "media",
-   "source": "Canada WaterPortal",
-   "title": "Effects of Drought on Salmon in British Columbia Rivers",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4U3k1eHZ4TWxxU3NuWFh5Ym52UVZUSTM1TjNaT1I0NzJfN3NBU3FzMjNUeF9XNVM4b3BCbVVVR2U5bHBuVzA2VUhn?oc=5",
-   "date": "2026-08-05"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "B.C. restricts water usage on Salmon River watershed amid 'severe' drought",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzZ3QUxaU0lZOVRTTmR1d2Vua1ZXdzBaNnQ4OEEzbzI2alpKdEFFNEYwVERhV3ZvSUpWaTlxZjJRWWxhYnB0aE0yN3V2ejJyODZQVGRIdHZaZ19MUmZhVEJqdk15OUtadkZ5VEVKYjFxS3BLUWhsdnd2R0paQktXSmlCRkpmRDRUOTlzQ3JWdk82WlBnSWxENDhB?oc=5",
-   "date": "2026-07-28"
+   "source": "My East Kootenay Now",
+   "title": "Experts say severe drought is the new normal, and B.C.'s water strategy is stuck in crisis mode",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOGFzRDVDa0FOd29NT0JMVlQ2SlppWU1WQ0NxZlVzR3JJX3ZPTDYyR0RKSnJQSHZZbFZQNXJld29VNkdvOVVXd1F3YTVTZXJ0c29rMkVCd2RzY3BjVm9USm1zRXlPVzlQQUQ1OWIzZXVqWUYyWkh2WFl5YUdSVjd4LVo1TUtSNTJQa0h4c0l6VmdIWS1qblRzVDN4WGplc01uRkxqTm16TERPYUFyTHJHdGxFSnhsbG8ybWd3UnNWTzhDWVhvcHhrZ0h6TWg5T0tzOFNIUFJQRk5SbC1SM0ZRNVpjLU85dw?oc=5",
+   "date": "2026-08-01"
   },
   {
    "cat": "codeblue",
