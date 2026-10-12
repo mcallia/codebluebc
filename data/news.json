@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T12:57:22.779Z",
+ "updated": "2026-10-12T18:35:18.539Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -36,20 +36,6 @@
    "title": "First Nations in B.C. Interior feel 'fear and scarcity' amidst drought-stricken salmon run",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1dObG5GUVVzcFZSNExMcm9RbFhzdWF2LXZPdzVzRmJQTWFXd3BiNjhrczhkWXhPVFBPUTc4M3RqNk10M3RZLXVRZE03VlVIQ3ZkYlptQW5KSDdZbm9tM3FzSXRxY1ltT0xnU3BpX1MtRGk0WVQ5Nk05N1VIMjdTdTI1VEtTdjhyWGZNWVFnQldiQ3RtMGFOSg?oc=5",
    "date": "2026-09-23"
-  },
-  {
-   "cat": "media",
-   "source": "Maple Ridge News",
-   "title": "B.C.’s fire season moderated by recent weeks of cool weather",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTnRYLUg3Z3JrVHFOV3dKd2VUZzl0cTdtNVBIMEl4NWZDY3YxaFAydU4yQ2VwSnBsVnpXWXFhTDc1QnZzcnZRTmxtY3ZWc05jajhEeUNURTJILXlidkUtMlp4UDZleHJWRndTa2hNaXJqelhZaHVRYmxvRUN6R0R0bTdlUG1YMldNT1llRXk5R0plTUtzOGFMZ1dEU0dqQzg?oc=5",
-   "date": "2026-09-23"
-  },
-  {
-   "cat": "media",
-   "source": "APTN News",
-   "title": "Number of sockeye salmon returning to Fraser River ‘alarming,’ says expert",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYnNkTXdVaEd0OUxEXzI4X3RoR3VyREJEVE1PZEJyVHNveExUdXgtdWV0SldpeVJPY0o1bUhENXNFNUN3VzlseW11amtfXzhFZk5mMGVkUjZOTHM0djVma1NTVDFDUFJxSktqc0R1TUtkU0pXV0k1dnJ0cWZYT2VpUHN2SzcwY2otLVJEUFoxWWRBZXpaa0QyMjU1WlVPYjBNdXFQVkhPakN3RHZ4RldV?oc=5",
-   "date": "2026-09-21"
   },
   {
    "cat": "media",
@@ -99,6 +85,20 @@
    "title": "B.C. temporarily rescinds protection order for the Salmon River watershed",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMXFkdnVDSkljOWJ0VW84M2o1cEY5dTVDRV9faktQNzhhSldqUXVuY3U5MXl2OGRSaFhaQzlFbXFyNkZJX1czMmpzQkkwR3c3Q2Iwcl9xc3lBZFR3ZkViUTFsemZISU5PcDVDRzB1SXRxVEdmOGIzdXduZzVORU1PQVlsb0otSTdzajVhbDlMTkdFWVlpWUFzNEZXeV9yYWE2N2ZaZXFXdzNDeEk?oc=5",
    "date": "2026-08-11"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "B.C. restricts water usage on Salmon River watershed amid 'severe' drought",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzZ3QUxaU0lZOVRTTmR1d2Vua1ZXdzBaNnQ4OEEzbzI2alpKdEFFNEYwVERhV3ZvSUpWaTlxZjJRWWxhYnB0aE0yN3V2ejJyODZQVGRIdHZaZ19MUmZhVEJqdk15OUtadkZ5VEVKYjFxS3BLUWhsdnd2R0paQktXSmlCRkpmRDRUOTlzQ3JWdk82WlBnSWxENDhB?oc=5",
+   "date": "2026-07-28"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Part of northeast B.C. back to 'abnormally dry,' with long drought recovery expected",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX09kY3hXOEwxdDAwMFVrd0hXc2pTdDYzclg0WnktRnlxaU1CRmdNVUMyWWlmekFVUEdQOUF1QUNaMkxTeExYZXdKYWh3eVdXWC1OZ3VDeERQTkZ6V1N4YXJNbkVzSk5Od3ZyU1JBbmQyRml4Z0JNbzJTamVRTFl0c3VydHVoSTVDZ1g5aHRrS1V2YlYzYXJ4U0pFWFNsSmxVV05IYmdGX04?oc=5",
+   "date": "2026-07-26"
   },
   {
    "cat": "codeblue",
