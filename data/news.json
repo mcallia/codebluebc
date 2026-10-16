@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T00:54:37.711Z",
+ "updated": "2026-10-16T06:41:23.115Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -15,6 +15,13 @@
    "title": "Reservoir inflows in Comox Valley lowest in 64 years as warm, dry fall persists",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdmZwVVdjTmVxTlkxZXl1NWtYbHlkZkc1STJoVGs4ekp5SXdtTlpDOVpsdWZDdUUyWHpQSGlOTTRtelpVakFZeTcxU0RrX3dGdnRWUTQxSENxQUNra24yRmxBcF9kQXBXclpSakNscFg2bm15WHZpelJNWTFHZVpHa3BfSzZYMjRVNHZN?oc=5",
    "date": "2026-10-09"
+  },
+  {
+   "cat": "media",
+   "source": "Business Recorder",
+   "title": "Trends - University of British Columbia Watershed Model",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMjAwcHBEa09Ic3FOUWRsLTNDZm5VblJXTDRNSDJLME5xeUMwZXNlbEpCeWlqVGFqeEtKS1lxdnpvSVd2RWdTaW9jQ194V09haWdCRVRCVk80TDZOSHpzeFNDb3FSLWF0TjVhNUNpdDRnRmQ4LUN2bFZpVHpYaXB0OGRFOWR0dw?oc=5",
+   "date": "2026-10-07"
   },
   {
    "cat": "coalition",
@@ -36,6 +43,20 @@
    "title": "First Nations in B.C. Interior feel 'fear and scarcity' amidst drought-stricken salmon run",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1dObG5GUVVzcFZSNExMcm9RbFhzdWF2LXZPdzVzRmJQTWFXd3BiNjhrczhkWXhPVFBPUTc4M3RqNk10M3RZLXVRZE03VlVIQ3ZkYlptQW5KSDdZbm9tM3FzSXRxY1ltT0xnU3BpX1MtRGk0WVQ5Nk05N1VIMjdTdTI1VEtTdjhyWGZNWVFnQldiQ3RtMGFOSg?oc=5",
    "date": "2026-09-23"
+  },
+  {
+   "cat": "media",
+   "source": "News",
+   "title": "B.C.’s fire season moderated by recent weeks of cool weather - Surrey Now-Leader",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZm44eXQ1QTBLX0NEQ1BsV185SE5CT3FuOVZrbU5WaVhtQ0FZVVhUOTQyTzUzNlh0b1VBWW9OWkNQVzJwOFZESndsTnRRWXlncjRNZzFkWFZyczNlSGZRUU9JOGNzR1ppVDJ5cFJKODROcll4cWUwNENQRFY1N2xoSGdiaWFZOUNyeUpTX1Iwb3loMnU0d0JpVnBVaVd5TVBy?oc=5",
+   "date": "2026-09-23"
+  },
+  {
+   "cat": "media",
+   "source": "APTN News",
+   "title": "Number of sockeye salmon returning to Fraser River ‘alarming,’ says expert",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYnNkTXdVaEd0OUxEXzI4X3RoR3VyREJEVE1PZEJyVHNveExUdXgtdWV0SldpeVJPY0o1bUhENXNFNUN3VzlseW11amtfXzhFZk5mMGVkUjZOTHM0djVma1NTVDFDUFJxSktqc0R1TUtkU0pXV0k1dnJ0cWZYT2VpUHN2SzcwY2otLVJEUFoxWWRBZXpaa0QyMjU1WlVPYjBNdXFQVkhPakN3RHZ4RldV?oc=5",
+   "date": "2026-09-21"
   },
   {
    "cat": "media",
@@ -74,31 +95,10 @@
   },
   {
    "cat": "media",
-   "source": "CBC",
-   "title": "Temporary protection order reissued for B.C.'s Salmon River watershed as fish spawn",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcm9WQml0Q3NDNG8zekJDMVMtMlRubUhqYXVBMzl0bUZTS1pQc0lySHdlQUJpZTRsd0xnZF90bFlMV3JkLThuZGQ4d2txYWtyY2M5WWRUbC1vdHI3MU0xWk5vT1Z3M1p1OGFyajZLVU1kS3JsQUtZT1BSUnVUVHNrZjZjU25BeGZzQTgybFJPclh6S3dYN1A4eHJYQ080UQ?oc=5",
-   "date": "2026-08-19"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "B.C. temporarily rescinds protection order for the Salmon River watershed",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMXFkdnVDSkljOWJ0VW84M2o1cEY5dTVDRV9faktQNzhhSldqUXVuY3U5MXl2OGRSaFhaQzlFbXFyNkZJX1czMmpzQkkwR3c3Q2Iwcl9xc3lBZFR3ZkViUTFsemZISU5PcDVDRzB1SXRxVEdmOGIzdXduZzVORU1PQVlsb0otSTdzajVhbDlMTkdFWVlpWUFzNEZXeV9yYWE2N2ZaZXFXdzNDeEk?oc=5",
-   "date": "2026-08-11"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "B.C. restricts water usage on Salmon River watershed amid 'severe' drought",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzZ3QUxaU0lZOVRTTmR1d2Vua1ZXdzBaNnQ4OEEzbzI2alpKdEFFNEYwVERhV3ZvSUpWaTlxZjJRWWxhYnB0aE0yN3V2ejJyODZQVGRIdHZaZ19MUmZhVEJqdk15OUtadkZ5VEVKYjFxS3BLUWhsdnd2R0paQktXSmlCRkpmRDRUOTlzQ3JWdk82WlBnSWxENDhB?oc=5",
-   "date": "2026-07-28"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Part of northeast B.C. back to 'abnormally dry,' with long drought recovery expected",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX09kY3hXOEwxdDAwMFVrd0hXc2pTdDYzclg0WnktRnlxaU1CRmdNVUMyWWlmekFVUEdQOUF1QUNaMkxTeExYZXdKYWh3eVdXWC1OZ3VDeERQTkZ6V1N4YXJNbkVzSk5Od3ZyU1JBbmQyRml4Z0JNbzJTamVRTFl0c3VydHVoSTVDZ1g5aHRrS1V2YlYzYXJ4U0pFWFNsSmxVV05IYmdGX04?oc=5",
-   "date": "2026-07-26"
+   "source": "My Powell River Now",
+   "title": "Experts say severe drought is the new normal, and B.C.'s water strategy is stuck in crisis mode",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVXZoT28wNWFHMG5fQXg4b2Z0dEVqSjBmQ2k3SEhBRFdmZVUwUjNtUS1tTEJQcTJ0SUpiMDdTNXI0SDMyMjRxbWtYMTRBVnFpMjNtWTEwNHM3UF8wX1BBWTRBdjVPaWNOMFJ6MTh5SXNRdmVyR21vQ2FpVzVaNGxieE1OdVZLOTZncTk5bGtELXdTZFpjTG5hdlhJWGlXZWpaU3RpTWg5RjZpeVl0RGh3bU02UzZzQ0EteUZDTVhjVDl5R05yWURWZDltVGtWcGRiVldQZGJFWlZnR2NvR0VXX2tJM2E?oc=5",
+   "date": "2026-08-01"
   },
   {
    "cat": "codeblue",
