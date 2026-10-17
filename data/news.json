@@ -1,7 +1,14 @@
 {
- "updated": "2026-10-16T18:30:30.519Z",
+ "updated": "2026-10-17T00:55:45.479Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
+  {
+   "cat": "coalition",
+   "source": "BC Watershed Security Coalition",
+   "title": "Where did watershed security show up in the B.C. provincial party election platforms?",
+   "url": "https://watershedsecurity.ca/watershed-security-bc-election-platforms/",
+   "date": "2026-10-16"
+  },
   {
    "cat": "media",
    "source": "News",
@@ -155,13 +162,6 @@
    "title": "Media Release: BC Budget Misses Opportunity to Generate New Revenue, Strengthen Watershed Security, Jobs, and Economic Resilience",
    "url": "https://watershedsecurity.ca/media-release-bc-budget-misses-opportunity-to-generate-new-revenue-strengthen-watershed-security-jobs-and-economic-resilience/",
    "date": "2026-02-17"
-  },
-  {
-   "cat": "coalition",
-   "source": "BC Watershed Security Coalition",
-   "title": "Open Letter: 46 local government elected officials calling for action to strengthen watershed security",
-   "url": "https://watershedsecurity.ca/open-letter-46-local-government-elected-officials-calling-for-action-to-strengthen-watershed-security/",
-   "date": "2026-01-24"
   },
   {
    "cat": "codeblue",
