@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T12:37:41.529Z",
+ "updated": "2026-10-21T18:31:39.049Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -14,6 +14,13 @@
    "source": "News",
    "title": "Current drought conditions - Agriculture and Agri-food Canada",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2RtZHR3NEhNVFBZOXYwQ0hIV19vTTh3NDQ0YVlRem1wcDktaWx2bFAwR1FFek94Q0puSUE4UzdHVy13dmpPTjVUVC0yZEM4Zi1RZHRUSFNOTm9nN0k5enlPaUFscGt1QVpnNktGY1dOcVpvSVlFUjlaVnZJZy1UWFdfQXVTa1hIclZ2MTRRalRUdHo4a2hxdGxpRmtDLXlKa0o3UUZVeHFFOVNwV1FLUW5uS09oa0E?oc=5",
+   "date": "2026-10-09"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Reservoir inflows in Comox Valley lowest in 64 years as warm, dry fall persists",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdmZwVVdjTmVxTlkxZXl1NWtYbHlkZkc1STJoVGs4ekp5SXdtTlpDOVpsdWZDdUUyWHpQSGlOTTRtelpVakFZeTcxU0RrX3dGdnRWUTQxSENxQUNra24yRmxBcF9kQXBXclpSakNscFg2bm15WHZpelJNWTFHZVpHa3BfSzZYMjRVNHZN?oc=5",
    "date": "2026-10-09"
   },
   {
@@ -85,13 +92,6 @@
    "title": "Statement: BC-Canada Cooperative Prosperity Agreement",
    "url": "https://watershedsecurity.ca/statement-bc-can-agreement/",
    "date": "2026-08-20"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "B.C. temporarily rescinds protection order for the Salmon River watershed",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMXFkdnVDSkljOWJ0VW84M2o1cEY5dTVDRV9faktQNzhhSldqUXVuY3U5MXl2OGRSaFhaQzlFbXFyNkZJX1czMmpzQkkwR3c3Q2Iwcl9xc3lBZFR3ZkViUTFsemZISU5PcDVDRzB1SXRxVEdmOGIzdXduZzVORU1PQVlsb0otSTdzajVhbDlMTkdFWVlpWUFzNEZXeV9yYWE2N2ZaZXFXdzNDeEk?oc=5",
-   "date": "2026-08-11"
   },
   {
    "cat": "media",
