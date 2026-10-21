@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T18:31:52.138Z",
+ "updated": "2026-10-21T00:56:48.940Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -14,13 +14,6 @@
    "source": "News",
    "title": "Current drought conditions - Agriculture and Agri-food Canada",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2RtZHR3NEhNVFBZOXYwQ0hIV19vTTh3NDQ0YVlRem1wcDktaWx2bFAwR1FFek94Q0puSUE4UzdHVy13dmpPTjVUVC0yZEM4Zi1RZHRUSFNOTm9nN0k5enlPaUFscGt1QVpnNktGY1dOcVpvSVlFUjlaVnZJZy1UWFdfQXVTa1hIclZ2MTRRalRUdHo4a2hxdGxpRmtDLXlKa0o3UUZVeHFFOVNwV1FLUW5uS09oa0E?oc=5",
-   "date": "2026-10-09"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Reservoir inflows in Comox Valley lowest in 64 years as warm, dry fall persists",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdmZwVVdjTmVxTlkxZXl1NWtYbHlkZkc1STJoVGs4ekp5SXdtTlpDOVpsdWZDdUUyWHpQSGlOTTRtelpVakFZeTcxU0RrX3dGdnRWUTQxSENxQUNra24yRmxBcF9kQXBXclpSakNscFg2bm15WHZpelJNWTFHZVpHa3BfSzZYMjRVNHZN?oc=5",
    "date": "2026-10-09"
   },
   {
@@ -106,6 +99,13 @@
    "title": "B.C. restricts water usage on Salmon River watershed amid 'severe' drought",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzZ3QUxaU0lZOVRTTmR1d2Vua1ZXdzBaNnQ4OEEzbzI2alpKdEFFNEYwVERhV3ZvSUpWaTlxZjJRWWxhYnB0aE0yN3V2ejJyODZQVGRIdHZaZ19MUmZhVEJqdk15OUtadkZ5VEVKYjFxS3BLUWhsdnd2R0paQktXSmlCRkpmRDRUOTlzQ3JWdk82WlBnSWxENDhB?oc=5",
    "date": "2026-07-28"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Part of northeast B.C. back to 'abnormally dry,' with long drought recovery expected",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX09kY3hXOEwxdDAwMFVrd0hXc2pTdDYzclg0WnktRnlxaU1CRmdNVUMyWWlmekFVUEdQOUF1QUNaMkxTeExYZXdKYWh3eVdXWC1OZ3VDeERQTkZ6V1N4YXJNbkVzSk5Od3ZyU1JBbmQyRml4Z0JNbzJTamVRTFl0c3VydHVoSTVDZ1g5aHRrS1V2YlYzYXJ4U0pFWFNsSmxVV05IYmdGX04?oc=5",
+   "date": "2026-07-26"
   },
   {
    "cat": "codeblue",
