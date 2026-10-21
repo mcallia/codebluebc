@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T06:41:44.529Z",
+ "updated": "2026-10-21T12:37:41.529Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -53,13 +53,6 @@
   },
   {
    "cat": "media",
-   "source": "Penticton Western News",
-   "title": "B.C.’s fire season moderated by recent weeks of cool weather",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYk5lZWhDMmhTY0VXdjdYX2M4SUNoU3dYUTJhTldwRXVBbnpjNzR5NklYc2dSak9XbE5KelhTZGs0VW1SYmY1TUxBZmp5TmkyWVhtNG5acDc0eU13YVpmVmtUQ2xlRVhsVlM4bjc1Mmc5SW1VS0RfSkpON184cUI2b3J2c3JyckhvMkh0aVFjV21senhtRTdpMXhxNk1VY3pWRW51b3M1cw?oc=5",
-   "date": "2026-09-22"
-  },
-  {
-   "cat": "media",
    "source": "The Conversation",
    "title": "How to tackle persistent drought: Lessons from British Columbia",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmFOS3pITEw1ZV91Z1BBck9NNEtYTTBwa1hIWnpKSTBNVVVIZFpjWkNzYVQzOGFJY1dRaFhKcVlVU0lqUmhMRkczYTNseklMVTNLam16TTV2RDhZeVVwXzk0V3ZGTE1GNFNvemN2enpLZVFJb0JuQzZhdXN1ZWQzbXBDMndjczRHMXNLakZLUEJwOEx6dFJfQlBTNm43dw?oc=5",
@@ -92,6 +85,13 @@
    "title": "Statement: BC-Canada Cooperative Prosperity Agreement",
    "url": "https://watershedsecurity.ca/statement-bc-can-agreement/",
    "date": "2026-08-20"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "B.C. temporarily rescinds protection order for the Salmon River watershed",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMXFkdnVDSkljOWJ0VW84M2o1cEY5dTVDRV9faktQNzhhSldqUXVuY3U5MXl2OGRSaFhaQzlFbXFyNkZJX1czMmpzQkkwR3c3Q2Iwcl9xc3lBZFR3ZkViUTFsemZISU5PcDVDRzB1SXRxVEdmOGIzdXduZzVORU1PQVlsb0otSTdzajVhbDlMTkdFWVlpWUFzNEZXeV9yYWE2N2ZaZXFXdzNDeEk?oc=5",
+   "date": "2026-08-11"
   },
   {
    "cat": "media",
