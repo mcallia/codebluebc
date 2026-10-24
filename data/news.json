@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T12:33:03.039Z",
+ "updated": "2026-10-24T18:28:48.168Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -66,18 +66,18 @@
    "date": "2026-09-15"
   },
   {
+   "cat": "media",
+   "source": "NanaimoNewsNOW",
+   "title": "Drought prompts order limiting irrigation from Bessette Creek in B.C. Interior",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOVBodkNHRVR5VUM4cVVMTlJIT0poblhGQVpnS0xsNjZ1Zk9kRWVIX1A0STFoWmRwazlpWTJPUWxSMG5hWG1nZDhxbDg5WkJXSGJybUc0bkNfQWpKbHlEOWo4RjRXOWR2N3FHdWZfTGwxeWJYRkxuclZJNjAyd0JYWlhIcjhkREZvZmVIUFVveDdGY041Mkw0YjdfU21xQm53M25uYnR6b29NdzR2RTVHVFlyTHh0ZjJaV0JWUVhB?oc=5",
+   "date": "2026-08-28"
+  },
+  {
    "cat": "coalition",
    "source": "BC Watershed Security Coalition",
    "title": "Statement: BC-Canada Cooperative Prosperity Agreement",
    "url": "https://watershedsecurity.ca/statement-bc-can-agreement/",
    "date": "2026-08-20"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Temporary protection order reissued for B.C.'s Salmon River watershed as fish spawn",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcm9WQml0Q3NDNG8zekJDMVMtMlRubUhqYXVBMzl0bUZTS1pQc0lySHdlQUJpZTRsd0xnZF90bFlMV3JkLThuZGQ4d2txYWtyY2M5WWRUbC1vdHI3MU0xWk5vT1Z3M1p1OGFyajZLVU1kS3JsQUtZT1BSUnVUVHNrZjZjU25BeGZzQTgybFJPclh6S3dYN1A4eHJYQ080UQ?oc=5",
-   "date": "2026-08-19"
   },
   {
    "cat": "media",
@@ -92,6 +92,13 @@
    "title": "Effects of Drought on Salmon in British Columbia Rivers",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4U3k1eHZ4TWxxU3NuWFh5Ym52UVZUSTM1TjNaT1I0NzJfN3NBU3FzMjNUeF9XNVM4b3BCbVVVR2U5bHBuVzA2VUhn?oc=5",
    "date": "2026-08-05"
+  },
+  {
+   "cat": "media",
+   "source": "My East Kootenay Now",
+   "title": "Experts say severe drought is the new normal, and B.C.'s water strategy is stuck in crisis mode",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOGFzRDVDa0FOd29NT0JMVlQ2SlppWU1WQ0NxZlVzR3JJX3ZPTDYyR0RKSnJQSHZZbFZQNXJld29VNkdvOVVXd1F3YTVTZXJ0c29rMkVCd2RzY3BjVm9USm1zRXlPVzlQQUQ1OWIzZXVqWUYyWkh2WFl5YUdSVjd4LVo1TUtSNTJQa0h4c0l6VmdIWS1qblRzVDN4WGplc01uRkxqTm16TERPYUFyTHJHdGxFSnhsbG8ybWd3UnNWTzhDWVhvcHhrZ0h6TWg5T0tzOFNIUFJQRk5SbC1SM0ZRNVpjLU85dw?oc=5",
+   "date": "2026-08-01"
   },
   {
    "cat": "media",
@@ -141,13 +148,6 @@
    "date": "2026-04-21",
    "title": "Small, Warty, and Remarkable: The Western Toad — Five Facts",
    "url": "https://www.codebluebc.ca/western-toad"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Average B.C. snowpack of 92% masks 'strong regional divide,' says provincial bulletin",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWZrRWdiQ18yX3lyemo5MmFWRjhManptSmFPcWtmZzRVOHA4RjVEUm95Mk1STElzakJ2OXlZTE9VamR1amExdlR4TGtNanZWbDlTQmktcVJVdGlRM2ZnQWFnZTVsT244ZnFMMDc0cWRjaUNIeDktTmMtTmNUdjNfQU95Sm5UMmEya0VCWFBncEtsdw?oc=5",
-   "date": "2026-04-09"
   },
   {
    "cat": "codeblue",
