@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T12:33:07.622Z",
+ "updated": "2026-10-25T18:29:12.071Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -43,13 +43,6 @@
    "title": "First Nations in B.C. Interior feel 'fear and scarcity' amidst drought-stricken salmon run",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1dObG5GUVVzcFZSNExMcm9RbFhzdWF2LXZPdzVzRmJQTWFXd3BiNjhrczhkWXhPVFBPUTc4M3RqNk10M3RZLXVRZE03VlVIQ3ZkYlptQW5KSDdZbm9tM3FzSXRxY1ltT0xnU3BpX1MtRGk0WVQ5Nk05N1VIMjdTdTI1VEtTdjhyWGZNWVFnQldiQ3RtMGFOSg?oc=5",
    "date": "2026-09-23"
-  },
-  {
-   "cat": "media",
-   "source": "Victoria News",
-   "title": "B.C.’s fire season moderated by recent weeks of cool weather",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeTdtRFFsckF2Mm9kVTZGeDh2eXRZUDdzOTZKUDJYalk1dHczS0otMGN4RnZOOFEwSFBpeHFGR0lwQUZEQThiZGxfOWpJYzF0NVFHbmIwTUs3NXgyYjFDNjJyY2duQ1JsOHAxZHNXQVB3QnVTdUp0ZHM5UngtMmdQTEpMMW5tMXVsRHVXc3FyV1lvWmhQNkE?oc=5",
-   "date": "2026-09-22"
   },
   {
    "cat": "media",
@@ -106,6 +99,13 @@
    "title": "Experts say severe drought is the new normal, and B.C.'s water strategy is stuck in crisis mode",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOGFzRDVDa0FOd29NT0JMVlQ2SlppWU1WQ0NxZlVzR3JJX3ZPTDYyR0RKSnJQSHZZbFZQNXJld29VNkdvOVVXd1F3YTVTZXJ0c29rMkVCd2RzY3BjVm9USm1zRXlPVzlQQUQ1OWIzZXVqWUYyWkh2WFl5YUdSVjd4LVo1TUtSNTJQa0h4c0l6VmdIWS1qblRzVDN4WGplc01uRkxqTm16TERPYUFyTHJHdGxFSnhsbG8ybWd3UnNWTzhDWVhvcHhrZ0h6TWg5T0tzOFNIUFJQRk5SbC1SM0ZRNVpjLU85dw?oc=5",
    "date": "2026-08-01"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "B.C. restricts water usage on Salmon River watershed amid 'severe' drought",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzZ3QUxaU0lZOVRTTmR1d2Vua1ZXdzBaNnQ4OEEzbzI2alpKdEFFNEYwVERhV3ZvSUpWaTlxZjJRWWxhYnB0aE0yN3V2ejJyODZQVGRIdHZaZ19MUmZhVEJqdk15OUtadkZ5VEVKYjFxS3BLUWhsdnd2R0paQktXSmlCRkpmRDRUOTlzQ3JWdk82WlBnSWxENDhB?oc=5",
+   "date": "2026-07-28"
   },
   {
    "cat": "codeblue",
