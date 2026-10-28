@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T06:31:31.974Z",
+ "updated": "2026-10-28T12:28:48.253Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -14,13 +14,6 @@
    "source": "News",
    "title": "Current drought conditions - Agriculture and Agri-food Canada",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2RtZHR3NEhNVFBZOXYwQ0hIV19vTTh3NDQ0YVlRem1wcDktaWx2bFAwR1FFek94Q0puSUE4UzdHVy13dmpPTjVUVC0yZEM4Zi1RZHRUSFNOTm9nN0k5enlPaUFscGt1QVpnNktGY1dOcVpvSVlFUjlaVnZJZy1UWFdfQXVTa1hIclZ2MTRRalRUdHo4a2hxdGxpRmtDLXlKa0o3UUZVeHFFOVNwV1FLUW5uS09oa0E?oc=5",
-   "date": "2026-10-09"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Reservoir inflows in Comox Valley lowest in 64 years as warm, dry fall persists",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdmZwVVdjTmVxTlkxZXl1NWtYbHlkZkc1STJoVGs4ekp5SXdtTlpDOVpsdWZDdUUyWHpQSGlOTTRtelpVakFZeTcxU0RrX3dGdnRWUTQxSENxQUNra24yRmxBcF9kQXBXclpSakNscFg2bm15WHZpelJNWTFHZVpHa3BfSzZYMjRVNHZN?oc=5",
    "date": "2026-10-09"
   },
   {
@@ -39,16 +32,16 @@
   },
   {
    "cat": "media",
-   "source": "CBC",
-   "title": "First Nations in B.C. Interior feel 'fear and scarcity' amidst drought-stricken salmon run",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1dObG5GUVVzcFZSNExMcm9RbFhzdWF2LXZPdzVzRmJQTWFXd3BiNjhrczhkWXhPVFBPUTc4M3RqNk10M3RZLXVRZE03VlVIQ3ZkYlptQW5KSDdZbm9tM3FzSXRxY1ltT0xnU3BpX1MtRGk0WVQ5Nk05N1VIMjdTdTI1VEtTdjhyWGZNWVFnQldiQ3RtMGFOSg?oc=5",
-   "date": "2026-09-23"
+   "source": "Government of British Columbia",
+   "title": "Monitoring aquifers: Provincial Groundwater Observation Well Network - Province of British Columbia",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaTRMN2FLallkM0hQbVhwLThsSENWR183YkJJX1NaN3VqeVNpamh0UnZTRmVwb19iNF9BaVk3UXhlQlZsc0cydjVlTlVqeXBwWEh2U2tETDlHeVN1YVpuYi1fMmVyRk1VMEVILVlvaWdYX1pCc3lLVEVVcHpWdi1SZTZickJxMzg3a1dZbFdka2M1TUNBTk1GOWFkaXFXTmJRcnZHSnB4bGdXZkVKSjhiSDlWS25DS1VDVzcyXzlMU2otb1BBd25vZFZFMA?oc=5",
+   "date": "2026-09-22"
   },
   {
    "cat": "media",
-   "source": "The Conversation",
+   "source": "PreventionWeb.net",
    "title": "How to tackle persistent drought: Lessons from British Columbia",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmFOS3pITEw1ZV91Z1BBck9NNEtYTTBwa1hIWnpKSTBNVVVIZFpjWkNzYVQzOGFJY1dRaFhKcVlVU0lqUmhMRkczYTNseklMVTNLam16TTV2RDhZeVVwXzk0V3ZGTE1GNFNvemN2enpLZVFJb0JuQzZhdXN1ZWQzbXBDMndjczRHMXNLakZLUEJwOEx6dFJfQlBTNm43dw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQVFHZkJYbk1pMjFTb0x1a212Z0ZyQ1ptbmF3UGpRSi1vbEgzQUFRZkMwVWtnSjhTWDgzQWNTcHpVXzZja1Y2OS1TTXFPNUVaNUdfZDdnRGdReGQ0T0FyMGE1WWRha3o2SVVGczF4ZS1tMzBoTkdGX21ERS1hMWh2Um5OczBhVmZ0bmpVLWRoSTBWcm8?oc=5",
    "date": "2026-09-20"
   },
   {
@@ -67,10 +60,10 @@
   },
   {
    "cat": "media",
-   "source": "CKPG Today",
-   "title": "Drought prompts order limiting irrigation from Bessette Creek in B.C. Interior",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUHRKelFIeHZJenRNR3J3RE9HTUlGaDQ5VndkT3ktYXlSVUR2OEZlZzh5dWwxTThqRHNjNmt5VDZ2b1NBRXAxWHFNdm5zdDFzUUE0UjZqdnZLZ3g2ckZTZDZiNEViMXBsc3ZSNjc2OWQtSFY0a0dxUWdrRTk4cUlWeW8zSTZ4bHQtWWc2R0d0bW56akFENllwYWhPLWh6UFd0NV9qeDhJckdpdlNXZ0xIUVRZLTA4UQ?oc=5",
-   "date": "2026-08-28"
+   "source": "TMX Newsfile",
+   "title": "Watershed Roofing Inc. Expands Roofing and Exterior Services Across British Columbia",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMTZBVkZvY09FMVo2eE5IYVhzaFgtVU5HTnBJSTZRNXJJcEVxRlNSQm1qaDZvLVFMWkQ0VUllV0I5ejdkN1N3TW9haklxRGFReWl6WG9nMW9jaXN5N2tQaTZENVpjRDZ0S0JxbGhpSVFFWGF0Y1k0bkJGeU5JR3lLenEtQUlUc3lMVjdJUWl1T2syQ2xDcHlKMWpfWC1RN1J1MHF1dS1XMVpvX0JUeFBDZ3ZkcXdmSmNNN1FDanZUcmFzMVNHWXVj?oc=5",
+   "date": "2026-08-22"
   },
   {
    "cat": "coalition",
@@ -81,10 +74,10 @@
   },
   {
    "cat": "media",
-   "source": "CBC",
-   "title": "B.C. temporarily rescinds protection order for the Salmon River watershed",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMXFkdnVDSkljOWJ0VW84M2o1cEY5dTVDRV9faktQNzhhSldqUXVuY3U5MXl2OGRSaFhaQzlFbXFyNkZJX1czMmpzQkkwR3c3Q2Iwcl9xc3lBZFR3ZkViUTFsemZISU5PcDVDRzB1SXRxVEdmOGIzdXduZzVORU1PQVlsb0otSTdzajVhbDlMTkdFWVlpWUFzNEZXeV9yYWE2N2ZaZXFXdzNDeEk?oc=5",
-   "date": "2026-08-11"
+   "source": "News",
+   "title": "Canadian Drought Outlook - Agriculture and Agri-food Canada",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGx5WC03LU82eEVjRml0SHF0M1B3eVppRlh6RnNXdEEzaUxRMjNFWnpwUzhIbG1aQ2FnVlpFUXRQdFVLdXpMUGdTWW15UUQyQTN0RzRURlQwTVc2UTloQktqem12RzhlU1ZURjVtNkdBNXpaVmVBejAtYmdjNF9ldW5WcnZSUkhRNC04eHp4M05OMDg?oc=5",
+   "date": "2026-08-17"
   },
   {
    "cat": "media",
@@ -92,13 +85,6 @@
    "title": "Effects of Drought on Salmon in British Columbia Rivers",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4U3k1eHZ4TWxxU3NuWFh5Ym52UVZUSTM1TjNaT1I0NzJfN3NBU3FzMjNUeF9XNVM4b3BCbVVVR2U5bHBuVzA2VUhn?oc=5",
    "date": "2026-08-05"
-  },
-  {
-   "cat": "media",
-   "source": "My East Kootenay Now",
-   "title": "Experts say severe drought is the new normal, and B.C.'s water strategy is stuck in crisis mode",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOGFzRDVDa0FOd29NT0JMVlQ2SlppWU1WQ0NxZlVzR3JJX3ZPTDYyR0RKSnJQSHZZbFZQNXJld29VNkdvOVVXd1F3YTVTZXJ0c29rMkVCd2RzY3BjVm9USm1zRXlPVzlQQUQ1OWIzZXVqWUYyWkh2WFl5YUdSVjd4LVo1TUtSNTJQa0h4c0l6VmdIWS1qblRzVDN4WGplc01uRkxqTm16TERPYUFyTHJHdGxFSnhsbG8ybWd3UnNWTzhDWVhvcHhrZ0h6TWg5T0tzOFNIUFJQRk5SbC1SM0ZRNVpjLU85dw?oc=5",
-   "date": "2026-08-01"
   },
   {
    "cat": "media",
@@ -116,24 +102,10 @@
   },
   {
    "cat": "media",
-   "source": "UVic News",
-   "title": "Experts on drought in BC",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04QWhMSG55d2t3WkppWE11djIwcjRoc2U3c2o0dTR5dm5nX3F1MUFZYXplYVNiZDhiOTdraEJZN19lMFFDR1lIMmR4WDJEMVZDbUNNS3otRXFTVXh1ZmJNNXQ1Qjk1c0U1ZkU2dE1zYw?oc=5",
-   "date": "2026-07-15"
-  },
-  {
-   "cat": "media",
-   "source": "BC Gov News",
-   "title": "Work underway on three conservation planning projects",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBON1luUVFHOG04d2tnUVBTZDZRenFkX0szRHpFbF90aWhqN2FnN2xfUXBrdlJqVmVnMHhFRHlBeTYzbTRKRV9SNFpWTU4zQWduUVRNekJVWkVTNUp3OExxOQ?oc=5",
-   "date": "2026-07-06"
-  },
-  {
-   "cat": "media",
-   "source": "Canada WaterPortal",
-   "title": "By the Numbers: Building the Workforce Our Watersheds Need",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12MWFnclBWdkRNaFVYeUpabDRobFRNTkZwcGtYc1FDVjJzNERYbzBPVE9HeERaYnBvSldLNElrZFpnNEdXRGo2b1F0UDdhbzB3bTdxdkZ4QVUtRV9wcGREUWczeFlVc0ZYNXhNdDZzeTM?oc=5",
-   "date": "2026-07-02"
+   "source": "Government of British Columbia",
+   "title": "B.C. Flood Strategy - Province of British Columbia",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdjN5S3QwYm9sTDVISEE4Ti05UmxyQ0t3U1VfMzZpRHNrdFNXYkZTdEdCYlBFQjNBc3EtbWgyTmdjcUJKdExldlJHeFNnbElUdko0ZnF1Tm1pUXRrdXowbGJ6Q1dISFBTY1Rlb0hrMVdsM2Y1VDM3V0VhUWVRZHZ4U0RRVzZUd3dEcEZRa1NiNW1QTHlpRGRScEJrUHNxSlcxcmRmWVNEOVhKNVdjUnE2Q0steXRNR2drYTB2RzVSb1FiNTZOMzZoRFljWW13b3BpZkhpZ09yV3BwclJ1NnlwY2ZB?oc=5",
+   "date": "2026-07-13"
   },
   {
    "cat": "coalition",
@@ -143,11 +115,39 @@
    "date": "2026-06-17"
   },
   {
+   "cat": "media",
+   "source": "Government of British Columbia",
+   "title": "Snow conditions commentary - Province of British Columbia",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNV96VzgtS2p5ZVQ3T29qMldSVWYxSVlaRTRVNDlSMThJc1VJZXFyWkFFQ2hnOHVEQThEY3RJU0pWemtQZWh1QzZfWk55OXgzX0pkdzF4Tm05RERWamdQWDBkMnFlUmFvekdLaWJMbldSSXJUeDdDR2ZjRk1pTGJjV2w1bkVBVTFGNkdMcWZhVFR3Wmp2ckRZeUNSNnIzQkxFZ1Z0TkprSjduMHNmbEtGZmFzcjRURnNhZXRic29oRW5xaEZfMmdvLXNPQ2RMNDctRVBQSTVUMWdKMGZxRUNWUWVGY0Fna1diZU5KWElHMFR2bEEwWkNZUzlZZWsyRFdnRmkyWGYxOENmdw?oc=5",
+   "date": "2026-06-01"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Metro Vancouver Regional District to implement Stage 3 water restrictions",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeG8wQ0Y1UF9mZDJtYkd6XzFQUDRqNGNDRDE4X3hPY0dGNjVwRXd5THBveGhEeVZIVXNuTTNxZ3RMNkVaT3ZyQWhOT0dmQmx2amhRdUI5OFpHRzVUWUNaVVp0M1htMVA5VnRYUTZEVHZrSTB1aEEzQnVCUlRyc095SnJhWGMzRzhmc2laNnhxVWk2TGNUdWNoZWtMRE1abnBiQnc?oc=5",
+   "date": "2026-06-01"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Metro Vancouver warns Stage 3 water restrictions likely to begin in June",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONllJU1NWMDBlM3ZsenpsSHduZTI1QXBwVlZPQ2NMTlVETkY1TDYwQ3FhUkZJdXlXRTZTeDFVYkJaS19aRmd6VzdJR184dmFDN3NRck95YUd0UkpBVk1ITUdxQzRseEFqZ1R0YVk2SEpvbnZVaFNOZ1ZFN0JPclpPWFg0aVRzYlRiaTBxcHJzS01vU1VTRXYwdGF6WHlScm5nTXc?oc=5",
+   "date": "2026-05-23"
+  },
+  {
    "cat": "codeblue",
    "source": "CodeBlue BC",
    "date": "2026-04-21",
    "title": "Small, Warty, and Remarkable: The Western Toad — Five Facts",
    "url": "https://www.codebluebc.ca/western-toad"
+  },
+  {
+   "cat": "media",
+   "source": "The Weather Network",
+   "title": "Low snowpack in Interior B.C. sparks concerns for agriculture and wildfire risks",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbTBZOV9IUWNUUUZWYWxrbm9rRkdQOXhOdk94NEtSMTF4LTdsRjZ3blc0Nks5TmhHUUdmU0ZtbFltQXdkRkVrQmpTLVhaWmtiOFdZMXVuODNRcG5sZUxNNG1ydGptVnZyd2VMU1VYcmVzM2k5UE1qX0tEWlgtU1BwN1JsbzI2cm9VWEd0SnJvLUdHOGx0Mm1rck5uRFNIUGt2aHZhcjRlOFpDb0owd25fY1pFaGdEVE1vaHl0ZHZyWThCdlcwUE1wcjEybDNEcFlIZE9sWWE0XzBUUQ?oc=5",
+   "date": "2026-02-25"
   },
   {
    "cat": "codeblue",
