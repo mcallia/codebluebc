@@ -1,7 +1,14 @@
 {
- "updated": "2026-10-31T00:37:21.639Z",
+ "updated": "2026-10-31T06:24:17.026Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
+  {
+   "cat": "media",
+   "source": "Abbotsford News",
+   "title": "Drought codes reach record levels nearest B.C.’s worst wildfires in 2026",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTERxQUZ2eFB3LWRmQ2Z1c2xlOXZoNWctejhYOVFUOHgybE9xSV93ZzBPei1jNjRHUTFaSEl4bktkZGR5NTdrbU1QN0R5MEQxalduRU12VzRTZTNNMzJtaFpFMzI4akh5NXRyc2JQQmhsYVoya1VKLUp2MGNOYXRMT1ltSXpQZzNYRE93ZTQ1Rmg5UXJUM1BEMWRRbVk4aTMyYlJkQUdlSQ?oc=5",
+   "date": "2026-10-30"
+  },
   {
    "cat": "media",
    "source": "CBC",
@@ -92,13 +99,6 @@
    "title": "Effects of Drought on Salmon in British Columbia Rivers",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4U3k1eHZ4TWxxU3NuWFh5Ym52UVZUSTM1TjNaT1I0NzJfN3NBU3FzMjNUeF9XNVM4b3BCbVVVR2U5bHBuVzA2VUhn?oc=5",
    "date": "2026-08-05"
-  },
-  {
-   "cat": "media",
-   "source": "My East Kootenay Now",
-   "title": "Experts say severe drought is the new normal, and B.C.'s water strategy is stuck in crisis mode",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOGFzRDVDa0FOd29NT0JMVlQ2SlppWU1WQ0NxZlVzR3JJX3ZPTDYyR0RKSnJQSHZZbFZQNXJld29VNkdvOVVXd1F3YTVTZXJ0c29rMkVCd2RzY3BjVm9USm1zRXlPVzlQQUQ1OWIzZXVqWUYyWkh2WFl5YUdSVjd4LVo1TUtSNTJQa0h4c0l6VmdIWS1qblRzVDN4WGplc01uRkxqTm16TERPYUFyTHJHdGxFSnhsbG8ybWd3UnNWTzhDWVhvcHhrZ0h6TWg5T0tzOFNIUFJQRk5SbC1SM0ZRNVpjLU85dw?oc=5",
-   "date": "2026-08-01"
   },
   {
    "cat": "media",
