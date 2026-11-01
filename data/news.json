@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T12:22:08.635Z",
+ "updated": "2026-11-01T18:19:13.394Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -53,6 +53,13 @@
   },
   {
    "cat": "media",
+   "source": "CBC",
+   "title": "First Nations in B.C. Interior feel 'fear and scarcity' amidst drought-stricken salmon run",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1dObG5GUVVzcFZSNExMcm9RbFhzdWF2LXZPdzVzRmJQTWFXd3BiNjhrczhkWXhPVFBPUTc4M3RqNk10M3RZLXVRZE03VlVIQ3ZkYlptQW5KSDdZbm9tM3FzSXRxY1ltT0xnU3BpX1MtRGk0WVQ5Nk05N1VIMjdTdTI1VEtTdjhyWGZNWVFnQldiQ3RtMGFOSg?oc=5",
+   "date": "2026-09-23"
+  },
+  {
+   "cat": "media",
    "source": "The Conversation",
    "title": "How to tackle persistent drought: Lessons from British Columbia",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmFOS3pITEw1ZV91Z1BBck9NNEtYTTBwa1hIWnpKSTBNVVVIZFpjWkNzYVQzOGFJY1dRaFhKcVlVU0lqUmhMRkczYTNseklMVTNLam16TTV2RDhZeVVwXzk0V3ZGTE1GNFNvemN2enpLZVFJb0JuQzZhdXN1ZWQzbXBDMndjczRHMXNLakZLUEJwOEx6dFJfQlBTNm43dw?oc=5",
@@ -71,13 +78,6 @@
    "title": "Media Release: Sovereignty starts upstream: nine in ten British Columbians say fresh water is a matter of national security",
    "url": "https://watershedsecurity.ca/sovereignty-polling-september-2026/",
    "date": "2026-09-15"
-  },
-  {
-   "cat": "media",
-   "source": "NanaimoNewsNOW",
-   "title": "Drought prompts order limiting irrigation from Bessette Creek in B.C. Interior",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOVBodkNHRVR5VUM4cVVMTlJIT0poblhGQVpnS0xsNjZ1Zk9kRWVIX1A0STFoWmRwazlpWTJPUWxSMG5hWG1nZDhxbDg5WkJXSGJybUc0bkNfQWpKbHlEOWo4RjRXOWR2N3FHdWZfTGwxeWJYRkxuclZJNjAyd0JYWlhIcjhkREZvZmVIUFVveDdGY041Mkw0YjdfU21xQm53M25uYnR6b29NdzR2RTVHVFlyTHh0ZjJaV0JWUVhB?oc=5",
-   "date": "2026-08-28"
   },
   {
    "cat": "coalition",
@@ -102,10 +102,10 @@
   },
   {
    "cat": "media",
-   "source": "My East Kootenay Now",
-   "title": "Experts say severe drought is the new normal, and B.C.'s water strategy is stuck in crisis mode",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOGFzRDVDa0FOd29NT0JMVlQ2SlppWU1WQ0NxZlVzR3JJX3ZPTDYyR0RKSnJQSHZZbFZQNXJld29VNkdvOVVXd1F3YTVTZXJ0c29rMkVCd2RzY3BjVm9USm1zRXlPVzlQQUQ1OWIzZXVqWUYyWkh2WFl5YUdSVjd4LVo1TUtSNTJQa0h4c0l6VmdIWS1qblRzVDN4WGplc01uRkxqTm16TERPYUFyTHJHdGxFSnhsbG8ybWd3UnNWTzhDWVhvcHhrZ0h6TWg5T0tzOFNIUFJQRk5SbC1SM0ZRNVpjLU85dw?oc=5",
-   "date": "2026-08-01"
+   "source": "CBC",
+   "title": "B.C. restricts water usage on Salmon River watershed amid 'severe' drought",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzZ3QUxaU0lZOVRTTmR1d2Vua1ZXdzBaNnQ4OEEzbzI2alpKdEFFNEYwVERhV3ZvSUpWaTlxZjJRWWxhYnB0aE0yN3V2ejJyODZQVGRIdHZaZ19MUmZhVEJqdk15OUtadkZ5VEVKYjFxS3BLUWhsdnd2R0paQktXSmlCRkpmRDRUOTlzQ3JWdk82WlBnSWxENDhB?oc=5",
+   "date": "2026-07-28"
   },
   {
    "cat": "codeblue",
