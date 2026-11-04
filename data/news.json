@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T06:27:32.002Z",
+ "updated": "2026-11-04T12:24:31.678Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -46,13 +46,6 @@
   },
   {
    "cat": "media",
-   "source": "CBC",
-   "title": "First Nations in B.C. Interior feel 'fear and scarcity' amidst drought-stricken salmon run",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1dObG5GUVVzcFZSNExMcm9RbFhzdWF2LXZPdzVzRmJQTWFXd3BiNjhrczhkWXhPVFBPUTc4M3RqNk10M3RZLXVRZE03VlVIQ3ZkYlptQW5KSDdZbm9tM3FzSXRxY1ltT0xnU3BpX1MtRGk0WVQ5Nk05N1VIMjdTdTI1VEtTdjhyWGZNWVFnQldiQ3RtMGFOSg?oc=5",
-   "date": "2026-09-23"
-  },
-  {
-   "cat": "media",
    "source": "The Conversation",
    "title": "How to tackle persistent drought: Lessons from British Columbia",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmFOS3pITEw1ZV91Z1BBck9NNEtYTTBwa1hIWnpKSTBNVVVIZFpjWkNzYVQzOGFJY1dRaFhKcVlVU0lqUmhMRkczYTNseklMVTNLam16TTV2RDhZeVVwXzk0V3ZGTE1GNFNvemN2enpLZVFJb0JuQzZhdXN1ZWQzbXBDMndjczRHMXNLakZLUEJwOEx6dFJfQlBTNm43dw?oc=5",
@@ -71,6 +64,13 @@
    "title": "Media Release: Sovereignty starts upstream: nine in ten British Columbians say fresh water is a matter of national security",
    "url": "https://watershedsecurity.ca/sovereignty-polling-september-2026/",
    "date": "2026-09-15"
+  },
+  {
+   "cat": "media",
+   "source": "The Tyee",
+   "title": "As Fish Go Blind, Experts Say BC Isn’t Prepared for Droughts",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jamtMWUZ4THBpMXRlUUdTQmpSdnVBUjF5QU1Kc3ZoMDFsYVJxcUhlYXE0alFrWGRFUFluSmhJTGNYWFJOQ2tMalhMQ0ctOEY1U1cwSU5vT0tHUnM3ekotUlZhVTZLUlNoMnlqOFlR?oc=5",
+   "date": "2026-09-08"
   },
   {
    "cat": "media",
@@ -102,10 +102,10 @@
   },
   {
    "cat": "media",
-   "source": "CBC",
-   "title": "B.C. restricts water usage on Salmon River watershed amid 'severe' drought",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzZ3QUxaU0lZOVRTTmR1d2Vua1ZXdzBaNnQ4OEEzbzI2alpKdEFFNEYwVERhV3ZvSUpWaTlxZjJRWWxhYnB0aE0yN3V2ejJyODZQVGRIdHZaZ19MUmZhVEJqdk15OUtadkZ5VEVKYjFxS3BLUWhsdnd2R0paQktXSmlCRkpmRDRUOTlzQ3JWdk82WlBnSWxENDhB?oc=5",
-   "date": "2026-07-28"
+   "source": "My Powell River Now",
+   "title": "Experts say severe drought is the new normal, and B.C.'s water strategy is stuck in crisis mode",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVXZoT28wNWFHMG5fQXg4b2Z0dEVqSjBmQ2k3SEhBRFdmZVUwUjNtUS1tTEJQcTJ0SUpiMDdTNXI0SDMyMjRxbWtYMTRBVnFpMjNtWTEwNHM3UF8wX1BBWTRBdjVPaWNOMFJ6MTh5SXNRdmVyR21vQ2FpVzVaNGxieE1OdVZLOTZncTk5bGtELXdTZFpjTG5hdlhJWGlXZWpaU3RpTWg5RjZpeVl0RGh3bU02UzZzQ0EteUZDTVhjVDl5R05yWURWZDltVGtWcGRiVldQZGJFWlZnR2NvR0VXX2tJM2E?oc=5",
+   "date": "2026-08-01"
   },
   {
    "cat": "codeblue",
