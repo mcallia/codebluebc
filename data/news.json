@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T18:20:36.777Z",
+ "updated": "2026-11-05T00:38:33.903Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -108,13 +108,6 @@
    "url": "https://www.codebluebc.ca/why-building-more-reservoirs-wont-solve-bcs-water-problem"
   },
   {
-   "cat": "media",
-   "source": "Government of British Columbia",
-   "title": "B.C. Flood Strategy - Province of British Columbia",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdjN5S3QwYm9sTDVISEE4Ti05UmxyQ0t3U1VfMzZpRHNrdFNXYkZTdEdCYlBFQjNBc3EtbWgyTmdjcUJKdExldlJHeFNnbElUdko0ZnF1Tm1pUXRrdXowbGJ6Q1dISFBTY1Rlb0hrMVdsM2Y1VDM3V0VhUWVRZHZ4U0RRVzZUd3dEcEZRa1NiNW1QTHlpRGRScEJrUHNxSlcxcmRmWVNEOVhKNVdjUnE2Q0steXRNR2drYTB2RzVSb1FiNTZOMzZoRFljWW13b3BpZkhpZ09yV3BwclJ1NnlwY2ZB?oc=5",
-   "date": "2026-07-13"
-  },
-  {
    "cat": "coalition",
    "source": "BC Watershed Security Coalition",
    "title": "Media Release: On World Drought Day, BC Coalition Calls for Provincial Action on Drought and Water Scarcity",
@@ -129,18 +122,18 @@
    "date": "2026-06-01"
   },
   {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Metro Vancouver Regional District to implement Stage 3 water restrictions",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeG8wQ0Y1UF9mZDJtYkd6XzFQUDRqNGNDRDE4X3hPY0dGNjVwRXd5THBveGhEeVZIVXNuTTNxZ3RMNkVaT3ZyQWhOT0dmQmx2amhRdUI5OFpHRzVUWUNaVVp0M1htMVA5VnRYUTZEVHZrSTB1aEEzQnVCUlRyc095SnJhWGMzRzhmc2laNnhxVWk2TGNUdWNoZWtMRE1abnBiQnc?oc=5",
-   "date": "2026-06-01"
-  },
-  {
    "cat": "codeblue",
    "source": "CodeBlue BC",
    "date": "2026-04-21",
    "title": "Small, Warty, and Remarkable: The Western Toad — Five Facts",
    "url": "https://www.codebluebc.ca/western-toad"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Average B.C. snowpack of 92% masks 'strong regional divide,' says provincial bulletin",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWZrRWdiQ18yX3lyemo5MmFWRjhManptSmFPcWtmZzRVOHA4RjVEUm95Mk1STElzakJ2OXlZTE9VamR1amExdlR4TGtNanZWbDlTQmktcVJVdGlRM2ZnQWFnZTVsT244ZnFMMDc0cWRjaUNIeDktTmMtTmNUdjNfQU95Sm5UMmEya0VCWFBncEtsdw?oc=5",
+   "date": "2026-04-09"
   },
   {
    "cat": "media",
@@ -162,6 +155,13 @@
    "title": "Media Release: BC Budget Misses Opportunity to Generate New Revenue, Strengthen Watershed Security, Jobs, and Economic Resilience",
    "url": "https://watershedsecurity.ca/media-release-bc-budget-misses-opportunity-to-generate-new-revenue-strengthen-watershed-security-jobs-and-economic-resilience/",
    "date": "2026-02-17"
+  },
+  {
+   "cat": "media",
+   "source": "Government of British Columbia",
+   "title": "Be prepared for extreme heat and drought - Province of British Columbia",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1CRlRLVGU1M2taX3gzSFdYb3AyU2NtWXBITExzbEgtUUNnVFJfYWwwQ0dfWmhXUDhqR2g2elRYUXZ2VEk?oc=5",
+   "date": "2026-02-06"
   },
   {
    "cat": "codeblue",
