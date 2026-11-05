@@ -1,14 +1,7 @@
 {
- "updated": "2026-11-05T06:27:37.156Z",
+ "updated": "2026-11-05T12:25:25.597Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
-  {
-   "cat": "media",
-   "source": "Chilliwack Progress",
-   "title": "Drought codes reach record levels nearest B.C.’s worst wildfires in 2026",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVy04UWp0a0ZPalZUYkdxeEN1WkVsRDl1U0pKXzE2dkVtUUpPdnNmbnV4MnlWQ2JXYXF5Z2QyRG5yeXh6NE1rcU1HRjFBZGVrMXUzR2l5eV80YXNBeVlSMTNMeWJUNm1ZdXN0YUpiRWFfSTVFSUR1Yk0xOWV5d3gyZWNneXNCb3pIZy1XbXN0TVlQMUtPRkluM0lyLWpKWW1ObWc4YWZaY3FMUjA?oc=5",
-   "date": "2026-10-30"
-  },
   {
    "cat": "media",
    "source": "CBC",
@@ -120,6 +113,13 @@
    "title": "Snow conditions commentary - Province of British Columbia",
    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNV96VzgtS2p5ZVQ3T29qMldSVWYxSVlaRTRVNDlSMThJc1VJZXFyWkFFQ2hnOHVEQThEY3RJU0pWemtQZWh1QzZfWk55OXgzX0pkdzF4Tm05RERWamdQWDBkMnFlUmFvekdLaWJMbldSSXJUeDdDR2ZjRk1pTGJjV2w1bkVBVTFGNkdMcWZhVFR3Wmp2ckRZeUNSNnIzQkxFZ1Z0TkprSjduMHNmbEtGZmFzcjRURnNhZXRic29oRW5xaEZfMmdvLXNPQ2RMNDctRVBQSTVUMWdKMGZxRUNWUWVGY0Fna1diZU5KWElHMFR2bEEwWkNZUzlZZWsyRFdnRmkyWGYxOENmdw?oc=5",
    "date": "2026-06-01"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Vancouver Island's low snowpack likely to affect salmon populations: researchers",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd1o1QzhUN1UwWFRTMlZfTnB6TXBZSkJDVVRpYXIxRG5VeElWcHhJeUthcDJiLTNpU29vcTNQd1dBZ241OUVDRUp6aUltNUtqREZqMVpzTW9zY1NfTHVUNzh1RTZSUmhnZVp3eU43NGkzSm5zZms4MWtLN2l3N2ZJZm1TbWM5X0NNMVQ2dXRvc28?oc=5",
+   "date": "2026-04-22"
   },
   {
    "cat": "codeblue",
