@@ -1,7 +1,14 @@
 {
- "updated": "2026-11-05T18:22:37.061Z",
+ "updated": "2026-11-06T00:37:53.633Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
+  {
+   "cat": "coalition",
+   "source": "BC Watershed Security Coalition",
+   "title": "NEWS RELEASE: You can&#8217;t build an economic powerhouse without water security- Federal Budget 2026 overlooks the natural infrastructure Canada&#8217;s economy depends on",
+   "url": "https://watershedsecurity.ca/news-release-federal-budget-2026/",
+   "date": "2026-11-05"
+  },
   {
    "cat": "media",
    "source": "CBC",
@@ -148,13 +155,6 @@
    "date": "2026-02-19",
    "title": "The Western Painted Turtle is BC's Coolest Local: Five Facts",
    "url": "https://www.codebluebc.ca/western-painted-turtle"
-  },
-  {
-   "cat": "coalition",
-   "source": "BC Watershed Security Coalition",
-   "title": "Media Release: BC Budget Misses Opportunity to Generate New Revenue, Strengthen Watershed Security, Jobs, and Economic Resilience",
-   "url": "https://watershedsecurity.ca/media-release-bc-budget-misses-opportunity-to-generate-new-revenue-strengthen-watershed-security-jobs-and-economic-resilience/",
-   "date": "2026-02-17"
   },
   {
    "cat": "media",
