@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T12:24:39.488Z",
+ "updated": "2026-11-06T18:22:10.493Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -124,9 +124,9 @@
   {
    "cat": "media",
    "source": "CBC",
-   "title": "Metro Vancouver to ban lawn watering amid early Stage 2 water restrictions",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaHFyanJOTHpFS1N2NFlhNlBra1J1Vk9qYlJmbnZ5WHlONU04R0tQclh3V3VGWVhZdDg0TGNtaUZnazFDYTNVQktWdFBmSVVHYmhqdEZjT3F6QlNfMUg3eC1TUXhqYUlOWjlTWjR6OEJzN21pbEVoTWhHalc0SVhVbTBMc19abl9tTE5ZWEg5b0I0ZVdSWC1sVHk4U1dTOUpnSHc?oc=5",
-   "date": "2026-04-25"
+   "title": "Vancouver Island's low snowpack likely to affect salmon populations: researchers",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd1o1QzhUN1UwWFRTMlZfTnB6TXBZSkJDVVRpYXIxRG5VeElWcHhJeUthcDJiLTNpU29vcTNQd1dBZ241OUVDRUp6aUltNUtqREZqMVpzTW9zY1NfTHVUNzh1RTZSUmhnZVp3eU43NGkzSm5zZms4MWtLN2l3N2ZJZm1TbWM5X0NNMVQ2dXRvc28?oc=5",
+   "date": "2026-04-22"
   },
   {
    "cat": "codeblue",
