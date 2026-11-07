@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T00:36:14.661Z",
+ "updated": "2026-11-07T06:24:38.902Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -8,13 +8,6 @@
    "title": "NEWS RELEASE: You can&#8217;t build an economic powerhouse without water security- Coalirion Responds to Federal Budget 2026",
    "url": "https://watershedsecurity.ca/news-release-federal-budget-2026/",
    "date": "2026-11-05"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "What does a super El Niño mean for the Vancouver Island snowpack?",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb3JwVmZIRTRvV0x0SjNZSW9id1JaRFVmTkstNWRCd1JrRWk1UDkxc3owVzJhQkNzbUkxYkNmVW1BbTY1RUlDR1RsQ1ZpU01YV0RHY1k5VU5oZ3VYUXF1YzV2c3BacnowdUlKVmVmUDRTM3NOZGdRZmFuMml2UnYzQ0E4NDlYYWtrLXVPUmZGYjdpWDRVV1ZTdzIzZ2o?oc=5",
-   "date": "2026-10-29"
   },
   {
    "cat": "coalition",
@@ -120,6 +113,13 @@
    "title": "Snow conditions commentary - Province of British Columbia",
    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNV96VzgtS2p5ZVQ3T29qMldSVWYxSVlaRTRVNDlSMThJc1VJZXFyWkFFQ2hnOHVEQThEY3RJU0pWemtQZWh1QzZfWk55OXgzX0pkdzF4Tm05RERWamdQWDBkMnFlUmFvekdLaWJMbldSSXJUeDdDR2ZjRk1pTGJjV2w1bkVBVTFGNkdMcWZhVFR3Wmp2ckRZeUNSNnIzQkxFZ1Z0TkprSjduMHNmbEtGZmFzcjRURnNhZXRic29oRW5xaEZfMmdvLXNPQ2RMNDctRVBQSTVUMWdKMGZxRUNWUWVGY0Fna1diZU5KWElHMFR2bEEwWkNZUzlZZWsyRFdnRmkyWGYxOENmdw?oc=5",
    "date": "2026-06-01"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Metro Vancouver to ban lawn watering amid early Stage 2 water restrictions",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaHFyanJOTHpFS1N2NFlhNlBra1J1Vk9qYlJmbnZ5WHlONU04R0tQclh3V3VGWVhZdDg0TGNtaUZnazFDYTNVQktWdFBmSVVHYmhqdEZjT3F6QlNfMUg3eC1TUXhqYUlOWjlTWjR6OEJzN21pbEVoTWhHalc0SVhVbTBMc19abl9tTE5ZWEg5b0I0ZVdSWC1sVHk4U1dTOUpnSHc?oc=5",
+   "date": "2026-04-25"
   },
   {
    "cat": "codeblue",
