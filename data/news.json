@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-06T18:22:10.493Z",
+ "updated": "2026-11-07T00:36:14.661Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
    "cat": "coalition",
    "source": "BC Watershed Security Coalition",
-   "title": "NEWS RELEASE: You can&#8217;t build an economic powerhouse without water security- Federal Budget 2026 overlooks the natural infrastructure Canada&#8217;s economy depends on",
+   "title": "NEWS RELEASE: You can&#8217;t build an economic powerhouse without water security- Coalirion Responds to Federal Budget 2026",
    "url": "https://watershedsecurity.ca/news-release-federal-budget-2026/",
    "date": "2026-11-05"
   },
@@ -122,13 +122,6 @@
    "date": "2026-06-01"
   },
   {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Vancouver Island's low snowpack likely to affect salmon populations: researchers",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd1o1QzhUN1UwWFRTMlZfTnB6TXBZSkJDVVRpYXIxRG5VeElWcHhJeUthcDJiLTNpU29vcTNQd1dBZ241OUVDRUp6aUltNUtqREZqMVpzTW9zY1NfTHVUNzh1RTZSUmhnZVp3eU43NGkzSm5zZms4MWtLN2l3N2ZJZm1TbWM5X0NNMVQ2dXRvc28?oc=5",
-   "date": "2026-04-22"
-  },
-  {
    "cat": "codeblue",
    "source": "CodeBlue BC",
    "date": "2026-04-21",
@@ -141,6 +134,13 @@
    "title": "Average B.C. snowpack of 92% masks 'strong regional divide,' says provincial bulletin",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWZrRWdiQ18yX3lyemo5MmFWRjhManptSmFPcWtmZzRVOHA4RjVEUm95Mk1STElzakJ2OXlZTE9VamR1amExdlR4TGtNanZWbDlTQmktcVJVdGlRM2ZnQWFnZTVsT244ZnFMMDc0cWRjaUNIeDktTmMtTmNUdjNfQU95Sm5UMmEya0VCWFBncEtsdw?oc=5",
    "date": "2026-04-09"
+  },
+  {
+   "cat": "media",
+   "source": "The Northern View",
+   "title": "B.C. snowpack near normal but some regions face drought risk",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXd0aFRLNFhjZEdLX2hfQVZmRnNHcnNNMUJVY1V3XzVkaDB3VjhpSVlsdmZIT1M0S3NLOTdyUWxxcHczQkVIZWFuZ21sd3VYMVN0Ti1QZ21VR0xHcktidW91NGFwZU1Zak9ObUtSdmtRNXUxc2lRZlF0V2xrM3VoOEVBdFFwSkJYVDVHNzI2VnVzZFNoNmR0WW1kangzT212?oc=5",
+   "date": "2026-03-10"
   },
   {
    "cat": "media",
