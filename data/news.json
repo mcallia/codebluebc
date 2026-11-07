@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T06:24:38.902Z",
+ "updated": "2026-11-07T12:22:17.544Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -101,11 +101,25 @@
    "url": "https://www.codebluebc.ca/why-building-more-reservoirs-wont-solve-bcs-water-problem"
   },
   {
+   "cat": "media",
+   "source": "Government of British Columbia",
+   "title": "B.C. Flood Strategy - Province of British Columbia",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdjN5S3QwYm9sTDVISEE4Ti05UmxyQ0t3U1VfMzZpRHNrdFNXYkZTdEdCYlBFQjNBc3EtbWgyTmdjcUJKdExldlJHeFNnbElUdko0ZnF1Tm1pUXRrdXowbGJ6Q1dISFBTY1Rlb0hrMVdsM2Y1VDM3V0VhUWVRZHZ4U0RRVzZUd3dEcEZRa1NiNW1QTHlpRGRScEJrUHNxSlcxcmRmWVNEOVhKNVdjUnE2Q0steXRNR2drYTB2RzVSb1FiNTZOMzZoRFljWW13b3BpZkhpZ09yV3BwclJ1NnlwY2ZB?oc=5",
+   "date": "2026-07-13"
+  },
+  {
    "cat": "coalition",
    "source": "BC Watershed Security Coalition",
    "title": "Media Release: On World Drought Day, BC Coalition Calls for Provincial Action on Drought and Water Scarcity",
    "url": "https://watershedsecurity.ca/media-release-world-drought-day/",
    "date": "2026-06-17"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Water restrictions imposed for Vernon area, including 70% reduction for farmers",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZmVIYjZydjBHVzhTR0g2MW5JMl9sOHFYYktqMzNuV1FUdDFlU19rbkdRX2hqdWlubVBLNlJTZHJCa1llYlBfcmRjcXRtZ3JUMHFIdVpGbTlUSTRkUU5yX21OU0M1OWkwSERwOXZvbW5fOHdPbFlHazNKS3daM1NyOUM5SjdWWS13aEVzZml4bng5cHNyMkFTNHFvRGtucFNC?oc=5",
+   "date": "2026-06-05"
   },
   {
    "cat": "media",
@@ -117,9 +131,16 @@
   {
    "cat": "media",
    "source": "CBC",
-   "title": "Metro Vancouver to ban lawn watering amid early Stage 2 water restrictions",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaHFyanJOTHpFS1N2NFlhNlBra1J1Vk9qYlJmbnZ5WHlONU04R0tQclh3V3VGWVhZdDg0TGNtaUZnazFDYTNVQktWdFBmSVVHYmhqdEZjT3F6QlNfMUg3eC1TUXhqYUlOWjlTWjR6OEJzN21pbEVoTWhHalc0SVhVbTBMc19abl9tTE5ZWEg5b0I0ZVdSWC1sVHk4U1dTOUpnSHc?oc=5",
-   "date": "2026-04-25"
+   "title": "Metro Vancouver Regional District to implement Stage 3 water restrictions",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeG8wQ0Y1UF9mZDJtYkd6XzFQUDRqNGNDRDE4X3hPY0dGNjVwRXd5THBveGhEeVZIVXNuTTNxZ3RMNkVaT3ZyQWhOT0dmQmx2amhRdUI5OFpHRzVUWUNaVVp0M1htMVA5VnRYUTZEVHZrSTB1aEEzQnVCUlRyc095SnJhWGMzRzhmc2laNnhxVWk2TGNUdWNoZWtMRE1abnBiQnc?oc=5",
+   "date": "2026-06-01"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Metro Vancouver warns Stage 3 water restrictions likely to begin in June",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONllJU1NWMDBlM3ZsenpsSHduZTI1QXBwVlZPQ2NMTlVETkY1TDYwQ3FhUkZJdXlXRTZTeDFVYkJaS19aRmd6VzdJR184dmFDN3NRck95YUd0UkpBVk1ITUdxQzRseEFqZ1R0YVk2SEpvbnZVaFNOZ1ZFN0JPclpPWFg0aVRzYlRiaTBxcHJzS01vU1VTRXYwdGF6WHlScm5nTXc?oc=5",
+   "date": "2026-05-23"
   },
   {
    "cat": "codeblue",
@@ -127,20 +148,6 @@
    "date": "2026-04-21",
    "title": "Small, Warty, and Remarkable: The Western Toad — Five Facts",
    "url": "https://www.codebluebc.ca/western-toad"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Average B.C. snowpack of 92% masks 'strong regional divide,' says provincial bulletin",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWZrRWdiQ18yX3lyemo5MmFWRjhManptSmFPcWtmZzRVOHA4RjVEUm95Mk1STElzakJ2OXlZTE9VamR1amExdlR4TGtNanZWbDlTQmktcVJVdGlRM2ZnQWFnZTVsT244ZnFMMDc0cWRjaUNIeDktTmMtTmNUdjNfQU95Sm5UMmEya0VCWFBncEtsdw?oc=5",
-   "date": "2026-04-09"
-  },
-  {
-   "cat": "media",
-   "source": "The Northern View",
-   "title": "B.C. snowpack near normal but some regions face drought risk",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXd0aFRLNFhjZEdLX2hfQVZmRnNHcnNNMUJVY1V3XzVkaDB3VjhpSVlsdmZIT1M0S3NLOTdyUWxxcHczQkVIZWFuZ21sd3VYMVN0Ti1QZ21VR0xHcktidW91NGFwZU1Zak9ObUtSdmtRNXUxc2lRZlF0V2xrM3VoOEVBdFFwSkJYVDVHNzI2VnVzZFNoNmR0WW1kangzT212?oc=5",
-   "date": "2026-03-10"
   },
   {
    "cat": "media",
@@ -155,13 +162,6 @@
    "date": "2026-02-19",
    "title": "The Western Painted Turtle is BC's Coolest Local: Five Facts",
    "url": "https://www.codebluebc.ca/western-painted-turtle"
-  },
-  {
-   "cat": "media",
-   "source": "Government of British Columbia",
-   "title": "Be prepared for extreme heat and drought - Province of British Columbia",
-   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1CRlRLVGU1M2taX3gzSFdYb3AyU2NtWXBITExzbEgtUUNnVFJfYWwwQ0dfWmhXUDhqR2g2elRYUXZ2VEk?oc=5",
-   "date": "2026-02-06"
   },
   {
    "cat": "codeblue",
