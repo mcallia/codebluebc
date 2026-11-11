@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T00:37:59.105Z",
+ "updated": "2026-11-11T06:27:43.878Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -15,13 +15,6 @@
    "title": "Where did watershed security show up in the B.C. provincial party election platforms?",
    "url": "https://watershedsecurity.ca/watershed-security-bc-election-platforms/",
    "date": "2026-10-16"
-  },
-  {
-   "cat": "media",
-   "source": "News",
-   "title": "Current drought conditions - Agriculture and Agri-food Canada",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2RtZHR3NEhNVFBZOXYwQ0hIV19vTTh3NDQ0YVlRem1wcDktaWx2bFAwR1FFek94Q0puSUE4UzdHVy13dmpPTjVUVC0yZEM4Zi1RZHRUSFNOTm9nN0k5enlPaUFscGt1QVpnNktGY1dOcVpvSVlFUjlaVnZJZy1UWFdfQXVTa1hIclZ2MTRRalRUdHo4a2hxdGxpRmtDLXlKa0o3UUZVeHFFOVNwV1FLUW5uS09oa0E?oc=5",
-   "date": "2026-10-09"
   },
   {
    "cat": "coalition",
@@ -92,6 +85,13 @@
    "date": "2026-07-23",
    "title": "Why Building More Reservoirs Won't Solve BC's Water Problem",
    "url": "https://www.codebluebc.ca/why-building-more-reservoirs-wont-solve-bcs-water-problem"
+  },
+  {
+   "cat": "media",
+   "source": "Government of British Columbia",
+   "title": "B.C. Flood Strategy - Province of British Columbia",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdjN5S3QwYm9sTDVISEE4Ti05UmxyQ0t3U1VfMzZpRHNrdFNXYkZTdEdCYlBFQjNBc3EtbWgyTmdjcUJKdExldlJHeFNnbElUdko0ZnF1Tm1pUXRrdXowbGJ6Q1dISFBTY1Rlb0hrMVdsM2Y1VDM3V0VhUWVRZHZ4U0RRVzZUd3dEcEZRa1NiNW1QTHlpRGRScEJrUHNxSlcxcmRmWVNEOVhKNVdjUnE2Q0steXRNR2drYTB2RzVSb1FiNTZOMzZoRFljWW13b3BpZkhpZ09yV3BwclJ1NnlwY2ZB?oc=5",
+   "date": "2026-07-13"
   },
   {
    "cat": "coalition",
