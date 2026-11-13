@@ -1,7 +1,14 @@
 {
- "updated": "2026-11-13T12:24:34.402Z",
+ "updated": "2026-11-13T18:19:36.540Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
+  {
+   "cat": "media",
+   "source": "News",
+   "title": "Current drought conditions - Agriculture and Agri-food Canada",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2RtZHR3NEhNVFBZOXYwQ0hIV19vTTh3NDQ0YVlRem1wcDktaWx2bFAwR1FFek94Q0puSUE4UzdHVy13dmpPTjVUVC0yZEM4Zi1RZHRUSFNOTm9nN0k5enlPaUFscGt1QVpnNktGY1dOcVpvSVlFUjlaVnZJZy1UWFdfQXVTa1hIclZ2MTRRalRUdHo4a2hxdGxpRmtDLXlKa0o3UUZVeHFFOVNwV1FLUW5uS09oa0E?oc=5",
+   "date": "2026-11-10"
+  },
   {
    "cat": "coalition",
    "source": "BC Watershed Security Coalition",
@@ -169,13 +176,6 @@
    "date": "2025-01-31",
    "title": "Why Is BC Giving Away Its Fresh Water for Next to Nothing?",
    "url": "https://www.codebluebc.ca/why-is-bc-giving-away-its-fresh-water"
-  },
-  {
-   "cat": "media",
-   "source": "News",
-   "title": "Current drought conditions - Agriculture and Agri-food Canada",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2RtZHR3NEhNVFBZOXYwQ0hIV19vTTh3NDQ0YVlRem1wcDktaWx2bFAwR1FFek94Q0puSUE4UzdHVy13dmpPTjVUVC0yZEM4Zi1RZHRUSFNOTm9nN0k5enlPaUFscGt1QVpnNktGY1dOcVpvSVlFUjlaVnZJZy1UWFdfQXVTa1hIclZ2MTRRalRUdHo4a2hxdGxpRmtDLXlKa0o3UUZVeHFFOVNwV1FLUW5uS09oa0E?oc=5",
-   "date": "2022-12-09"
   }
  ]
 }
