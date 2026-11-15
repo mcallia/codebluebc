@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T12:22:36.983Z",
+ "updated": "2026-11-15T18:19:49.315Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -101,13 +101,6 @@
    "url": "https://www.codebluebc.ca/why-building-more-reservoirs-wont-solve-bcs-water-problem"
   },
   {
-   "cat": "media",
-   "source": "BC Gov News",
-   "title": "Work underway on three conservation planning projects",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBON1luUVFHOG04d2tnUVBTZDZRenFkX0szRHpFbF90aWhqN2FnN2xfUXBrdlJqVmVnMHhFRHlBeTYzbTRKRV9SNFpWTU4zQWduUVRNekJVWkVTNUp3OExxOQ?oc=5",
-   "date": "2026-07-06"
-  },
-  {
    "cat": "coalition",
    "source": "BC Watershed Security Coalition",
    "title": "Media Release: On World Drought Day, BC Coalition Calls for Provincial Action on Drought and Water Scarcity",
@@ -162,6 +155,13 @@
    "date": "2026-02-19",
    "title": "The Western Painted Turtle is BC's Coolest Local: Five Facts",
    "url": "https://www.codebluebc.ca/western-painted-turtle"
+  },
+  {
+   "cat": "media",
+   "source": "Government of British Columbia",
+   "title": "Be prepared for extreme heat and drought - Province of British Columbia",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1CRlRLVGU1M2taX3gzSFdYb3AyU2NtWXBITExzbEgtUUNnVFJfYWwwQ0dfWmhXUDhqR2g2elRYUXZ2VEk?oc=5",
+   "date": "2026-02-06"
   },
   {
    "cat": "codeblue",
