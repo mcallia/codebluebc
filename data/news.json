@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T06:41:09.492Z",
+ "updated": "2026-11-16T12:33:35.772Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -102,13 +102,6 @@
   },
   {
    "cat": "media",
-   "source": "Government of British Columbia",
-   "title": "B.C. Flood Strategy - Province of British Columbia",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdjN5S3QwYm9sTDVISEE4Ti05UmxyQ0t3U1VfMzZpRHNrdFNXYkZTdEdCYlBFQjNBc3EtbWgyTmdjcUJKdExldlJHeFNnbElUdko0ZnF1Tm1pUXRrdXowbGJ6Q1dISFBTY1Rlb0hrMVdsM2Y1VDM3V0VhUWVRZHZ4U0RRVzZUd3dEcEZRa1NiNW1QTHlpRGRScEJrUHNxSlcxcmRmWVNEOVhKNVdjUnE2Q0steXRNR2drYTB2RzVSb1FiNTZOMzZoRFljWW13b3BpZkhpZ09yV3BwclJ1NnlwY2ZB?oc=5",
-   "date": "2026-07-13"
-  },
-  {
-   "cat": "media",
    "source": "BC Gov News",
    "title": "Work underway on three conservation planning projects",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBON1luUVFHOG04d2tnUVBTZDZRenFkX0szRHpFbF90aWhqN2FnN2xfUXBrdlJqVmVnMHhFRHlBeTYzbTRKRV9SNFpWTU4zQWduUVRNekJVWkVTNUp3OExxOQ?oc=5",
@@ -148,6 +141,13 @@
    "date": "2026-04-21",
    "title": "Small, Warty, and Remarkable: The Western Toad — Five Facts",
    "url": "https://www.codebluebc.ca/western-toad"
+  },
+  {
+   "cat": "media",
+   "source": "Nelson Star",
+   "title": "B.C. snowpack near normal but some regions face drought risk",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLXpDWVdpd0E3NW52MFR3VVJFZWlMRzc3ZXpSNkhCSTJjRUxvWkpWa0pPWFlaUGpQTlNYRXd4UzRTYmh6ZzByME5VeGZtN2NmR2tjQXN6cEpQci1ZdlpkSUxqTGcwakZQeXd0eUpMTnB1UlVsVzFwc0hBSVRBNHBGYURZRFVHallMTXZ6ampzeVBCWXpVXzY5WFV3?oc=5",
+   "date": "2026-03-10"
   },
   {
    "cat": "media",
