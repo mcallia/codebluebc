@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T12:24:47.629Z",
+ "updated": "2026-11-18T18:20:02.131Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -102,6 +102,13 @@
   },
   {
    "cat": "media",
+   "source": "Government of British Columbia",
+   "title": "B.C. Flood Strategy - Province of British Columbia",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdjN5S3QwYm9sTDVISEE4Ti05UmxyQ0t3U1VfMzZpRHNrdFNXYkZTdEdCYlBFQjNBc3EtbWgyTmdjcUJKdExldlJHeFNnbElUdko0ZnF1Tm1pUXRrdXowbGJ6Q1dISFBTY1Rlb0hrMVdsM2Y1VDM3V0VhUWVRZHZ4U0RRVzZUd3dEcEZRa1NiNW1QTHlpRGRScEJrUHNxSlcxcmRmWVNEOVhKNVdjUnE2Q0steXRNR2drYTB2RzVSb1FiNTZOMzZoRFljWW13b3BpZkhpZ09yV3BwclJ1NnlwY2ZB?oc=5",
+   "date": "2026-07-13"
+  },
+  {
+   "cat": "media",
    "source": "BC Gov News",
    "title": "Work underway on three conservation planning projects",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBON1luUVFHOG04d2tnUVBTZDZRenFkX0szRHpFbF90aWhqN2FnN2xfUXBrdlJqVmVnMHhFRHlBeTYzbTRKRV9SNFpWTU4zQWduUVRNekJVWkVTNUp3OExxOQ?oc=5",
@@ -116,6 +123,13 @@
   },
   {
    "cat": "media",
+   "source": "CBC",
+   "title": "Water restrictions imposed for Vernon area, including 70% reduction for farmers",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZmVIYjZydjBHVzhTR0g2MW5JMl9sOHFYYktqMzNuV1FUdDFlU19rbkdRX2hqdWlubVBLNlJTZHJCa1llYlBfcmRjcXRtZ3JUMHFIdVpGbTlUSTRkUU5yX21OU0M1OWkwSERwOXZvbW5fOHdPbFlHazNKS3daM1NyOUM5SjdWWS13aEVzZml4bng5cHNyMkFTNHFvRGtucFNC?oc=5",
+   "date": "2026-06-05"
+  },
+  {
+   "cat": "media",
    "source": "Government of British Columbia",
    "title": "Snow conditions commentary - Province of British Columbia",
    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNV96VzgtS2p5ZVQ3T29qMldSVWYxSVlaRTRVNDlSMThJc1VJZXFyWkFFQ2hnOHVEQThEY3RJU0pWemtQZWh1QzZfWk55OXgzX0pkdzF4Tm05RERWamdQWDBkMnFlUmFvekdLaWJMbldSSXJUeDdDR2ZjRk1pTGJjV2w1bkVBVTFGNkdMcWZhVFR3Wmp2ckRZeUNSNnIzQkxFZ1Z0TkprSjduMHNmbEtGZmFzcjRURnNhZXRic29oRW5xaEZfMmdvLXNPQ2RMNDctRVBQSTVUMWdKMGZxRUNWUWVGY0Fna1diZU5KWElHMFR2bEEwWkNZUzlZZWsyRFdnRmkyWGYxOENmdw?oc=5",
@@ -124,9 +138,9 @@
   {
    "cat": "media",
    "source": "CBC",
-   "title": "Vancouver Island's low snowpack likely to affect salmon populations: researchers",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd1o1QzhUN1UwWFRTMlZfTnB6TXBZSkJDVVRpYXIxRG5VeElWcHhJeUthcDJiLTNpU29vcTNQd1dBZ241OUVDRUp6aUltNUtqREZqMVpzTW9zY1NfTHVUNzh1RTZSUmhnZVp3eU43NGkzSm5zZms4MWtLN2l3N2ZJZm1TbWM5X0NNMVQ2dXRvc28?oc=5",
-   "date": "2026-04-22"
+   "title": "Metro Vancouver Regional District to implement Stage 3 water restrictions",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeG8wQ0Y1UF9mZDJtYkd6XzFQUDRqNGNDRDE4X3hPY0dGNjVwRXd5THBveGhEeVZIVXNuTTNxZ3RMNkVaT3ZyQWhOT0dmQmx2amhRdUI5OFpHRzVUWUNaVVp0M1htMVA5VnRYUTZEVHZrSTB1aEEzQnVCUlRyc095SnJhWGMzRzhmc2laNnhxVWk2TGNUdWNoZWtMRE1abnBiQnc?oc=5",
+   "date": "2026-06-01"
   },
   {
    "cat": "codeblue",
@@ -134,20 +148,6 @@
    "date": "2026-04-21",
    "title": "Small, Warty, and Remarkable: The Western Toad — Five Facts",
    "url": "https://www.codebluebc.ca/western-toad"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Average B.C. snowpack of 92% masks 'strong regional divide,' says provincial bulletin",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWZrRWdiQ18yX3lyemo5MmFWRjhManptSmFPcWtmZzRVOHA4RjVEUm95Mk1STElzakJ2OXlZTE9VamR1amExdlR4TGtNanZWbDlTQmktcVJVdGlRM2ZnQWFnZTVsT244ZnFMMDc0cWRjaUNIeDktTmMtTmNUdjNfQU95Sm5UMmEya0VCWFBncEtsdw?oc=5",
-   "date": "2026-04-09"
-  },
-  {
-   "cat": "media",
-   "source": "Nelson Star",
-   "title": "B.C. snowpack near normal but some regions face drought risk",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLXpDWVdpd0E3NW52MFR3VVJFZWlMRzc3ZXpSNkhCSTJjRUxvWkpWa0pPWFlaUGpQTlNYRXd4UzRTYmh6ZzByME5VeGZtN2NmR2tjQXN6cEpQci1ZdlpkSUxqTGcwakZQeXd0eUpMTnB1UlVsVzFwc0hBSVRBNHBGYURZRFVHallMTXZ6ampzeVBCWXpVXzY5WFV3?oc=5",
-   "date": "2026-03-10"
   },
   {
    "cat": "media",
