@@ -1,7 +1,14 @@
 {
- "updated": "2026-11-20T06:28:02.406Z",
+ "updated": "2026-11-20T12:25:09.140Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
+  {
+   "cat": "media",
+   "source": "The Cool Down",
+   "title": "Clearcutting made large floods 16 times more frequent in a Canadian watershed, study finds",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc3Fsb0xINnpqWm5FRjhsYi1raUNIOXE1ZVJPcC1KU1cwSFNjcENudVR6czNKaXBwNGVlNFczbWZjd2tDWGc2UldTcWRNVHdIb1ctYW1iTGo1eDVlNjlwQXNpWTJQR3lfZmlWR0g3RGFxMTVFOG9QRDZBV0piR2NLdjhqUUFwXzNiWnJlQlZyOThmbFZlckE?oc=5",
+   "date": "2026-11-20"
+  },
   {
    "cat": "media",
    "source": "News",
@@ -141,13 +148,6 @@
    "date": "2026-04-21",
    "title": "Small, Warty, and Remarkable: The Western Toad — Five Facts",
    "url": "https://www.codebluebc.ca/western-toad"
-  },
-  {
-   "cat": "media",
-   "source": "Nelson Star",
-   "title": "B.C. snowpack near normal but some regions face drought risk",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLXpDWVdpd0E3NW52MFR3VVJFZWlMRzc3ZXpSNkhCSTJjRUxvWkpWa0pPWFlaUGpQTlNYRXd4UzRTYmh6ZzByME5VeGZtN2NmR2tjQXN6cEpQci1ZdlpkSUxqTGcwakZQeXd0eUpMTnB1UlVsVzFwc0hBSVRBNHBGYURZRFVHallMTXZ6ampzeVBCWXpVXzY5WFV3?oc=5",
-   "date": "2026-03-10"
   },
   {
    "cat": "media",
