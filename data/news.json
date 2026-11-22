@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T00:40:59.052Z",
+ "updated": "2026-11-22T06:26:50.205Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -116,13 +116,6 @@
   },
   {
    "cat": "media",
-   "source": "CBC",
-   "title": "Water restrictions imposed for Vernon area, including 70% reduction for farmers",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZmVIYjZydjBHVzhTR0g2MW5JMl9sOHFYYktqMzNuV1FUdDFlU19rbkdRX2hqdWlubVBLNlJTZHJCa1llYlBfcmRjcXRtZ3JUMHFIdVpGbTlUSTRkUU5yX21OU0M1OWkwSERwOXZvbW5fOHdPbFlHazNKS3daM1NyOUM5SjdWWS13aEVzZml4bng5cHNyMkFTNHFvRGtucFNC?oc=5",
-   "date": "2026-06-05"
-  },
-  {
-   "cat": "media",
    "source": "Government of British Columbia",
    "title": "Snow conditions commentary - Province of British Columbia",
    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNV96VzgtS2p5ZVQ3T29qMldSVWYxSVlaRTRVNDlSMThJc1VJZXFyWkFFQ2hnOHVEQThEY3RJU0pWemtQZWh1QzZfWk55OXgzX0pkdzF4Tm05RERWamdQWDBkMnFlUmFvekdLaWJMbldSSXJUeDdDR2ZjRk1pTGJjV2w1bkVBVTFGNkdMcWZhVFR3Wmp2ckRZeUNSNnIzQkxFZ1Z0TkprSjduMHNmbEtGZmFzcjRURnNhZXRic29oRW5xaEZfMmdvLXNPQ2RMNDctRVBQSTVUMWdKMGZxRUNWUWVGY0Fna1diZU5KWElHMFR2bEEwWkNZUzlZZWsyRFdnRmkyWGYxOENmdw?oc=5",
@@ -141,6 +134,13 @@
    "date": "2026-04-21",
    "title": "Small, Warty, and Remarkable: The Western Toad — Five Facts",
    "url": "https://www.codebluebc.ca/western-toad"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Average B.C. snowpack of 92% masks 'strong regional divide,' says provincial bulletin",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWZrRWdiQ18yX3lyemo5MmFWRjhManptSmFPcWtmZzRVOHA4RjVEUm95Mk1STElzakJ2OXlZTE9VamR1amExdlR4TGtNanZWbDlTQmktcVJVdGlRM2ZnQWFnZTVsT244ZnFMMDc0cWRjaUNIeDktTmMtTmNUdjNfQU95Sm5UMmEya0VCWFBncEtsdw?oc=5",
+   "date": "2026-04-09"
   },
   {
    "cat": "media",
