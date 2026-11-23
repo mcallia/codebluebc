@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T06:37:38.060Z",
+ "updated": "2026-11-23T12:26:17.335Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -108,6 +108,13 @@
    "date": "2026-07-13"
   },
   {
+   "cat": "media",
+   "source": "BC Gov News",
+   "title": "Work underway on three conservation planning projects",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBON1luUVFHOG04d2tnUVBTZDZRenFkX0szRHpFbF90aWhqN2FnN2xfUXBrdlJqVmVnMHhFRHlBeTYzbTRKRV9SNFpWTU4zQWduUVRNekJVWkVTNUp3OExxOQ?oc=5",
+   "date": "2026-07-06"
+  },
+  {
    "cat": "coalition",
    "source": "BC Watershed Security Coalition",
    "title": "Media Release: On World Drought Day, BC Coalition Calls for Provincial Action on Drought and Water Scarcity",
@@ -134,13 +141,6 @@
    "date": "2026-04-21",
    "title": "Small, Warty, and Remarkable: The Western Toad — Five Facts",
    "url": "https://www.codebluebc.ca/western-toad"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Average B.C. snowpack of 92% masks 'strong regional divide,' says provincial bulletin",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWZrRWdiQ18yX3lyemo5MmFWRjhManptSmFPcWtmZzRVOHA4RjVEUm95Mk1STElzakJ2OXlZTE9VamR1amExdlR4TGtNanZWbDlTQmktcVJVdGlRM2ZnQWFnZTVsT244ZnFMMDc0cWRjaUNIeDktTmMtTmNUdjNfQU95Sm5UMmEya0VCWFBncEtsdw?oc=5",
-   "date": "2026-04-09"
   },
   {
    "cat": "media",
