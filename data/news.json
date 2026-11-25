@@ -1,7 +1,14 @@
 {
- "updated": "2026-11-24T18:21:32.797Z",
+ "updated": "2026-11-25T00:39:42.347Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
+  {
+   "cat": "media",
+   "source": "The Cool Down",
+   "title": "Clearcutting made large floods 16 times more frequent in a Canadian watershed, study finds",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc3Fsb0xINnpqWm5FRjhsYi1raUNIOXE1ZVJPcC1KU1cwSFNjcENudVR6czNKaXBwNGVlNFczbWZjd2tDWGc2UldTcWRNVHdIb1ctYW1iTGo1eDVlNjlwQXNpWTJQR3lfZmlWR0g3RGFxMTVFOG9QRDZBV0piR2NLdjhqUUFwXzNiWnJlQlZyOThmbFZlckE?oc=5",
+   "date": "2026-11-20"
+  },
   {
    "cat": "media",
    "source": "News",
@@ -141,13 +148,6 @@
    "title": "Metro Vancouver Regional District to implement Stage 3 water restrictions",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeG8wQ0Y1UF9mZDJtYkd6XzFQUDRqNGNDRDE4X3hPY0dGNjVwRXd5THBveGhEeVZIVXNuTTNxZ3RMNkVaT3ZyQWhOT0dmQmx2amhRdUI5OFpHRzVUWUNaVVp0M1htMVA5VnRYUTZEVHZrSTB1aEEzQnVCUlRyc095SnJhWGMzRzhmc2laNnhxVWk2TGNUdWNoZWtMRE1abnBiQnc?oc=5",
    "date": "2026-06-01"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Vancouver Island's low snowpack likely to affect salmon populations: researchers",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd1o1QzhUN1UwWFRTMlZfTnB6TXBZSkJDVVRpYXIxRG5VeElWcHhJeUthcDJiLTNpU29vcTNQd1dBZ241OUVDRUp6aUltNUtqREZqMVpzTW9zY1NfTHVUNzh1RTZSUmhnZVp3eU43NGkzSm5zZms4MWtLN2l3N2ZJZm1TbWM5X0NNMVQ2dXRvc28?oc=5",
-   "date": "2026-04-22"
   },
   {
    "cat": "codeblue",
