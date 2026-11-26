@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:38:28.758Z",
+ "updated": "2026-11-26T06:29:51.029Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -8,13 +8,6 @@
    "title": "Big White, BC, Pushes Opening Day From November 26 to December 3",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYVZ1WUZEMWNqZXZUUm1Kd2lJTVhmSnB1X1dlOC1RTnhfVURJNlM1VGhIZ0c4WExWanBFTDJSelp1RGFmbTB0ZGJPUnlqRVk2NkxvX0hxVnE4a2EteFllNk1OdEFtcUlwejFaUDExbW5Gdzczdzc1ajBuSFZyZ2kzNXprcjB4YW1wOFRiZ1VuWQ?oc=5",
    "date": "2026-11-24"
-  },
-  {
-   "cat": "media",
-   "source": "The Cool Down",
-   "title": "Clearcutting made large floods 16 times more frequent in a Canadian watershed, study finds",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc3Fsb0xINnpqWm5FRjhsYi1raUNIOXE1ZVJPcC1KU1cwSFNjcENudVR6czNKaXBwNGVlNFczbWZjd2tDWGc2UldTcWRNVHdIb1ctYW1iTGo1eDVlNjlwQXNpWTJQR3lfZmlWR0g3RGFxMTVFOG9QRDZBV0piR2NLdjhqUUFwXzNiWnJlQlZyOThmbFZlckE?oc=5",
-   "date": "2026-11-20"
   },
   {
    "cat": "media",
@@ -36,6 +29,13 @@
    "title": "NEWS RELEASE: You can&#8217;t build an economic powerhouse without water security- Coalition Responds to Federal Budget 2026",
    "url": "https://watershedsecurity.ca/news-release-federal-budget-2026/",
    "date": "2026-11-05"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "What does a super El Niño mean for the Vancouver Island snowpack?",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb3JwVmZIRTRvV0x0SjNZSW9id1JaRFVmTkstNWRCd1JrRWk1UDkxc3owVzJhQkNzbUkxYkNmVW1BbTY1RUlDR1RsQ1ZpU01YV0RHY1k5VU5oZ3VYUXF1YzV2c3BacnowdUlKVmVmUDRTM3NOZGdRZmFuMml2UnYzQ0E4NDlYYWtrLXVPUmZGYjdpWDRVV1ZTdzIzZ2o?oc=5",
+   "date": "2026-10-29"
   },
   {
    "cat": "coalition",
@@ -116,6 +116,13 @@
   },
   {
    "cat": "media",
+   "source": "Government of British Columbia",
+   "title": "B.C. Flood Strategy - Province of British Columbia",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdjN5S3QwYm9sTDVISEE4Ti05UmxyQ0t3U1VfMzZpRHNrdFNXYkZTdEdCYlBFQjNBc3EtbWgyTmdjcUJKdExldlJHeFNnbElUdko0ZnF1Tm1pUXRrdXowbGJ6Q1dISFBTY1Rlb0hrMVdsM2Y1VDM3V0VhUWVRZHZ4U0RRVzZUd3dEcEZRa1NiNW1QTHlpRGRScEJrUHNxSlcxcmRmWVNEOVhKNVdjUnE2Q0steXRNR2drYTB2RzVSb1FiNTZOMzZoRFljWW13b3BpZkhpZ09yV3BwclJ1NnlwY2ZB?oc=5",
+   "date": "2026-07-13"
+  },
+  {
+   "cat": "media",
    "source": "BC Gov News",
    "title": "Work underway on three conservation planning projects",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBON1luUVFHOG04d2tnUVBTZDZRenFkX0szRHpFbF90aWhqN2FnN2xfUXBrdlJqVmVnMHhFRHlBeTYzbTRKRV9SNFpWTU4zQWduUVRNekJVWkVTNUp3OExxOQ?oc=5",
@@ -136,25 +143,18 @@
    "date": "2026-06-01"
   },
   {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Metro Vancouver Regional District to implement Stage 3 water restrictions",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeG8wQ0Y1UF9mZDJtYkd6XzFQUDRqNGNDRDE4X3hPY0dGNjVwRXd5THBveGhEeVZIVXNuTTNxZ3RMNkVaT3ZyQWhOT0dmQmx2amhRdUI5OFpHRzVUWUNaVVp0M1htMVA5VnRYUTZEVHZrSTB1aEEzQnVCUlRyc095SnJhWGMzRzhmc2laNnhxVWk2TGNUdWNoZWtMRE1abnBiQnc?oc=5",
+   "date": "2026-06-01"
+  },
+  {
    "cat": "codeblue",
    "source": "CodeBlue BC",
    "date": "2026-04-21",
    "title": "Small, Warty, and Remarkable: The Western Toad — Five Facts",
    "url": "https://www.codebluebc.ca/western-toad"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "Average B.C. snowpack of 92% masks 'strong regional divide,' says provincial bulletin",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWZrRWdiQ18yX3lyemo5MmFWRjhManptSmFPcWtmZzRVOHA4RjVEUm95Mk1STElzakJ2OXlZTE9VamR1amExdlR4TGtNanZWbDlTQmktcVJVdGlRM2ZnQWFnZTVsT244ZnFMMDc0cWRjaUNIeDktTmMtTmNUdjNfQU95Sm5UMmEya0VCWFBncEtsdw?oc=5",
-   "date": "2026-04-09"
-  },
-  {
-   "cat": "media",
-   "source": "The Weather Network",
-   "title": "Low snowpack in Interior B.C. sparks concerns for agriculture and wildfire risks",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbTBZOV9IUWNUUUZWYWxrbm9rRkdQOXhOdk94NEtSMTF4LTdsRjZ3blc0Nks5TmhHUUdmU0ZtbFltQXdkRkVrQmpTLVhaWmtiOFdZMXVuODNRcG5sZUxNNG1ydGptVnZyd2VMU1VYcmVzM2k5UE1qX0tEWlgtU1BwN1JsbzI2cm9VWEd0SnJvLUdHOGx0Mm1rck5uRFNIUGt2aHZhcjRlOFpDb0owd25fY1pFaGdEVE1vaHl0ZHZyWThCdlcwUE1wcjEybDNEcFlIZE9sWWE0XzBUUQ?oc=5",
-   "date": "2026-02-25"
   },
   {
    "cat": "codeblue",
