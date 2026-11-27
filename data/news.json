@@ -1,7 +1,14 @@
 {
- "updated": "2026-11-27T06:29:48.698Z",
+ "updated": "2026-11-27T12:26:00.917Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
+  {
+   "cat": "media",
+   "source": "The Weather Network",
+   "title": "Canada, is El Niño coming for your ski season?",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbGZnQ2VMaXZNMmFOcXFmZDRWVnAwX2Y4RWF6bnFMZ1F6c1JjYTEyUHhOQ01na05VOXRBWkZ5WnpXUkpNSjJ0MjN0MWU2TEl4ZlNDcmhwTmhlLUpYMy12dDdQbmV3X1A3bmFFMFNXajVubm54VWlxTmprN2RlY09xYTJKZ0MwQ0xtSkloNnNEVzBQc1BZNWdLdV82VS1pRHVwVUhfMHZB?oc=5",
+   "date": "2026-11-27"
+  },
   {
    "cat": "media",
    "source": "SnowBrains",
@@ -78,13 +85,6 @@
    "title": "Media Release: Sovereignty starts upstream: nine in ten British Columbians say fresh water is a matter of national security",
    "url": "https://watershedsecurity.ca/sovereignty-polling-september-2026/",
    "date": "2026-09-15"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "B.C. drought forces volunteers to rescue salmon from drying streams",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaTczZ3h3bzNGdG0yV18wQjJtMXpzWFo2d0Mwa0swcWhFcnBmNWZJcU5sZ19JbllQVXBfTkVhTnM4dk9ocHlPMDNuaS0yc21DV3BQWkNKNEJkaVVjcTB5NFFzdXdGam9MS2N4SlNFc0FwdGRPZHVKZlI2ZXBCR3BNdU9RbG5UVWM?oc=5",
-   "date": "2026-09-06"
   },
   {
    "cat": "coalition",
