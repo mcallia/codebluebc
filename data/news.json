@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T18:21:54.811Z",
+ "updated": "2026-11-28T00:37:48.036Z",
  "note": "Refreshed automatically by .github/workflows/refresh-news.yml",
  "items": [
   {
@@ -8,13 +8,6 @@
    "title": "Canada, is El Niño coming for your ski season?",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbGZnQ2VMaXZNMmFOcXFmZDRWVnAwX2Y4RWF6bnFMZ1F6c1JjYTEyUHhOQ01na05VOXRBWkZ5WnpXUkpNSjJ0MjN0MWU2TEl4ZlNDcmhwTmhlLUpYMy12dDdQbmV3X1A3bmFFMFNXajVubm54VWlxTmprN2RlY09xYTJKZ0MwQ0xtSkloNnNEVzBQc1BZNWdLdV82VS1pRHVwVUhfMHZB?oc=5",
    "date": "2026-11-27"
-  },
-  {
-   "cat": "media",
-   "source": "SnowBrains",
-   "title": "Big White, BC, Pushes Opening Day From November 26 to December 3",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYVZ1WUZEMWNqZXZUUm1Kd2lJTVhmSnB1X1dlOC1RTnhfVURJNlM1VGhIZ0c4WExWanBFTDJSelp1RGFmbTB0ZGJPUnlqRVk2NkxvX0hxVnE4a2EteFllNk1OdEFtcUlwejFaUDExbW5Gdzczdzc1ajBuSFZyZ2kzNXprcjB4YW1wOFRiZ1VuWQ?oc=5",
-   "date": "2026-11-24"
   },
   {
    "cat": "media",
@@ -134,6 +127,13 @@
    "title": "Snow conditions commentary - Province of British Columbia",
    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNV96VzgtS2p5ZVQ3T29qMldSVWYxSVlaRTRVNDlSMThJc1VJZXFyWkFFQ2hnOHVEQThEY3RJU0pWemtQZWh1QzZfWk55OXgzX0pkdzF4Tm05RERWamdQWDBkMnFlUmFvekdLaWJMbldSSXJUeDdDR2ZjRk1pTGJjV2w1bkVBVTFGNkdMcWZhVFR3Wmp2ckRZeUNSNnIzQkxFZ1Z0TkprSjduMHNmbEtGZmFzcjRURnNhZXRic29oRW5xaEZfMmdvLXNPQ2RMNDctRVBQSTVUMWdKMGZxRUNWUWVGY0Fna1diZU5KWElHMFR2bEEwWkNZUzlZZWsyRFdnRmkyWGYxOENmdw?oc=5",
    "date": "2026-06-01"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Vancouver Island's low snowpack likely to affect salmon populations: researchers",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd1o1QzhUN1UwWFRTMlZfTnB6TXBZSkJDVVRpYXIxRG5VeElWcHhJeUthcDJiLTNpU29vcTNQd1dBZ241OUVDRUp6aUltNUtqREZqMVpzTW9zY1NfTHVUNzh1RTZSUmhnZVp3eU43NGkzSm5zZms4MWtLN2l3N2ZJZm1TbWM5X0NNMVQ2dXRvc28?oc=5",
+   "date": "2026-04-22"
   },
   {
    "cat": "codeblue",
